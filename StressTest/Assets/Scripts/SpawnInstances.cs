@@ -18,7 +18,7 @@ public class SpawnInstances : MonoBehaviour
             SpawnData spawnData = data[i];
             for (int x = 0; x < spawnData.SpawnCount; x++)
             {
-                Instantiate(spawnData.Prefab, null);
+                Instantiate(spawnData.Prefab, transform.position, transform.rotation, null);
             }
         }
     }

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: SphereData
   m_EditorClassIdentifier: 
   prefab: {fileID: 6390993425136763337, guid: e0b89285dc896ff4da0ffa67c27af8b8, type: 3}
-  spawnCount: 10000
+  spawnCount: 2000
