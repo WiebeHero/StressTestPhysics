@@ -1,0 +1,4 @@
+Post processing - disable in scene, post processing volume, disable stuff.
+Project Settings - Antialising
+Plugins - disable them.
+Delete fancy sky
