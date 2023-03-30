@@ -6,6 +6,7 @@
 [sub_resource type="BoxMesh" id="BoxMesh_th1rj"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_gxwkr"]
+size = Vector3(1.59993, 1.96703, 2.16438)
 
 [sub_resource type="Animation" id="Animation_hyfhp"]
 resource_name = "Move"
@@ -147,6 +148,6 @@ libraries = {
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.75, 6.71, 0.224)
 script = ExtResource("1_hfe7v")
 squares = 500
-spheres = 500
+spheres = 1500
 
 [connection signal="animation_finished" from="Walls/AnimationPlayer" to="." method="_on_animation_player_animation_finished"]

@@ -26,12 +26,16 @@ func _process(delta):
 		save()
 		get_tree().quit()
 		return
-	totalData.append('Frame: ' + str(current) + ' Time since last: ' + str(delta) + '\n')
+	totalData.append(str(current) + ',' + str(delta) + '\n')
 	frameData.append(str(delta) + '\n')
 	current += 1
 
 func save():
-	var file = FileAccess.open("user://save_game.txt", FileAccess.WRITE)
+	var file1 = FileAccess.open("user://total_data.txt", FileAccess.WRITE)
 	for x in totalData:
-		file.store_string(x)
-	file = null
+		file1.store_string(x)
+	file1 = null
+	var file2 = FileAccess.open("user://frame_data.txt", FileAccess.WRITE)
+	for x in frameData:
+		file2.store_string(x)
+	file2 = null
