@@ -43,7 +43,7 @@ public class BoxSettings : MonoBehaviour
             rigid.isKinematic = false;
             rigid.detectCollisions = true;
         }
-        _animator.SetTrigger("MoveAndRotate");
+        //_animator.SetTrigger("MoveAndRotate");
     }
 
     void Update()

@@ -2,8 +2,8 @@ Frame: 0, Time since last: 0,02
 Frame: 1, Time since last: 0,02
 Frame: 2, Time since last: 0,3333333
 Frame: 3, Time since last: 0,3333333
-Frame: 4, Time since last: 0,3062476
-Frame: 5, Time since last: 0,2960052
+Frame: 4, Time since last: 0,3333333
+Frame: 5, Time since last: 0,3333333
 Frame: 6, Time since last: 0,3333333
 Frame: 7, Time since last: 0,3333333
 Frame: 8, Time since last: 0,3333333
@@ -18,15 +18,15 @@ Frame: 16, Time since last: 0,3333333
 Frame: 17, Time since last: 0,3333333
 Frame: 18, Time since last: 0,3333333
 Frame: 19, Time since last: 0,3333333
-
-
-
-
-
-
-
-
-
+Frame: 20, Time since last: 0,3333333
+Frame: 21, Time since last: 0,3333333
+Frame: 22, Time since last: 0,3333333
+Frame: 23, Time since last: 0,3333333
+Frame: 24, Time since last: 0,3333333
+Frame: 25, Time since last: 0,3333333
+Frame: 26, Time since last: 0,3333333
+Frame: 27, Time since last: 0,3333333
+Frame: 28, Time since last: 0,3333333
 
 
 
