@@ -1,2000 +1,2000 @@
-Frame: 0, Time since last: 0,02
-Frame: 1, Time since last: 0,02
-Frame: 2, Time since last: 0,3333333
-Frame: 3, Time since last: 0,3333333
-Frame: 4, Time since last: 0,3333333
-Frame: 5, Time since last: 0,2661073
-Frame: 6, Time since last: 0,3316259
-Frame: 7, Time since last: 0,3333333
-Frame: 8, Time since last: 0,3333333
-Frame: 9, Time since last: 0,3333333
-Frame: 10, Time since last: 0,3333333
-Frame: 11, Time since last: 0,3333333
-Frame: 12, Time since last: 0,3333333
-Frame: 13, Time since last: 0,3333333
-Frame: 14, Time since last: 0,3333333
-Frame: 15, Time since last: 0,3333333
-Frame: 16, Time since last: 0,3333333
-Frame: 17, Time since last: 0,3333333
-Frame: 18, Time since last: 0,3333333
-Frame: 19, Time since last: 0,3333333
-Frame: 20, Time since last: 0,3333333
-Frame: 21, Time since last: 0,3333333
-Frame: 22, Time since last: 0,3333333
-Frame: 23, Time since last: 0,3333333
-Frame: 24, Time since last: 0,3333333
-Frame: 25, Time since last: 0,3333333
-Frame: 26, Time since last: 0,3333333
-Frame: 27, Time since last: 0,3333333
-Frame: 28, Time since last: 0,3333333
-Frame: 29, Time since last: 0,3333333
-Frame: 30, Time since last: 0,3333333
-Frame: 31, Time since last: 0,3333333
-Frame: 32, Time since last: 0,3333333
-Frame: 33, Time since last: 0,3333333
-Frame: 34, Time since last: 0,3333333
-Frame: 35, Time since last: 0,3333333
-Frame: 36, Time since last: 0,3333333
-Frame: 37, Time since last: 0,3333333
-Frame: 38, Time since last: 0,3333333
-Frame: 39, Time since last: 0,3333333
-Frame: 40, Time since last: 0,3333333
-Frame: 41, Time since last: 0,3333333
-Frame: 42, Time since last: 0,3333333
-Frame: 43, Time since last: 0,3333333
-Frame: 44, Time since last: 0,3333333
-Frame: 45, Time since last: 0,3333333
-Frame: 46, Time since last: 0,3333333
-Frame: 47, Time since last: 0,3333333
-Frame: 48, Time since last: 0,3333333
-Frame: 49, Time since last: 0,3333333
-Frame: 50, Time since last: 0,3333333
-Frame: 51, Time since last: 0,3333333
-Frame: 52, Time since last: 0,3333333
-Frame: 53, Time since last: 0,3333333
-Frame: 54, Time since last: 0,3333333
-Frame: 55, Time since last: 0,3333333
-Frame: 56, Time since last: 0,3333333
-Frame: 57, Time since last: 0,3333333
-Frame: 58, Time since last: 0,3333333
-Frame: 59, Time since last: 0,3333333
-Frame: 60, Time since last: 0,3333333
-Frame: 61, Time since last: 0,3333333
-Frame: 62, Time since last: 0,3333333
-Frame: 63, Time since last: 0,3333333
-Frame: 64, Time since last: 0,3333333
-Frame: 65, Time since last: 0,3333333
-Frame: 66, Time since last: 0,3333333
-Frame: 67, Time since last: 0,3333333
-Frame: 68, Time since last: 0,3333333
-Frame: 69, Time since last: 0,3333333
-Frame: 70, Time since last: 0,3333333
-Frame: 71, Time since last: 0,3333333
-Frame: 72, Time since last: 0,3333333
-Frame: 73, Time since last: 0,3333333
-Frame: 74, Time since last: 0,3333333
-Frame: 75, Time since last: 0,3333333
-Frame: 76, Time since last: 0,3333333
-Frame: 77, Time since last: 0,3333333
-Frame: 78, Time since last: 0,3333333
-Frame: 79, Time since last: 0,3333333
-Frame: 80, Time since last: 0,3333333
-Frame: 81, Time since last: 0,3333333
-Frame: 82, Time since last: 0,3333333
-Frame: 83, Time since last: 0,3333333
-Frame: 84, Time since last: 0,3333333
-Frame: 85, Time since last: 0,3333333
-Frame: 86, Time since last: 0,3333333
-Frame: 87, Time since last: 0,3333333
-Frame: 88, Time since last: 0,3333333
-Frame: 89, Time since last: 0,3333333
-Frame: 90, Time since last: 0,3333333
-Frame: 91, Time since last: 0,3333333
-Frame: 92, Time since last: 0,3333333
-Frame: 93, Time since last: 0,3333333
-Frame: 94, Time since last: 0,3333333
-Frame: 95, Time since last: 0,3333333
-Frame: 96, Time since last: 0,3333333
-Frame: 97, Time since last: 0,3333333
-Frame: 98, Time since last: 0,3333333
-Frame: 99, Time since last: 0,3333333
-Frame: 100, Time since last: 0,3333333
-Frame: 101, Time since last: 0,3333333
-Frame: 102, Time since last: 0,3333333
-Frame: 103, Time since last: 0,3333333
-Frame: 104, Time since last: 0,3333333
-Frame: 105, Time since last: 0,3333333
-Frame: 106, Time since last: 0,3333333
-Frame: 107, Time since last: 0,3333333
-Frame: 108, Time since last: 0,3333333
-Frame: 109, Time since last: 0,3333333
-Frame: 110, Time since last: 0,3333333
-Frame: 111, Time since last: 0,3333333
-Frame: 112, Time since last: 0,3333333
-Frame: 113, Time since last: 0,3333333
-Frame: 114, Time since last: 0,3333333
-Frame: 115, Time since last: 0,3333333
-Frame: 116, Time since last: 0,3333333
-Frame: 117, Time since last: 0,3333333
-Frame: 118, Time since last: 0,3333333
-Frame: 119, Time since last: 0,3333333
-Frame: 120, Time since last: 0,3333333
-Frame: 121, Time since last: 0,3333333
-Frame: 122, Time since last: 0,3333333
-Frame: 123, Time since last: 0,3333333
-Frame: 124, Time since last: 0,3333333
-Frame: 125, Time since last: 0,3333333
-Frame: 126, Time since last: 0,3333333
-Frame: 127, Time since last: 0,3333333
-Frame: 128, Time since last: 0,3333333
-Frame: 129, Time since last: 0,3333333
-Frame: 130, Time since last: 0,3333333
-Frame: 131, Time since last: 0,3333333
-Frame: 132, Time since last: 0,3333333
-Frame: 133, Time since last: 0,3333333
-Frame: 134, Time since last: 0,3333333
-Frame: 135, Time since last: 0,3333333
-Frame: 136, Time since last: 0,3333333
-Frame: 137, Time since last: 0,3333333
-Frame: 138, Time since last: 0,3333333
-Frame: 139, Time since last: 0,3333333
-Frame: 140, Time since last: 0,3333333
-Frame: 141, Time since last: 0,3333333
-Frame: 142, Time since last: 0,3333333
-Frame: 143, Time since last: 0,3333333
-Frame: 144, Time since last: 0,3333333
-Frame: 145, Time since last: 0,3333333
-Frame: 146, Time since last: 0,3333333
-Frame: 147, Time since last: 0,3333333
-Frame: 148, Time since last: 0,3333333
-Frame: 149, Time since last: 0,3333333
-Frame: 150, Time since last: 0,3333333
-Frame: 151, Time since last: 0,3333333
-Frame: 152, Time since last: 0,3333333
-Frame: 153, Time since last: 0,3333333
-Frame: 154, Time since last: 0,3333333
-Frame: 155, Time since last: 0,3333333
-Frame: 156, Time since last: 0,3333333
-Frame: 157, Time since last: 0,3333333
-Frame: 158, Time since last: 0,3333333
-Frame: 159, Time since last: 0,3333333
-Frame: 160, Time since last: 0,3298737
-Frame: 161, Time since last: 0,3333333
-Frame: 162, Time since last: 0,3333333
-Frame: 163, Time since last: 0,3333333
-Frame: 164, Time since last: 0,3333333
-Frame: 165, Time since last: 0,3333333
-Frame: 166, Time since last: 0,3333333
-Frame: 167, Time since last: 0,3333333
-Frame: 168, Time since last: 0,3333333
-Frame: 169, Time since last: 0,3333333
-Frame: 170, Time since last: 0,3333333
-Frame: 171, Time since last: 0,3333333
-Frame: 172, Time since last: 0,3333333
-Frame: 173, Time since last: 0,3333333
-Frame: 174, Time since last: 0,3333333
-Frame: 175, Time since last: 0,3333333
-Frame: 176, Time since last: 0,3333333
-Frame: 177, Time since last: 0,3333333
-Frame: 178, Time since last: 0,3333333
-Frame: 179, Time since last: 0,3333333
-Frame: 180, Time since last: 0,3333333
-Frame: 181, Time since last: 0,3333333
-Frame: 182, Time since last: 0,3333333
-Frame: 183, Time since last: 0,3333333
-Frame: 184, Time since last: 0,3333333
-Frame: 185, Time since last: 0,3333333
-Frame: 186, Time since last: 0,3333333
-Frame: 187, Time since last: 0,3333333
-Frame: 188, Time since last: 0,3333333
-Frame: 189, Time since last: 0,3333333
-Frame: 190, Time since last: 0,3333333
-Frame: 191, Time since last: 0,3333333
-Frame: 192, Time since last: 0,3333333
-Frame: 193, Time since last: 0,3333333
-Frame: 194, Time since last: 0,3333333
-Frame: 195, Time since last: 0,3333333
-Frame: 196, Time since last: 0,3333333
-Frame: 197, Time since last: 0,3333333
-Frame: 198, Time since last: 0,3333333
-Frame: 199, Time since last: 0,3333333
-Frame: 200, Time since last: 0,3333333
-Frame: 201, Time since last: 0,3333333
-Frame: 202, Time since last: 0,3333333
-Frame: 203, Time since last: 0,3333333
-Frame: 204, Time since last: 0,3333333
-Frame: 205, Time since last: 0,3333333
-Frame: 206, Time since last: 0,3333333
-Frame: 207, Time since last: 0,3333333
-Frame: 208, Time since last: 0,3333333
-Frame: 209, Time since last: 0,3333333
-Frame: 210, Time since last: 0,3333333
-Frame: 211, Time since last: 0,3333333
-Frame: 212, Time since last: 0,3333333
-Frame: 213, Time since last: 0,3333333
-Frame: 214, Time since last: 0,3333333
-Frame: 215, Time since last: 0,3333333
-Frame: 216, Time since last: 0,3333333
-Frame: 217, Time since last: 0,3333333
-Frame: 218, Time since last: 0,3333333
-Frame: 219, Time since last: 0,3333333
-Frame: 220, Time since last: 0,3333333
-Frame: 221, Time since last: 0,3333333
-Frame: 222, Time since last: 0,3333333
-Frame: 223, Time since last: 0,3333333
-Frame: 224, Time since last: 0,3333333
-Frame: 225, Time since last: 0,3333333
-Frame: 226, Time since last: 0,3333333
-Frame: 227, Time since last: 0,3333333
-Frame: 228, Time since last: 0,3333333
-Frame: 229, Time since last: 0,3333333
-Frame: 230, Time since last: 0,3333333
-Frame: 231, Time since last: 0,3333333
-Frame: 232, Time since last: 0,3333333
-Frame: 233, Time since last: 0,3333333
-Frame: 234, Time since last: 0,3333333
-Frame: 235, Time since last: 0,3333333
-Frame: 236, Time since last: 0,3333333
-Frame: 237, Time since last: 0,3333333
-Frame: 238, Time since last: 0,3333333
-Frame: 239, Time since last: 0,3333333
-Frame: 240, Time since last: 0,3333333
-Frame: 241, Time since last: 0,3333333
-Frame: 242, Time since last: 0,3333333
-Frame: 243, Time since last: 0,3333333
-Frame: 244, Time since last: 0,3333333
-Frame: 245, Time since last: 0,3333333
-Frame: 246, Time since last: 0,3333333
-Frame: 247, Time since last: 0,3333333
-Frame: 248, Time since last: 0,3333333
-Frame: 249, Time since last: 0,3333333
-Frame: 250, Time since last: 0,3333333
-Frame: 251, Time since last: 0,3333333
-Frame: 252, Time since last: 0,3333333
-Frame: 253, Time since last: 0,3333333
-Frame: 254, Time since last: 0,3333333
-Frame: 255, Time since last: 0,3333333
-Frame: 256, Time since last: 0,3333333
-Frame: 257, Time since last: 0,3333333
-Frame: 258, Time since last: 0,3333333
-Frame: 259, Time since last: 0,3333333
-Frame: 260, Time since last: 0,3333333
-Frame: 261, Time since last: 0,3333333
-Frame: 262, Time since last: 0,3333333
-Frame: 263, Time since last: 0,3333333
-Frame: 264, Time since last: 0,3333333
-Frame: 265, Time since last: 0,3333333
-Frame: 266, Time since last: 0,3333333
-Frame: 267, Time since last: 0,3333333
-Frame: 268, Time since last: 0,3333333
-Frame: 269, Time since last: 0,3333333
-Frame: 270, Time since last: 0,3333333
-Frame: 271, Time since last: 0,3333333
-Frame: 272, Time since last: 0,3333333
-Frame: 273, Time since last: 0,3333333
-Frame: 274, Time since last: 0,3333333
-Frame: 275, Time since last: 0,3333333
-Frame: 276, Time since last: 0,3333333
-Frame: 277, Time since last: 0,3333333
-Frame: 278, Time since last: 0,3333333
-Frame: 279, Time since last: 0,3333333
-Frame: 280, Time since last: 0,3333333
-Frame: 281, Time since last: 0,3333333
-Frame: 282, Time since last: 0,3333333
-Frame: 283, Time since last: 0,3333333
-Frame: 284, Time since last: 0,3333333
-Frame: 285, Time since last: 0,3333333
-Frame: 286, Time since last: 0,3333333
-Frame: 287, Time since last: 0,3333333
-Frame: 288, Time since last: 0,3333333
-Frame: 289, Time since last: 0,3333333
-Frame: 290, Time since last: 0,3333333
-Frame: 291, Time since last: 0,3333333
-Frame: 292, Time since last: 0,3333333
-Frame: 293, Time since last: 0,3333333
-Frame: 294, Time since last: 0,3333333
-Frame: 295, Time since last: 0,3333333
-Frame: 296, Time since last: 0,3333333
-Frame: 297, Time since last: 0,3333333
-Frame: 298, Time since last: 0,3333333
-Frame: 299, Time since last: 0,3333333
-Frame: 300, Time since last: 0,3333333
-Frame: 301, Time since last: 0,3333333
-Frame: 302, Time since last: 0,3333333
-Frame: 303, Time since last: 0,3333333
-Frame: 304, Time since last: 0,3333333
-Frame: 305, Time since last: 0,3333333
-Frame: 306, Time since last: 0,3333333
-Frame: 307, Time since last: 0,3333333
-Frame: 308, Time since last: 0,3333333
-Frame: 309, Time since last: 0,3333333
-Frame: 310, Time since last: 0,3333333
-Frame: 311, Time since last: 0,3333333
-Frame: 312, Time since last: 0,3333333
-Frame: 313, Time since last: 0,3333333
-Frame: 314, Time since last: 0,3333333
-Frame: 315, Time since last: 0,3333333
-Frame: 316, Time since last: 0,3333333
-Frame: 317, Time since last: 0,3333333
-Frame: 318, Time since last: 0,3333333
-Frame: 319, Time since last: 0,3333333
-Frame: 320, Time since last: 0,3333333
-Frame: 321, Time since last: 0,3333333
-Frame: 322, Time since last: 0,3333333
-Frame: 323, Time since last: 0,3333333
-Frame: 324, Time since last: 0,3333333
-Frame: 325, Time since last: 0,3333333
-Frame: 326, Time since last: 0,3333333
-Frame: 327, Time since last: 0,3333333
-Frame: 328, Time since last: 0,3333333
-Frame: 329, Time since last: 0,3333333
-Frame: 330, Time since last: 0,3333333
-Frame: 331, Time since last: 0,3333333
-Frame: 332, Time since last: 0,3333333
-Frame: 333, Time since last: 0,3333333
-Frame: 334, Time since last: 0,3333333
-Frame: 335, Time since last: 0,3333333
-Frame: 336, Time since last: 0,3333333
-Frame: 337, Time since last: 0,3333333
-Frame: 338, Time since last: 0,3333333
-Frame: 339, Time since last: 0,3333333
-Frame: 340, Time since last: 0,3333333
-Frame: 341, Time since last: 0,3204981
-Frame: 342, Time since last: 0,3333333
-Frame: 343, Time since last: 0,3333333
-Frame: 344, Time since last: 0,3333333
-Frame: 345, Time since last: 0,3333333
-Frame: 346, Time since last: 0,3333333
-Frame: 347, Time since last: 0,3333333
-Frame: 348, Time since last: 0,3333333
-Frame: 349, Time since last: 0,3333333
-Frame: 350, Time since last: 0,3333333
-Frame: 351, Time since last: 0,3333333
-Frame: 352, Time since last: 0,3333333
-Frame: 353, Time since last: 0,3333333
-Frame: 354, Time since last: 0,3333333
-Frame: 355, Time since last: 0,3333333
-Frame: 356, Time since last: 0,3333333
-Frame: 357, Time since last: 0,3333333
-Frame: 358, Time since last: 0,3333333
-Frame: 359, Time since last: 0,3333333
-Frame: 360, Time since last: 0,3333333
-Frame: 361, Time since last: 0,3333333
-Frame: 362, Time since last: 0,3333333
-Frame: 363, Time since last: 0,3333333
-Frame: 364, Time since last: 0,3333333
-Frame: 365, Time since last: 0,3333333
-Frame: 366, Time since last: 0,3333333
-Frame: 367, Time since last: 0,3333333
-Frame: 368, Time since last: 0,3333333
-Frame: 369, Time since last: 0,3333333
-Frame: 370, Time since last: 0,3333333
-Frame: 371, Time since last: 0,3333333
-Frame: 372, Time since last: 0,3333333
-Frame: 373, Time since last: 0,3333333
-Frame: 374, Time since last: 0,3333333
-Frame: 375, Time since last: 0,3333333
-Frame: 376, Time since last: 0,3333333
-Frame: 377, Time since last: 0,3333333
-Frame: 378, Time since last: 0,3333333
-Frame: 379, Time since last: 0,3333333
-Frame: 380, Time since last: 0,3333333
-Frame: 381, Time since last: 0,3333333
-Frame: 382, Time since last: 0,3333333
-Frame: 383, Time since last: 0,3333333
-Frame: 384, Time since last: 0,3333333
-Frame: 385, Time since last: 0,3333333
-Frame: 386, Time since last: 0,3333333
-Frame: 387, Time since last: 0,3333333
-Frame: 388, Time since last: 0,3333333
-Frame: 389, Time since last: 0,3333333
-Frame: 390, Time since last: 0,3333333
-Frame: 391, Time since last: 0,3333333
-Frame: 392, Time since last: 0,3333333
-Frame: 393, Time since last: 0,3333333
-Frame: 394, Time since last: 0,3333333
-Frame: 395, Time since last: 0,3333333
-Frame: 396, Time since last: 0,3333333
-Frame: 397, Time since last: 0,3333333
-Frame: 398, Time since last: 0,3333333
-Frame: 399, Time since last: 0,3333333
-Frame: 400, Time since last: 0,3333333
-Frame: 401, Time since last: 0,3333333
-Frame: 402, Time since last: 0,3333333
-Frame: 403, Time since last: 0,3333333
-Frame: 404, Time since last: 0,3333333
-Frame: 405, Time since last: 0,3333333
-Frame: 406, Time since last: 0,3333333
-Frame: 407, Time since last: 0,3333333
-Frame: 408, Time since last: 0,3333333
-Frame: 409, Time since last: 0,3333333
-Frame: 410, Time since last: 0,3333333
-Frame: 411, Time since last: 0,3333333
-Frame: 412, Time since last: 0,3333333
-Frame: 413, Time since last: 0,3333333
-Frame: 414, Time since last: 0,3333333
-Frame: 415, Time since last: 0,3333333
-Frame: 416, Time since last: 0,3333333
-Frame: 417, Time since last: 0,3333333
-Frame: 418, Time since last: 0,3333333
-Frame: 419, Time since last: 0,3333333
-Frame: 420, Time since last: 0,3333333
-Frame: 421, Time since last: 0,3333333
-Frame: 422, Time since last: 0,3333333
-Frame: 423, Time since last: 0,3333333
-Frame: 424, Time since last: 0,3333333
-Frame: 425, Time since last: 0,3333333
-Frame: 426, Time since last: 0,3333333
-Frame: 427, Time since last: 0,3333333
-Frame: 428, Time since last: 0,3333333
-Frame: 429, Time since last: 0,3333333
-Frame: 430, Time since last: 0,3333333
-Frame: 431, Time since last: 0,3333333
-Frame: 432, Time since last: 0,3333333
-Frame: 433, Time since last: 0,3333333
-Frame: 434, Time since last: 0,3333333
-Frame: 435, Time since last: 0,3333333
-Frame: 436, Time since last: 0,3333333
-Frame: 437, Time since last: 0,3333333
-Frame: 438, Time since last: 0,3333333
-Frame: 439, Time since last: 0,3333333
-Frame: 440, Time since last: 0,3333333
-Frame: 441, Time since last: 0,3333333
-Frame: 442, Time since last: 0,3333333
-Frame: 443, Time since last: 0,3333333
-Frame: 444, Time since last: 0,3333333
-Frame: 445, Time since last: 0,3333333
-Frame: 446, Time since last: 0,3333333
-Frame: 447, Time since last: 0,3333333
-Frame: 448, Time since last: 0,3333333
-Frame: 449, Time since last: 0,3333333
-Frame: 450, Time since last: 0,3333333
-Frame: 451, Time since last: 0,3333333
-Frame: 452, Time since last: 0,3333333
-Frame: 453, Time since last: 0,3333333
-Frame: 454, Time since last: 0,3333333
-Frame: 455, Time since last: 0,3333333
-Frame: 456, Time since last: 0,3333333
-Frame: 457, Time since last: 0,3333333
-Frame: 458, Time since last: 0,3333333
-Frame: 459, Time since last: 0,3333333
-Frame: 460, Time since last: 0,3333333
-Frame: 461, Time since last: 0,3333333
-Frame: 462, Time since last: 0,3333333
-Frame: 463, Time since last: 0,3333333
-Frame: 464, Time since last: 0,3333333
-Frame: 465, Time since last: 0,3333333
-Frame: 466, Time since last: 0,3333333
-Frame: 467, Time since last: 0,3333333
-Frame: 468, Time since last: 0,3333333
-Frame: 469, Time since last: 0,3333333
-Frame: 470, Time since last: 0,3333333
-Frame: 471, Time since last: 0,3333333
-Frame: 472, Time since last: 0,3333333
-Frame: 473, Time since last: 0,3333333
-Frame: 474, Time since last: 0,3333333
-Frame: 475, Time since last: 0,3333333
-Frame: 476, Time since last: 0,3333333
-Frame: 477, Time since last: 0,3333333
-Frame: 478, Time since last: 0,3333333
-Frame: 479, Time since last: 0,3333333
-Frame: 480, Time since last: 0,3333333
-Frame: 481, Time since last: 0,3333333
-Frame: 482, Time since last: 0,3333333
-Frame: 483, Time since last: 0,3333333
-Frame: 484, Time since last: 0,3333333
-Frame: 485, Time since last: 0,3333333
-Frame: 486, Time since last: 0,3321672
-Frame: 487, Time since last: 0,3333333
-Frame: 488, Time since last: 0,3333333
-Frame: 489, Time since last: 0,3333333
-Frame: 490, Time since last: 0,3333333
-Frame: 491, Time since last: 0,3333333
-Frame: 492, Time since last: 0,3333333
-Frame: 493, Time since last: 0,3333333
-Frame: 494, Time since last: 0,3333333
-Frame: 495, Time since last: 0,3333333
-Frame: 496, Time since last: 0,3333333
-Frame: 497, Time since last: 0,3333333
-Frame: 498, Time since last: 0,3333333
-Frame: 499, Time since last: 0,3333333
-Frame: 500, Time since last: 0,3333333
-Frame: 501, Time since last: 0,3333333
-Frame: 502, Time since last: 0,3333333
-Frame: 503, Time since last: 0,3333333
-Frame: 504, Time since last: 0,3082168
-Frame: 505, Time since last: 0,3333333
-Frame: 506, Time since last: 0,3333333
-Frame: 507, Time since last: 0,3333333
-Frame: 508, Time since last: 0,3333333
-Frame: 509, Time since last: 0,3333333
-Frame: 510, Time since last: 0,3333333
-Frame: 511, Time since last: 0,3333333
-Frame: 512, Time since last: 0,3333333
-Frame: 513, Time since last: 0,3333333
-Frame: 514, Time since last: 0,3333333
-Frame: 515, Time since last: 0,3333333
-Frame: 516, Time since last: 0,3333333
-Frame: 517, Time since last: 0,3333333
-Frame: 518, Time since last: 0,3333333
-Frame: 519, Time since last: 0,3333333
-Frame: 520, Time since last: 0,3333333
-Frame: 521, Time since last: 0,3333333
-Frame: 522, Time since last: 0,3333333
-Frame: 523, Time since last: 0,3333333
-Frame: 524, Time since last: 0,3333333
-Frame: 525, Time since last: 0,3333333
-Frame: 526, Time since last: 0,3333333
-Frame: 527, Time since last: 0,3333333
-Frame: 528, Time since last: 0,3333333
-Frame: 529, Time since last: 0,3333333
-Frame: 530, Time since last: 0,3333333
-Frame: 531, Time since last: 0,3333333
-Frame: 532, Time since last: 0,3333333
-Frame: 533, Time since last: 0,3333333
-Frame: 534, Time since last: 0,3333333
-Frame: 535, Time since last: 0,3333333
-Frame: 536, Time since last: 0,3333333
-Frame: 537, Time since last: 0,3333333
-Frame: 538, Time since last: 0,3333333
-Frame: 539, Time since last: 0,3333333
-Frame: 540, Time since last: 0,3333333
-Frame: 541, Time since last: 0,3333333
-Frame: 542, Time since last: 0,3333333
-Frame: 543, Time since last: 0,3333333
-Frame: 544, Time since last: 0,3333333
-Frame: 545, Time since last: 0,3333333
-Frame: 546, Time since last: 0,3333333
-Frame: 547, Time since last: 0,3333333
-Frame: 548, Time since last: 0,3333333
-Frame: 549, Time since last: 0,3333333
-Frame: 550, Time since last: 0,3333333
-Frame: 551, Time since last: 0,3333333
-Frame: 552, Time since last: 0,3333333
-Frame: 553, Time since last: 0,3333333
-Frame: 554, Time since last: 0,3333333
-Frame: 555, Time since last: 0,3333333
-Frame: 556, Time since last: 0,3333333
-Frame: 557, Time since last: 0,3333333
-Frame: 558, Time since last: 0,3333333
-Frame: 559, Time since last: 0,3333333
-Frame: 560, Time since last: 0,3333333
-Frame: 561, Time since last: 0,3333333
-Frame: 562, Time since last: 0,3333333
-Frame: 563, Time since last: 0,3333333
-Frame: 564, Time since last: 0,3333333
-Frame: 565, Time since last: 0,3333333
-Frame: 566, Time since last: 0,3333333
-Frame: 567, Time since last: 0,3333333
-Frame: 568, Time since last: 0,3333333
-Frame: 569, Time since last: 0,3333333
-Frame: 570, Time since last: 0,3333333
-Frame: 571, Time since last: 0,3333333
-Frame: 572, Time since last: 0,3333333
-Frame: 573, Time since last: 0,3333333
-Frame: 574, Time since last: 0,3333333
-Frame: 575, Time since last: 0,3333333
-Frame: 576, Time since last: 0,3333333
-Frame: 577, Time since last: 0,3333333
-Frame: 578, Time since last: 0,3333333
-Frame: 579, Time since last: 0,3333333
-Frame: 580, Time since last: 0,3333333
-Frame: 581, Time since last: 0,3333333
-Frame: 582, Time since last: 0,3333333
-Frame: 583, Time since last: 0,3333333
-Frame: 584, Time since last: 0,3333333
-Frame: 585, Time since last: 0,3333333
-Frame: 586, Time since last: 0,3333333
-Frame: 587, Time since last: 0,3333333
-Frame: 588, Time since last: 0,3333333
-Frame: 589, Time since last: 0,3333333
-Frame: 590, Time since last: 0,3333333
-Frame: 591, Time since last: 0,3333333
-Frame: 592, Time since last: 0,3333333
-Frame: 593, Time since last: 0,3333333
-Frame: 594, Time since last: 0,3333333
-Frame: 595, Time since last: 0,3333333
-Frame: 596, Time since last: 0,3333333
-Frame: 597, Time since last: 0,3333333
-Frame: 598, Time since last: 0,3333333
-Frame: 599, Time since last: 0,3333333
-Frame: 600, Time since last: 0,3333333
-Frame: 601, Time since last: 0,3333333
-Frame: 602, Time since last: 0,3333333
-Frame: 603, Time since last: 0,3333333
-Frame: 604, Time since last: 0,3333333
-Frame: 605, Time since last: 0,3333333
-Frame: 606, Time since last: 0,3333333
-Frame: 607, Time since last: 0,3333333
-Frame: 608, Time since last: 0,3333333
-Frame: 609, Time since last: 0,3333333
-Frame: 610, Time since last: 0,3333333
-Frame: 611, Time since last: 0,3333333
-Frame: 612, Time since last: 0,3333333
-Frame: 613, Time since last: 0,3333333
-Frame: 614, Time since last: 0,3333333
-Frame: 615, Time since last: 0,3333333
-Frame: 616, Time since last: 0,3333333
-Frame: 617, Time since last: 0,3333333
-Frame: 618, Time since last: 0,3333333
-Frame: 619, Time since last: 0,3333333
-Frame: 620, Time since last: 0,3333333
-Frame: 621, Time since last: 0,3333333
-Frame: 622, Time since last: 0,3333333
-Frame: 623, Time since last: 0,3333333
-Frame: 624, Time since last: 0,3333333
-Frame: 625, Time since last: 0,3333333
-Frame: 626, Time since last: 0,3333333
-Frame: 627, Time since last: 0,3333333
-Frame: 628, Time since last: 0,3333333
-Frame: 629, Time since last: 0,3333333
-Frame: 630, Time since last: 0,3333333
-Frame: 631, Time since last: 0,3333333
-Frame: 632, Time since last: 0,3333333
-Frame: 633, Time since last: 0,3333333
-Frame: 634, Time since last: 0,3333333
-Frame: 635, Time since last: 0,3333333
-Frame: 636, Time since last: 0,3333333
-Frame: 637, Time since last: 0,3333333
-Frame: 638, Time since last: 0,3333333
-Frame: 639, Time since last: 0,3333333
-Frame: 640, Time since last: 0,3333333
-Frame: 641, Time since last: 0,3333333
-Frame: 642, Time since last: 0,3333333
-Frame: 643, Time since last: 0,3333333
-Frame: 644, Time since last: 0,3333333
-Frame: 645, Time since last: 0,3333333
-Frame: 646, Time since last: 0,3333333
-Frame: 647, Time since last: 0,3333333
-Frame: 648, Time since last: 0,3333333
-Frame: 649, Time since last: 0,3333333
-Frame: 650, Time since last: 0,3333333
-Frame: 651, Time since last: 0,3333333
-Frame: 652, Time since last: 0,3333333
-Frame: 653, Time since last: 0,3333333
-Frame: 654, Time since last: 0,3333333
-Frame: 655, Time since last: 0,3333333
-Frame: 656, Time since last: 0,3333333
-Frame: 657, Time since last: 0,3333333
-Frame: 658, Time since last: 0,3333333
-Frame: 659, Time since last: 0,3333333
-Frame: 660, Time since last: 0,3333333
-Frame: 661, Time since last: 0,3333333
-Frame: 662, Time since last: 0,3333333
-Frame: 663, Time since last: 0,3333333
-Frame: 664, Time since last: 0,3333333
-Frame: 665, Time since last: 0,3333333
-Frame: 666, Time since last: 0,3333333
-Frame: 667, Time since last: 0,3333333
-Frame: 668, Time since last: 0,3333333
-Frame: 669, Time since last: 0,3333333
-Frame: 670, Time since last: 0,3333333
-Frame: 671, Time since last: 0,3333333
-Frame: 672, Time since last: 0,3333333
-Frame: 673, Time since last: 0,3333333
-Frame: 674, Time since last: 0,3333333
-Frame: 675, Time since last: 0,3333333
-Frame: 676, Time since last: 0,3333333
-Frame: 677, Time since last: 0,3333333
-Frame: 678, Time since last: 0,3333333
-Frame: 679, Time since last: 0,3333333
-Frame: 680, Time since last: 0,3333333
-Frame: 681, Time since last: 0,3333333
-Frame: 682, Time since last: 0,3333333
-Frame: 683, Time since last: 0,3333333
-Frame: 684, Time since last: 0,3333333
-Frame: 685, Time since last: 0,3333333
-Frame: 686, Time since last: 0,3333333
-Frame: 687, Time since last: 0,3333333
-Frame: 688, Time since last: 0,3333333
-Frame: 689, Time since last: 0,3333333
-Frame: 690, Time since last: 0,3333333
-Frame: 691, Time since last: 0,3333333
-Frame: 692, Time since last: 0,3333333
-Frame: 693, Time since last: 0,3333333
-Frame: 694, Time since last: 0,3333333
-Frame: 695, Time since last: 0,3333333
-Frame: 696, Time since last: 0,3333333
-Frame: 697, Time since last: 0,3333333
-Frame: 698, Time since last: 0,3333333
-Frame: 699, Time since last: 0,3333333
-Frame: 700, Time since last: 0,3333333
-Frame: 701, Time since last: 0,3333333
-Frame: 702, Time since last: 0,3333333
-Frame: 703, Time since last: 0,3329042
-Frame: 704, Time since last: 0,3333333
-Frame: 705, Time since last: 0,3333333
-Frame: 706, Time since last: 0,3333333
-Frame: 707, Time since last: 0,3333333
-Frame: 708, Time since last: 0,3333333
-Frame: 709, Time since last: 0,3333333
-Frame: 710, Time since last: 0,3333333
-Frame: 711, Time since last: 0,3333333
-Frame: 712, Time since last: 0,3333333
-Frame: 713, Time since last: 0,3333333
-Frame: 714, Time since last: 0,3333333
-Frame: 715, Time since last: 0,3333333
-Frame: 716, Time since last: 0,3333333
-Frame: 717, Time since last: 0,3333333
-Frame: 718, Time since last: 0,3333333
-Frame: 719, Time since last: 0,3333333
-Frame: 720, Time since last: 0,3333333
-Frame: 721, Time since last: 0,3333333
-Frame: 722, Time since last: 0,3333333
-Frame: 723, Time since last: 0,3333333
-Frame: 724, Time since last: 0,3333333
-Frame: 725, Time since last: 0,3333333
-Frame: 726, Time since last: 0,3333333
-Frame: 727, Time since last: 0,3333333
-Frame: 728, Time since last: 0,3333333
-Frame: 729, Time since last: 0,3333333
-Frame: 730, Time since last: 0,3333333
-Frame: 731, Time since last: 0,3333333
-Frame: 732, Time since last: 0,3333333
-Frame: 733, Time since last: 0,3333333
-Frame: 734, Time since last: 0,3333333
-Frame: 735, Time since last: 0,3333333
-Frame: 736, Time since last: 0,3333333
-Frame: 737, Time since last: 0,3333333
-Frame: 738, Time since last: 0,3333333
-Frame: 739, Time since last: 0,3333333
-Frame: 740, Time since last: 0,3333333
-Frame: 741, Time since last: 0,3333333
-Frame: 742, Time since last: 0,3333333
-Frame: 743, Time since last: 0,3333333
-Frame: 744, Time since last: 0,3333333
-Frame: 745, Time since last: 0,3333333
-Frame: 746, Time since last: 0,3333333
-Frame: 747, Time since last: 0,3333333
-Frame: 748, Time since last: 0,3333333
-Frame: 749, Time since last: 0,3333333
-Frame: 750, Time since last: 0,3333333
-Frame: 751, Time since last: 0,3333333
-Frame: 752, Time since last: 0,3333333
-Frame: 753, Time since last: 0,3333333
-Frame: 754, Time since last: 0,3333333
-Frame: 755, Time since last: 0,3333333
-Frame: 756, Time since last: 0,3333333
-Frame: 757, Time since last: 0,3333333
-Frame: 758, Time since last: 0,3333333
-Frame: 759, Time since last: 0,3333333
-Frame: 760, Time since last: 0,3333333
-Frame: 761, Time since last: 0,3333333
-Frame: 762, Time since last: 0,3333333
-Frame: 763, Time since last: 0,3333333
-Frame: 764, Time since last: 0,3333333
-Frame: 765, Time since last: 0,3333333
-Frame: 766, Time since last: 0,3333333
-Frame: 767, Time since last: 0,3333333
-Frame: 768, Time since last: 0,3333333
-Frame: 769, Time since last: 0,3333333
-Frame: 770, Time since last: 0,3333333
-Frame: 771, Time since last: 0,3333333
-Frame: 772, Time since last: 0,3333333
-Frame: 773, Time since last: 0,3333333
-Frame: 774, Time since last: 0,3333333
-Frame: 775, Time since last: 0,3333333
-Frame: 776, Time since last: 0,3333333
-Frame: 777, Time since last: 0,3333333
-Frame: 778, Time since last: 0,3333333
-Frame: 779, Time since last: 0,3333333
-Frame: 780, Time since last: 0,3333333
-Frame: 781, Time since last: 0,3333333
-Frame: 782, Time since last: 0,3333333
-Frame: 783, Time since last: 0,3333333
-Frame: 784, Time since last: 0,3333333
-Frame: 785, Time since last: 0,3333333
-Frame: 786, Time since last: 0,3333333
-Frame: 787, Time since last: 0,3333333
-Frame: 788, Time since last: 0,3333333
-Frame: 789, Time since last: 0,3333333
-Frame: 790, Time since last: 0,3333333
-Frame: 791, Time since last: 0,3333333
-Frame: 792, Time since last: 0,3333333
-Frame: 793, Time since last: 0,3333333
-Frame: 794, Time since last: 0,3333333
-Frame: 795, Time since last: 0,3333333
-Frame: 796, Time since last: 0,3333333
-Frame: 797, Time since last: 0,3333333
-Frame: 798, Time since last: 0,3333333
-Frame: 799, Time since last: 0,3333333
-Frame: 800, Time since last: 0,3333333
-Frame: 801, Time since last: 0,3333333
-Frame: 802, Time since last: 0,3333333
-Frame: 803, Time since last: 0,3333333
-Frame: 804, Time since last: 0,3333333
-Frame: 805, Time since last: 0,3333333
-Frame: 806, Time since last: 0,3333333
-Frame: 807, Time since last: 0,3333333
-Frame: 808, Time since last: 0,3333333
-Frame: 809, Time since last: 0,3333333
-Frame: 810, Time since last: 0,3333333
-Frame: 811, Time since last: 0,3333333
-Frame: 812, Time since last: 0,3333333
-Frame: 813, Time since last: 0,3333333
-Frame: 814, Time since last: 0,3333333
-Frame: 815, Time since last: 0,3333333
-Frame: 816, Time since last: 0,3333333
-Frame: 817, Time since last: 0,3333333
-Frame: 818, Time since last: 0,3333333
-Frame: 819, Time since last: 0,3333333
-Frame: 820, Time since last: 0,3333333
-Frame: 821, Time since last: 0,3333333
-Frame: 822, Time since last: 0,3333333
-Frame: 823, Time since last: 0,3333333
-Frame: 824, Time since last: 0,3333333
-Frame: 825, Time since last: 0,3333333
-Frame: 826, Time since last: 0,3333333
-Frame: 827, Time since last: 0,3333333
-Frame: 828, Time since last: 0,3333333
-Frame: 829, Time since last: 0,3333333
-Frame: 830, Time since last: 0,3219762
-Frame: 831, Time since last: 0,3333333
-Frame: 832, Time since last: 0,3333333
-Frame: 833, Time since last: 0,3333333
-Frame: 834, Time since last: 0,3333333
-Frame: 835, Time since last: 0,3333333
-Frame: 836, Time since last: 0,3333333
-Frame: 837, Time since last: 0,3333333
-Frame: 838, Time since last: 0,3333333
-Frame: 839, Time since last: 0,3333333
-Frame: 840, Time since last: 0,3333333
-Frame: 841, Time since last: 0,3333333
-Frame: 842, Time since last: 0,3333333
-Frame: 843, Time since last: 0,3333333
-Frame: 844, Time since last: 0,3333333
-Frame: 845, Time since last: 0,3333333
-Frame: 846, Time since last: 0,3333333
-Frame: 847, Time since last: 0,3333333
-Frame: 848, Time since last: 0,3329341
-Frame: 849, Time since last: 0,3333333
-Frame: 850, Time since last: 0,3333333
-Frame: 851, Time since last: 0,3333333
-Frame: 852, Time since last: 0,3333333
-Frame: 853, Time since last: 0,3333333
-Frame: 854, Time since last: 0,3333333
-Frame: 855, Time since last: 0,3333333
-Frame: 856, Time since last: 0,3333333
-Frame: 857, Time since last: 0,3333333
-Frame: 858, Time since last: 0,3333333
-Frame: 859, Time since last: 0,3333333
-Frame: 860, Time since last: 0,3333333
-Frame: 861, Time since last: 0,3333333
-Frame: 862, Time since last: 0,3333333
-Frame: 863, Time since last: 0,3333333
-Frame: 864, Time since last: 0,3333333
-Frame: 865, Time since last: 0,3333333
-Frame: 866, Time since last: 0,3261181
-Frame: 867, Time since last: 0,3333333
-Frame: 868, Time since last: 0,3333333
-Frame: 869, Time since last: 0,3333333
-Frame: 870, Time since last: 0,3333333
-Frame: 871, Time since last: 0,3333333
-Frame: 872, Time since last: 0,3333333
-Frame: 873, Time since last: 0,3333333
-Frame: 874, Time since last: 0,3333333
-Frame: 875, Time since last: 0,3333333
-Frame: 876, Time since last: 0,3333333
-Frame: 877, Time since last: 0,3333333
-Frame: 878, Time since last: 0,3333333
-Frame: 879, Time since last: 0,3333333
-Frame: 880, Time since last: 0,3333333
-Frame: 881, Time since last: 0,3333333
-Frame: 882, Time since last: 0,3333333
-Frame: 883, Time since last: 0,3333333
-Frame: 884, Time since last: 0,3181471
-Frame: 885, Time since last: 0,3333333
-Frame: 886, Time since last: 0,3333333
-Frame: 887, Time since last: 0,3333333
-Frame: 888, Time since last: 0,3333333
-Frame: 889, Time since last: 0,3333333
-Frame: 890, Time since last: 0,3333333
-Frame: 891, Time since last: 0,3333333
-Frame: 892, Time since last: 0,3333333
-Frame: 893, Time since last: 0,3333333
-Frame: 894, Time since last: 0,3333333
-Frame: 895, Time since last: 0,3333333
-Frame: 896, Time since last: 0,3333333
-Frame: 897, Time since last: 0,3333333
-Frame: 898, Time since last: 0,3333333
-Frame: 899, Time since last: 0,3333333
-Frame: 900, Time since last: 0,3333333
-Frame: 901, Time since last: 0,3333333
-Frame: 902, Time since last: 0,3333333
-Frame: 903, Time since last: 0,3333333
-Frame: 904, Time since last: 0,3333333
-Frame: 905, Time since last: 0,3333333
-Frame: 906, Time since last: 0,3333333
-Frame: 907, Time since last: 0,3333333
-Frame: 908, Time since last: 0,3333333
-Frame: 909, Time since last: 0,3333333
-Frame: 910, Time since last: 0,3333333
-Frame: 911, Time since last: 0,3333333
-Frame: 912, Time since last: 0,3333333
-Frame: 913, Time since last: 0,3333333
-Frame: 914, Time since last: 0,3333333
-Frame: 915, Time since last: 0,3333333
-Frame: 916, Time since last: 0,3333333
-Frame: 917, Time since last: 0,3333333
-Frame: 918, Time since last: 0,3333333
-Frame: 919, Time since last: 0,3333333
-Frame: 920, Time since last: 0,3333333
-Frame: 921, Time since last: 0,3333333
-Frame: 922, Time since last: 0,3333333
-Frame: 923, Time since last: 0,3333333
-Frame: 924, Time since last: 0,3333333
-Frame: 925, Time since last: 0,3333333
-Frame: 926, Time since last: 0,3333333
-Frame: 927, Time since last: 0,3333333
-Frame: 928, Time since last: 0,3333333
-Frame: 929, Time since last: 0,3333333
-Frame: 930, Time since last: 0,3333333
-Frame: 931, Time since last: 0,3333333
-Frame: 932, Time since last: 0,3333333
-Frame: 933, Time since last: 0,3333333
-Frame: 934, Time since last: 0,3333333
-Frame: 935, Time since last: 0,3333333
-Frame: 936, Time since last: 0,3333333
-Frame: 937, Time since last: 0,3333333
-Frame: 938, Time since last: 0,3333333
-Frame: 939, Time since last: 0,3333333
-Frame: 940, Time since last: 0,3333333
-Frame: 941, Time since last: 0,3333333
-Frame: 942, Time since last: 0,3333333
-Frame: 943, Time since last: 0,3333333
-Frame: 944, Time since last: 0,3333333
-Frame: 945, Time since last: 0,3333333
-Frame: 946, Time since last: 0,3333333
-Frame: 947, Time since last: 0,3333333
-Frame: 948, Time since last: 0,3333333
-Frame: 949, Time since last: 0,3333333
-Frame: 950, Time since last: 0,3333333
-Frame: 951, Time since last: 0,3333333
-Frame: 952, Time since last: 0,3333333
-Frame: 953, Time since last: 0,3333333
-Frame: 954, Time since last: 0,3333333
-Frame: 955, Time since last: 0,3333333
-Frame: 956, Time since last: 0,3333333
-Frame: 957, Time since last: 0,3333333
-Frame: 958, Time since last: 0,3333333
-Frame: 959, Time since last: 0,3333333
-Frame: 960, Time since last: 0,3333333
-Frame: 961, Time since last: 0,3333333
-Frame: 962, Time since last: 0,3333333
-Frame: 963, Time since last: 0,3333333
-Frame: 964, Time since last: 0,3333333
-Frame: 965, Time since last: 0,3333333
-Frame: 966, Time since last: 0,3333333
-Frame: 967, Time since last: 0,3333333
-Frame: 968, Time since last: 0,3333333
-Frame: 969, Time since last: 0,3333333
-Frame: 970, Time since last: 0,3333333
-Frame: 971, Time since last: 0,3333333
-Frame: 972, Time since last: 0,3333333
-Frame: 973, Time since last: 0,3333333
-Frame: 974, Time since last: 0,3333333
-Frame: 975, Time since last: 0,3333333
-Frame: 976, Time since last: 0,3333333
-Frame: 977, Time since last: 0,3333333
-Frame: 978, Time since last: 0,3333333
-Frame: 979, Time since last: 0,3333333
-Frame: 980, Time since last: 0,3333333
-Frame: 981, Time since last: 0,3333333
-Frame: 982, Time since last: 0,3333333
-Frame: 983, Time since last: 0,3333333
-Frame: 984, Time since last: 0,3333333
-Frame: 985, Time since last: 0,3333333
-Frame: 986, Time since last: 0,3333333
-Frame: 987, Time since last: 0,3333333
-Frame: 988, Time since last: 0,3333333
-Frame: 989, Time since last: 0,3333333
-Frame: 990, Time since last: 0,3333333
-Frame: 991, Time since last: 0,3333333
-Frame: 992, Time since last: 0,3333333
-Frame: 993, Time since last: 0,3213309
-Frame: 994, Time since last: 0,3333333
-Frame: 995, Time since last: 0,3333333
-Frame: 996, Time since last: 0,3333333
-Frame: 997, Time since last: 0,3333333
-Frame: 998, Time since last: 0,3333333
-Frame: 999, Time since last: 0,3333333
-Frame: 1000, Time since last: 0,3333333
-Frame: 1001, Time since last: 0,3333333
-Frame: 1002, Time since last: 0,3333333
-Frame: 1003, Time since last: 0,3333333
-Frame: 1004, Time since last: 0,3333333
-Frame: 1005, Time since last: 0,3333333
-Frame: 1006, Time since last: 0,3333333
-Frame: 1007, Time since last: 0,3333333
-Frame: 1008, Time since last: 0,3333333
-Frame: 1009, Time since last: 0,3333333
-Frame: 1010, Time since last: 0,3333333
-Frame: 1011, Time since last: 0,3307171
-Frame: 1012, Time since last: 0,3333333
-Frame: 1013, Time since last: 0,3333333
-Frame: 1014, Time since last: 0,3333333
-Frame: 1015, Time since last: 0,3333333
-Frame: 1016, Time since last: 0,3333333
-Frame: 1017, Time since last: 0,3333333
-Frame: 1018, Time since last: 0,3333333
-Frame: 1019, Time since last: 0,3333333
-Frame: 1020, Time since last: 0,3333333
-Frame: 1021, Time since last: 0,3333333
-Frame: 1022, Time since last: 0,3333333
-Frame: 1023, Time since last: 0,3333333
-Frame: 1024, Time since last: 0,3333333
-Frame: 1025, Time since last: 0,3333333
-Frame: 1026, Time since last: 0,3333333
-Frame: 1027, Time since last: 0,3333333
-Frame: 1028, Time since last: 0,3333333
-Frame: 1029, Time since last: 0,3096721
-Frame: 1030, Time since last: 0,3333333
-Frame: 1031, Time since last: 0,3333333
-Frame: 1032, Time since last: 0,3333333
-Frame: 1033, Time since last: 0,3333333
-Frame: 1034, Time since last: 0,3333333
-Frame: 1035, Time since last: 0,3333333
-Frame: 1036, Time since last: 0,3333333
-Frame: 1037, Time since last: 0,3333333
-Frame: 1038, Time since last: 0,3333333
-Frame: 1039, Time since last: 0,3333333
-Frame: 1040, Time since last: 0,3333333
-Frame: 1041, Time since last: 0,3333333
-Frame: 1042, Time since last: 0,3333333
-Frame: 1043, Time since last: 0,3333333
-Frame: 1044, Time since last: 0,3333333
-Frame: 1045, Time since last: 0,3333333
-Frame: 1046, Time since last: 0,3333333
-Frame: 1047, Time since last: 0,3076101
-Frame: 1048, Time since last: 0,3333333
-Frame: 1049, Time since last: 0,3333333
-Frame: 1050, Time since last: 0,3333333
-Frame: 1051, Time since last: 0,3333333
-Frame: 1052, Time since last: 0,3333333
-Frame: 1053, Time since last: 0,3333333
-Frame: 1054, Time since last: 0,3333333
-Frame: 1055, Time since last: 0,3333333
-Frame: 1056, Time since last: 0,3333333
-Frame: 1057, Time since last: 0,3333333
-Frame: 1058, Time since last: 0,3333333
-Frame: 1059, Time since last: 0,3333333
-Frame: 1060, Time since last: 0,3333333
-Frame: 1061, Time since last: 0,3333333
-Frame: 1062, Time since last: 0,3333333
-Frame: 1063, Time since last: 0,3333333
-Frame: 1064, Time since last: 0,3333333
-Frame: 1065, Time since last: 0,3333333
-Frame: 1066, Time since last: 0,3333333
-Frame: 1067, Time since last: 0,3333333
-Frame: 1068, Time since last: 0,3333333
-Frame: 1069, Time since last: 0,3333333
-Frame: 1070, Time since last: 0,3333333
-Frame: 1071, Time since last: 0,3333333
-Frame: 1072, Time since last: 0,3333333
-Frame: 1073, Time since last: 0,3333333
-Frame: 1074, Time since last: 0,3333333
-Frame: 1075, Time since last: 0,3333333
-Frame: 1076, Time since last: 0,3333333
-Frame: 1077, Time since last: 0,3333333
-Frame: 1078, Time since last: 0,3333333
-Frame: 1079, Time since last: 0,3333333
-Frame: 1080, Time since last: 0,3333333
-Frame: 1081, Time since last: 0,3333333
-Frame: 1082, Time since last: 0,3333333
-Frame: 1083, Time since last: 0,3333333
-Frame: 1084, Time since last: 0,3333333
-Frame: 1085, Time since last: 0,3333333
-Frame: 1086, Time since last: 0,3333333
-Frame: 1087, Time since last: 0,3333333
-Frame: 1088, Time since last: 0,3333333
-Frame: 1089, Time since last: 0,3333333
-Frame: 1090, Time since last: 0,3333333
-Frame: 1091, Time since last: 0,3333333
-Frame: 1092, Time since last: 0,3333333
-Frame: 1093, Time since last: 0,3333333
-Frame: 1094, Time since last: 0,3333333
-Frame: 1095, Time since last: 0,3333333
-Frame: 1096, Time since last: 0,3333333
-Frame: 1097, Time since last: 0,3333333
-Frame: 1098, Time since last: 0,3333333
-Frame: 1099, Time since last: 0,3333333
-Frame: 1100, Time since last: 0,3333333
-Frame: 1101, Time since last: 0,3333333
-Frame: 1102, Time since last: 0,3333333
-Frame: 1103, Time since last: 0,3333333
-Frame: 1104, Time since last: 0,3333333
-Frame: 1105, Time since last: 0,3333333
-Frame: 1106, Time since last: 0,3333333
-Frame: 1107, Time since last: 0,3333333
-Frame: 1108, Time since last: 0,3333333
-Frame: 1109, Time since last: 0,3333333
-Frame: 1110, Time since last: 0,3333333
-Frame: 1111, Time since last: 0,3333333
-Frame: 1112, Time since last: 0,3333333
-Frame: 1113, Time since last: 0,3333333
-Frame: 1114, Time since last: 0,3333333
-Frame: 1115, Time since last: 0,3333333
-Frame: 1116, Time since last: 0,3333333
-Frame: 1117, Time since last: 0,3333333
-Frame: 1118, Time since last: 0,3333333
-Frame: 1119, Time since last: 0,3333333
-Frame: 1120, Time since last: 0,3333333
-Frame: 1121, Time since last: 0,3333333
-Frame: 1122, Time since last: 0,3333333
-Frame: 1123, Time since last: 0,3333333
-Frame: 1124, Time since last: 0,3333333
-Frame: 1125, Time since last: 0,3333333
-Frame: 1126, Time since last: 0,3333333
-Frame: 1127, Time since last: 0,3333333
-Frame: 1128, Time since last: 0,3333333
-Frame: 1129, Time since last: 0,3333333
-Frame: 1130, Time since last: 0,3333333
-Frame: 1131, Time since last: 0,3333333
-Frame: 1132, Time since last: 0,3333333
-Frame: 1133, Time since last: 0,3333333
-Frame: 1134, Time since last: 0,3333333
-Frame: 1135, Time since last: 0,3333333
-Frame: 1136, Time since last: 0,3333333
-Frame: 1137, Time since last: 0,3333333
-Frame: 1138, Time since last: 0,3333333
-Frame: 1139, Time since last: 0,3333333
-Frame: 1140, Time since last: 0,3333333
-Frame: 1141, Time since last: 0,3333333
-Frame: 1142, Time since last: 0,3333333
-Frame: 1143, Time since last: 0,3333333
-Frame: 1144, Time since last: 0,3333333
-Frame: 1145, Time since last: 0,3333333
-Frame: 1146, Time since last: 0,3333333
-Frame: 1147, Time since last: 0,3333333
-Frame: 1148, Time since last: 0,3333333
-Frame: 1149, Time since last: 0,3333333
-Frame: 1150, Time since last: 0,3333333
-Frame: 1151, Time since last: 0,3333333
-Frame: 1152, Time since last: 0,3333333
-Frame: 1153, Time since last: 0,3333333
-Frame: 1154, Time since last: 0,3333333
-Frame: 1155, Time since last: 0,3333333
-Frame: 1156, Time since last: 0,3333333
-Frame: 1157, Time since last: 0,3333333
-Frame: 1158, Time since last: 0,3333333
-Frame: 1159, Time since last: 0,3333333
-Frame: 1160, Time since last: 0,3333333
-Frame: 1161, Time since last: 0,3333333
-Frame: 1162, Time since last: 0,3333333
-Frame: 1163, Time since last: 0,3333333
-Frame: 1164, Time since last: 0,3333333
-Frame: 1165, Time since last: 0,3333333
-Frame: 1166, Time since last: 0,3333333
-Frame: 1167, Time since last: 0,3333333
-Frame: 1168, Time since last: 0,3333333
-Frame: 1169, Time since last: 0,3333333
-Frame: 1170, Time since last: 0,3333333
-Frame: 1171, Time since last: 0,3333333
-Frame: 1172, Time since last: 0,3333333
-Frame: 1173, Time since last: 0,3333333
-Frame: 1174, Time since last: 0,321031
-Frame: 1175, Time since last: 0,3333333
-Frame: 1176, Time since last: 0,3333333
-Frame: 1177, Time since last: 0,3333333
-Frame: 1178, Time since last: 0,3333333
-Frame: 1179, Time since last: 0,3333333
-Frame: 1180, Time since last: 0,3333333
-Frame: 1181, Time since last: 0,3333333
-Frame: 1182, Time since last: 0,3333333
-Frame: 1183, Time since last: 0,3333333
-Frame: 1184, Time since last: 0,3333333
-Frame: 1185, Time since last: 0,3333333
-Frame: 1186, Time since last: 0,3333333
-Frame: 1187, Time since last: 0,3333333
-Frame: 1188, Time since last: 0,3333333
-Frame: 1189, Time since last: 0,3333333
-Frame: 1190, Time since last: 0,3333333
-Frame: 1191, Time since last: 0,3333333
-Frame: 1192, Time since last: 0,3293344
-Frame: 1193, Time since last: 0,3333333
-Frame: 1194, Time since last: 0,3333333
-Frame: 1195, Time since last: 0,3333333
-Frame: 1196, Time since last: 0,3333333
-Frame: 1197, Time since last: 0,3333333
-Frame: 1198, Time since last: 0,3333333
-Frame: 1199, Time since last: 0,3333333
-Frame: 1200, Time since last: 0,3333333
-Frame: 1201, Time since last: 0,3333333
-Frame: 1202, Time since last: 0,3333333
-Frame: 1203, Time since last: 0,3333333
-Frame: 1204, Time since last: 0,3333333
-Frame: 1205, Time since last: 0,3333333
-Frame: 1206, Time since last: 0,3333333
-Frame: 1207, Time since last: 0,3333333
-Frame: 1208, Time since last: 0,3333333
-Frame: 1209, Time since last: 0,3333333
-Frame: 1210, Time since last: 0,3328966
-Frame: 1211, Time since last: 0,3333333
-Frame: 1212, Time since last: 0,3333333
-Frame: 1213, Time since last: 0,3333333
-Frame: 1214, Time since last: 0,3333333
-Frame: 1215, Time since last: 0,3333333
-Frame: 1216, Time since last: 0,3333333
-Frame: 1217, Time since last: 0,3333333
-Frame: 1218, Time since last: 0,3333333
-Frame: 1219, Time since last: 0,3333333
-Frame: 1220, Time since last: 0,3333333
-Frame: 1221, Time since last: 0,3333333
-Frame: 1222, Time since last: 0,3333333
-Frame: 1223, Time since last: 0,3333333
-Frame: 1224, Time since last: 0,3333333
-Frame: 1225, Time since last: 0,3333333
-Frame: 1226, Time since last: 0,3333333
-Frame: 1227, Time since last: 0,3333333
-Frame: 1228, Time since last: 0,3333333
-Frame: 1229, Time since last: 0,3333333
-Frame: 1230, Time since last: 0,3333333
-Frame: 1231, Time since last: 0,3333333
-Frame: 1232, Time since last: 0,3333333
-Frame: 1233, Time since last: 0,3333333
-Frame: 1234, Time since last: 0,3333333
-Frame: 1235, Time since last: 0,3333333
-Frame: 1236, Time since last: 0,3333333
-Frame: 1237, Time since last: 0,3333333
-Frame: 1238, Time since last: 0,3333333
-Frame: 1239, Time since last: 0,3333333
-Frame: 1240, Time since last: 0,3333333
-Frame: 1241, Time since last: 0,3333333
-Frame: 1242, Time since last: 0,3333333
-Frame: 1243, Time since last: 0,3333333
-Frame: 1244, Time since last: 0,3333333
-Frame: 1245, Time since last: 0,3333333
-Frame: 1246, Time since last: 0,3333333
-Frame: 1247, Time since last: 0,3333333
-Frame: 1248, Time since last: 0,3333333
-Frame: 1249, Time since last: 0,3333333
-Frame: 1250, Time since last: 0,3333333
-Frame: 1251, Time since last: 0,3333333
-Frame: 1252, Time since last: 0,3333333
-Frame: 1253, Time since last: 0,3333333
-Frame: 1254, Time since last: 0,3333333
-Frame: 1255, Time since last: 0,3333333
-Frame: 1256, Time since last: 0,3333333
-Frame: 1257, Time since last: 0,3333333
-Frame: 1258, Time since last: 0,3333333
-Frame: 1259, Time since last: 0,3333333
-Frame: 1260, Time since last: 0,3333333
-Frame: 1261, Time since last: 0,3333333
-Frame: 1262, Time since last: 0,3333333
-Frame: 1263, Time since last: 0,3333333
-Frame: 1264, Time since last: 0,3333333
-Frame: 1265, Time since last: 0,3333333
-Frame: 1266, Time since last: 0,3333333
-Frame: 1267, Time since last: 0,3333333
-Frame: 1268, Time since last: 0,3333333
-Frame: 1269, Time since last: 0,3333333
-Frame: 1270, Time since last: 0,3333333
-Frame: 1271, Time since last: 0,3333333
-Frame: 1272, Time since last: 0,3333333
-Frame: 1273, Time since last: 0,3333333
-Frame: 1274, Time since last: 0,3333333
-Frame: 1275, Time since last: 0,3333333
-Frame: 1276, Time since last: 0,3333333
-Frame: 1277, Time since last: 0,3333333
-Frame: 1278, Time since last: 0,3333333
-Frame: 1279, Time since last: 0,3333333
-Frame: 1280, Time since last: 0,3333333
-Frame: 1281, Time since last: 0,3333333
-Frame: 1282, Time since last: 0,3333333
-Frame: 1283, Time since last: 0,3215235
-Frame: 1284, Time since last: 0,3333333
-Frame: 1285, Time since last: 0,3333333
-Frame: 1286, Time since last: 0,3333333
-Frame: 1287, Time since last: 0,3333333
-Frame: 1288, Time since last: 0,3333333
-Frame: 1289, Time since last: 0,3333333
-Frame: 1290, Time since last: 0,3333333
-Frame: 1291, Time since last: 0,3333333
-Frame: 1292, Time since last: 0,3333333
-Frame: 1293, Time since last: 0,3333333
-Frame: 1294, Time since last: 0,3333333
-Frame: 1295, Time since last: 0,3333333
-Frame: 1296, Time since last: 0,3333333
-Frame: 1297, Time since last: 0,3333333
-Frame: 1298, Time since last: 0,3333333
-Frame: 1299, Time since last: 0,3333333
-Frame: 1300, Time since last: 0,3333333
-Frame: 1301, Time since last: 0,3329394
-Frame: 1302, Time since last: 0,3333333
-Frame: 1303, Time since last: 0,3333333
-Frame: 1304, Time since last: 0,3333333
-Frame: 1305, Time since last: 0,3333333
-Frame: 1306, Time since last: 0,3333333
-Frame: 1307, Time since last: 0,3333333
-Frame: 1308, Time since last: 0,3333333
-Frame: 1309, Time since last: 0,3333333
-Frame: 1310, Time since last: 0,3333333
-Frame: 1311, Time since last: 0,3333333
-Frame: 1312, Time since last: 0,3333333
-Frame: 1313, Time since last: 0,3333333
-Frame: 1314, Time since last: 0,3333333
-Frame: 1315, Time since last: 0,3333333
-Frame: 1316, Time since last: 0,3333333
-Frame: 1317, Time since last: 0,3333333
-Frame: 1318, Time since last: 0,3333333
-Frame: 1319, Time since last: 0,3224615
-Frame: 1320, Time since last: 0,3333333
-Frame: 1321, Time since last: 0,3333333
-Frame: 1322, Time since last: 0,3333333
-Frame: 1323, Time since last: 0,3333333
-Frame: 1324, Time since last: 0,3333333
-Frame: 1325, Time since last: 0,3333333
-Frame: 1326, Time since last: 0,3333333
-Frame: 1327, Time since last: 0,3333333
-Frame: 1328, Time since last: 0,3333333
-Frame: 1329, Time since last: 0,3333333
-Frame: 1330, Time since last: 0,3333333
-Frame: 1331, Time since last: 0,3333333
-Frame: 1332, Time since last: 0,3333333
-Frame: 1333, Time since last: 0,3333333
-Frame: 1334, Time since last: 0,3333333
-Frame: 1335, Time since last: 0,3333333
-Frame: 1336, Time since last: 0,3333333
-Frame: 1337, Time since last: 0,3088163
-Frame: 1338, Time since last: 0,3333333
-Frame: 1339, Time since last: 0,3333333
-Frame: 1340, Time since last: 0,3333333
-Frame: 1341, Time since last: 0,3333333
-Frame: 1342, Time since last: 0,3333333
-Frame: 1343, Time since last: 0,3333333
-Frame: 1344, Time since last: 0,3333333
-Frame: 1345, Time since last: 0,3333333
-Frame: 1346, Time since last: 0,3333333
-Frame: 1347, Time since last: 0,3333333
-Frame: 1348, Time since last: 0,3333333
-Frame: 1349, Time since last: 0,3333333
-Frame: 1350, Time since last: 0,3333333
-Frame: 1351, Time since last: 0,3333333
-Frame: 1352, Time since last: 0,3333333
-Frame: 1353, Time since last: 0,3333333
-Frame: 1354, Time since last: 0,3333333
-Frame: 1355, Time since last: 0,3333333
-Frame: 1356, Time since last: 0,3333333
-Frame: 1357, Time since last: 0,3333333
-Frame: 1358, Time since last: 0,3333333
-Frame: 1359, Time since last: 0,3333333
-Frame: 1360, Time since last: 0,3333333
-Frame: 1361, Time since last: 0,3333333
-Frame: 1362, Time since last: 0,3333333
-Frame: 1363, Time since last: 0,3333333
-Frame: 1364, Time since last: 0,3333333
-Frame: 1365, Time since last: 0,3333333
-Frame: 1366, Time since last: 0,3333333
-Frame: 1367, Time since last: 0,3333333
-Frame: 1368, Time since last: 0,3333333
-Frame: 1369, Time since last: 0,3333333
-Frame: 1370, Time since last: 0,3333333
-Frame: 1371, Time since last: 0,3333333
-Frame: 1372, Time since last: 0,3333333
-Frame: 1373, Time since last: 0,3333333
-Frame: 1374, Time since last: 0,3333333
-Frame: 1375, Time since last: 0,3333333
-Frame: 1376, Time since last: 0,3333333
-Frame: 1377, Time since last: 0,3333333
-Frame: 1378, Time since last: 0,3333333
-Frame: 1379, Time since last: 0,3333333
-Frame: 1380, Time since last: 0,3333333
-Frame: 1381, Time since last: 0,3333333
-Frame: 1382, Time since last: 0,3333333
-Frame: 1383, Time since last: 0,3333333
-Frame: 1384, Time since last: 0,3333333
-Frame: 1385, Time since last: 0,3333333
-Frame: 1386, Time since last: 0,3333333
-Frame: 1387, Time since last: 0,3333333
-Frame: 1388, Time since last: 0,3333333
-Frame: 1389, Time since last: 0,3333333
-Frame: 1390, Time since last: 0,3333333
-Frame: 1391, Time since last: 0,3333333
-Frame: 1392, Time since last: 0,3333333
-Frame: 1393, Time since last: 0,3333333
-Frame: 1394, Time since last: 0,3333333
-Frame: 1395, Time since last: 0,3333333
-Frame: 1396, Time since last: 0,3333333
-Frame: 1397, Time since last: 0,3333333
-Frame: 1398, Time since last: 0,3333333
-Frame: 1399, Time since last: 0,3333333
-Frame: 1400, Time since last: 0,3333333
-Frame: 1401, Time since last: 0,3333333
-Frame: 1402, Time since last: 0,3333333
-Frame: 1403, Time since last: 0,3333333
-Frame: 1404, Time since last: 0,3333333
-Frame: 1405, Time since last: 0,3333333
-Frame: 1406, Time since last: 0,3333333
-Frame: 1407, Time since last: 0,3333333
-Frame: 1408, Time since last: 0,3333333
-Frame: 1409, Time since last: 0,3333333
-Frame: 1410, Time since last: 0,3333333
-Frame: 1411, Time since last: 0,3333333
-Frame: 1412, Time since last: 0,3333333
-Frame: 1413, Time since last: 0,3333333
-Frame: 1414, Time since last: 0,3333333
-Frame: 1415, Time since last: 0,3333333
-Frame: 1416, Time since last: 0,3333333
-Frame: 1417, Time since last: 0,3333333
-Frame: 1418, Time since last: 0,3333333
-Frame: 1419, Time since last: 0,3333333
-Frame: 1420, Time since last: 0,3333333
-Frame: 1421, Time since last: 0,3333333
-Frame: 1422, Time since last: 0,3333333
-Frame: 1423, Time since last: 0,3333333
-Frame: 1424, Time since last: 0,3333333
-Frame: 1425, Time since last: 0,3333333
-Frame: 1426, Time since last: 0,3333333
-Frame: 1427, Time since last: 0,3333333
-Frame: 1428, Time since last: 0,3333333
-Frame: 1429, Time since last: 0,3333333
-Frame: 1430, Time since last: 0,3333333
-Frame: 1431, Time since last: 0,3333333
-Frame: 1432, Time since last: 0,3333333
-Frame: 1433, Time since last: 0,3333333
-Frame: 1434, Time since last: 0,3333333
-Frame: 1435, Time since last: 0,3333333
-Frame: 1436, Time since last: 0,3333333
-Frame: 1437, Time since last: 0,3333333
-Frame: 1438, Time since last: 0,3333333
-Frame: 1439, Time since last: 0,3333333
-Frame: 1440, Time since last: 0,3333333
-Frame: 1441, Time since last: 0,3333333
-Frame: 1442, Time since last: 0,3333333
-Frame: 1443, Time since last: 0,3333333
-Frame: 1444, Time since last: 0,3333333
-Frame: 1445, Time since last: 0,3333333
-Frame: 1446, Time since last: 0,3233658
-Frame: 1447, Time since last: 0,3333333
-Frame: 1448, Time since last: 0,3333333
-Frame: 1449, Time since last: 0,3333333
-Frame: 1450, Time since last: 0,3333333
-Frame: 1451, Time since last: 0,3333333
-Frame: 1452, Time since last: 0,3333333
-Frame: 1453, Time since last: 0,3333333
-Frame: 1454, Time since last: 0,3333333
-Frame: 1455, Time since last: 0,3333333
-Frame: 1456, Time since last: 0,3333333
-Frame: 1457, Time since last: 0,3333333
-Frame: 1458, Time since last: 0,3333333
-Frame: 1459, Time since last: 0,3333333
-Frame: 1460, Time since last: 0,3333333
-Frame: 1461, Time since last: 0,3333333
-Frame: 1462, Time since last: 0,3333333
-Frame: 1463, Time since last: 0,3333333
-Frame: 1464, Time since last: 0,3098776
-Frame: 1465, Time since last: 0,3333333
-Frame: 1466, Time since last: 0,3333333
-Frame: 1467, Time since last: 0,3333333
-Frame: 1468, Time since last: 0,3333333
-Frame: 1469, Time since last: 0,3333333
-Frame: 1470, Time since last: 0,3333333
-Frame: 1471, Time since last: 0,3333333
-Frame: 1472, Time since last: 0,3333333
-Frame: 1473, Time since last: 0,3333333
-Frame: 1474, Time since last: 0,3333333
-Frame: 1475, Time since last: 0,3333333
-Frame: 1476, Time since last: 0,3333333
-Frame: 1477, Time since last: 0,3333333
-Frame: 1478, Time since last: 0,3333333
-Frame: 1479, Time since last: 0,3333333
-Frame: 1480, Time since last: 0,3333333
-Frame: 1481, Time since last: 0,3333333
-Frame: 1482, Time since last: 0,3333333
-Frame: 1483, Time since last: 0,3333333
-Frame: 1484, Time since last: 0,3333333
-Frame: 1485, Time since last: 0,3333333
-Frame: 1486, Time since last: 0,3333333
-Frame: 1487, Time since last: 0,3333333
-Frame: 1488, Time since last: 0,3333333
-Frame: 1489, Time since last: 0,3333333
-Frame: 1490, Time since last: 0,3333333
-Frame: 1491, Time since last: 0,3333333
-Frame: 1492, Time since last: 0,3333333
-Frame: 1493, Time since last: 0,3333333
-Frame: 1494, Time since last: 0,3333333
-Frame: 1495, Time since last: 0,3333333
-Frame: 1496, Time since last: 0,3333333
-Frame: 1497, Time since last: 0,3333333
-Frame: 1498, Time since last: 0,3333333
-Frame: 1499, Time since last: 0,3333333
-Frame: 1500, Time since last: 0,3333333
-Frame: 1501, Time since last: 0,3333333
-Frame: 1502, Time since last: 0,3333333
-Frame: 1503, Time since last: 0,3333333
-Frame: 1504, Time since last: 0,3333333
-Frame: 1505, Time since last: 0,3333333
-Frame: 1506, Time since last: 0,3333333
-Frame: 1507, Time since last: 0,3333333
-Frame: 1508, Time since last: 0,3333333
-Frame: 1509, Time since last: 0,3333333
-Frame: 1510, Time since last: 0,3333333
-Frame: 1511, Time since last: 0,3333333
-Frame: 1512, Time since last: 0,3333333
-Frame: 1513, Time since last: 0,3333333
-Frame: 1514, Time since last: 0,3333333
-Frame: 1515, Time since last: 0,3333333
-Frame: 1516, Time since last: 0,3333333
-Frame: 1517, Time since last: 0,3333333
-Frame: 1518, Time since last: 0,3333333
-Frame: 1519, Time since last: 0,3333333
-Frame: 1520, Time since last: 0,3333333
-Frame: 1521, Time since last: 0,3333333
-Frame: 1522, Time since last: 0,3333333
-Frame: 1523, Time since last: 0,3333333
-Frame: 1524, Time since last: 0,3333333
-Frame: 1525, Time since last: 0,3333333
-Frame: 1526, Time since last: 0,3333333
-Frame: 1527, Time since last: 0,3333333
-Frame: 1528, Time since last: 0,3333333
-Frame: 1529, Time since last: 0,3333333
-Frame: 1530, Time since last: 0,3333333
-Frame: 1531, Time since last: 0,3333333
-Frame: 1532, Time since last: 0,3333333
-Frame: 1533, Time since last: 0,3333333
-Frame: 1534, Time since last: 0,3333333
-Frame: 1535, Time since last: 0,3333333
-Frame: 1536, Time since last: 0,3333333
-Frame: 1537, Time since last: 0,3333333
-Frame: 1538, Time since last: 0,3333333
-Frame: 1539, Time since last: 0,3333333
-Frame: 1540, Time since last: 0,3333333
-Frame: 1541, Time since last: 0,3333333
-Frame: 1542, Time since last: 0,3333333
-Frame: 1543, Time since last: 0,3333333
-Frame: 1544, Time since last: 0,3333333
-Frame: 1545, Time since last: 0,3333333
-Frame: 1546, Time since last: 0,3333333
-Frame: 1547, Time since last: 0,3333333
-Frame: 1548, Time since last: 0,3333333
-Frame: 1549, Time since last: 0,3333333
-Frame: 1550, Time since last: 0,3333333
-Frame: 1551, Time since last: 0,3333333
-Frame: 1552, Time since last: 0,3333333
-Frame: 1553, Time since last: 0,3333333
-Frame: 1554, Time since last: 0,3333333
-Frame: 1555, Time since last: 0,3322802
-Frame: 1556, Time since last: 0,3333333
-Frame: 1557, Time since last: 0,3333333
-Frame: 1558, Time since last: 0,3333333
-Frame: 1559, Time since last: 0,3333333
-Frame: 1560, Time since last: 0,3333333
-Frame: 1561, Time since last: 0,3333333
-Frame: 1562, Time since last: 0,3333333
-Frame: 1563, Time since last: 0,3333333
-Frame: 1564, Time since last: 0,3333333
-Frame: 1565, Time since last: 0,3333333
-Frame: 1566, Time since last: 0,3333333
-Frame: 1567, Time since last: 0,3333333
-Frame: 1568, Time since last: 0,3333333
-Frame: 1569, Time since last: 0,3333333
-Frame: 1570, Time since last: 0,3333333
-Frame: 1571, Time since last: 0,3333333
-Frame: 1572, Time since last: 0,3333333
-Frame: 1573, Time since last: 0,3179146
-Frame: 1574, Time since last: 0,3333333
-Frame: 1575, Time since last: 0,3333333
-Frame: 1576, Time since last: 0,3333333
-Frame: 1577, Time since last: 0,3333333
-Frame: 1578, Time since last: 0,3333333
-Frame: 1579, Time since last: 0,3333333
-Frame: 1580, Time since last: 0,3333333
-Frame: 1581, Time since last: 0,3333333
-Frame: 1582, Time since last: 0,3333333
-Frame: 1583, Time since last: 0,3333333
-Frame: 1584, Time since last: 0,3333333
-Frame: 1585, Time since last: 0,3333333
-Frame: 1586, Time since last: 0,3333333
-Frame: 1587, Time since last: 0,3333333
-Frame: 1588, Time since last: 0,3333333
-Frame: 1589, Time since last: 0,3333333
-Frame: 1590, Time since last: 0,3333333
-Frame: 1591, Time since last: 0,3065363
-Frame: 1592, Time since last: 0,3333333
-Frame: 1593, Time since last: 0,3333333
-Frame: 1594, Time since last: 0,3333333
-Frame: 1595, Time since last: 0,3333333
-Frame: 1596, Time since last: 0,3333333
-Frame: 1597, Time since last: 0,3333333
-Frame: 1598, Time since last: 0,3333333
-Frame: 1599, Time since last: 0,3333333
-Frame: 1600, Time since last: 0,3333333
-Frame: 1601, Time since last: 0,3333333
-Frame: 1602, Time since last: 0,3333333
-Frame: 1603, Time since last: 0,3333333
-Frame: 1604, Time since last: 0,3333333
-Frame: 1605, Time since last: 0,3333333
-Frame: 1606, Time since last: 0,3333333
-Frame: 1607, Time since last: 0,3333333
-Frame: 1608, Time since last: 0,3333333
-Frame: 1609, Time since last: 0,3333333
-Frame: 1610, Time since last: 0,3333333
-Frame: 1611, Time since last: 0,3333333
-Frame: 1612, Time since last: 0,3333333
-Frame: 1613, Time since last: 0,3333333
-Frame: 1614, Time since last: 0,3333333
-Frame: 1615, Time since last: 0,3333333
-Frame: 1616, Time since last: 0,3333333
-Frame: 1617, Time since last: 0,3333333
-Frame: 1618, Time since last: 0,3333333
-Frame: 1619, Time since last: 0,3333333
-Frame: 1620, Time since last: 0,3333333
-Frame: 1621, Time since last: 0,3333333
-Frame: 1622, Time since last: 0,3333333
-Frame: 1623, Time since last: 0,3333333
-Frame: 1624, Time since last: 0,3333333
-Frame: 1625, Time since last: 0,3333333
-Frame: 1626, Time since last: 0,3333333
-Frame: 1627, Time since last: 0,3333333
-Frame: 1628, Time since last: 0,3333333
-Frame: 1629, Time since last: 0,3333333
-Frame: 1630, Time since last: 0,3333333
-Frame: 1631, Time since last: 0,3333333
-Frame: 1632, Time since last: 0,3333333
-Frame: 1633, Time since last: 0,3333333
-Frame: 1634, Time since last: 0,3333333
-Frame: 1635, Time since last: 0,3333333
-Frame: 1636, Time since last: 0,3333333
-Frame: 1637, Time since last: 0,3333333
-Frame: 1638, Time since last: 0,3333333
-Frame: 1639, Time since last: 0,3333333
-Frame: 1640, Time since last: 0,3333333
-Frame: 1641, Time since last: 0,3333333
-Frame: 1642, Time since last: 0,3333333
-Frame: 1643, Time since last: 0,3333333
-Frame: 1644, Time since last: 0,3333333
-Frame: 1645, Time since last: 0,3333333
-Frame: 1646, Time since last: 0,3333333
-Frame: 1647, Time since last: 0,3333333
-Frame: 1648, Time since last: 0,3333333
-Frame: 1649, Time since last: 0,3333333
-Frame: 1650, Time since last: 0,3333333
-Frame: 1651, Time since last: 0,3333333
-Frame: 1652, Time since last: 0,3333333
-Frame: 1653, Time since last: 0,3333333
-Frame: 1654, Time since last: 0,3333333
-Frame: 1655, Time since last: 0,3333333
-Frame: 1656, Time since last: 0,3333333
-Frame: 1657, Time since last: 0,3333333
-Frame: 1658, Time since last: 0,3333333
-Frame: 1659, Time since last: 0,3333333
-Frame: 1660, Time since last: 0,3333333
-Frame: 1661, Time since last: 0,3333333
-Frame: 1662, Time since last: 0,3333333
-Frame: 1663, Time since last: 0,3333333
-Frame: 1664, Time since last: 0,3333333
-Frame: 1665, Time since last: 0,3333333
-Frame: 1666, Time since last: 0,3333333
-Frame: 1667, Time since last: 0,3333333
-Frame: 1668, Time since last: 0,3333333
-Frame: 1669, Time since last: 0,3333333
-Frame: 1670, Time since last: 0,3333333
-Frame: 1671, Time since last: 0,3333333
-Frame: 1672, Time since last: 0,3333333
-Frame: 1673, Time since last: 0,3333333
-Frame: 1674, Time since last: 0,3333333
-Frame: 1675, Time since last: 0,3333333
-Frame: 1676, Time since last: 0,3333333
-Frame: 1677, Time since last: 0,3333333
-Frame: 1678, Time since last: 0,3333333
-Frame: 1679, Time since last: 0,3333333
-Frame: 1680, Time since last: 0,3333333
-Frame: 1681, Time since last: 0,3333333
-Frame: 1682, Time since last: 0,3199857
-Frame: 1683, Time since last: 0,3333333
-Frame: 1684, Time since last: 0,3333333
-Frame: 1685, Time since last: 0,3333333
-Frame: 1686, Time since last: 0,3333333
-Frame: 1687, Time since last: 0,3333333
-Frame: 1688, Time since last: 0,3333333
-Frame: 1689, Time since last: 0,3333333
-Frame: 1690, Time since last: 0,3333333
-Frame: 1691, Time since last: 0,3333333
-Frame: 1692, Time since last: 0,3333333
-Frame: 1693, Time since last: 0,3333333
-Frame: 1694, Time since last: 0,3333333
-Frame: 1695, Time since last: 0,3333333
-Frame: 1696, Time since last: 0,3333333
-Frame: 1697, Time since last: 0,3333333
-Frame: 1698, Time since last: 0,3333333
-Frame: 1699, Time since last: 0,3333333
-Frame: 1700, Time since last: 0,3214504
-Frame: 1701, Time since last: 0,3333333
-Frame: 1702, Time since last: 0,3333333
-Frame: 1703, Time since last: 0,3333333
-Frame: 1704, Time since last: 0,3333333
-Frame: 1705, Time since last: 0,3333333
-Frame: 1706, Time since last: 0,3333333
-Frame: 1707, Time since last: 0,3333333
-Frame: 1708, Time since last: 0,3333333
-Frame: 1709, Time since last: 0,3333333
-Frame: 1710, Time since last: 0,3333333
-Frame: 1711, Time since last: 0,3333333
-Frame: 1712, Time since last: 0,3333333
-Frame: 1713, Time since last: 0,3333333
-Frame: 1714, Time since last: 0,3333333
-Frame: 1715, Time since last: 0,3333333
-Frame: 1716, Time since last: 0,3333333
-Frame: 1717, Time since last: 0,3333333
-Frame: 1718, Time since last: 0,3329522
-Frame: 1719, Time since last: 0,3333333
-Frame: 1720, Time since last: 0,3333333
-Frame: 1721, Time since last: 0,3333333
-Frame: 1722, Time since last: 0,3333333
-Frame: 1723, Time since last: 0,3333333
-Frame: 1724, Time since last: 0,3333333
-Frame: 1725, Time since last: 0,3333333
-Frame: 1726, Time since last: 0,3333333
-Frame: 1727, Time since last: 0,3333333
-Frame: 1728, Time since last: 0,3333333
-Frame: 1729, Time since last: 0,3333333
-Frame: 1730, Time since last: 0,3333333
-Frame: 1731, Time since last: 0,3333333
-Frame: 1732, Time since last: 0,3333333
-Frame: 1733, Time since last: 0,3333333
-Frame: 1734, Time since last: 0,3333333
-Frame: 1735, Time since last: 0,3333333
-Frame: 1736, Time since last: 0,3333333
-Frame: 1737, Time since last: 0,3333333
-Frame: 1738, Time since last: 0,3333333
-Frame: 1739, Time since last: 0,3333333
-Frame: 1740, Time since last: 0,3333333
-Frame: 1741, Time since last: 0,3333333
-Frame: 1742, Time since last: 0,3333333
-Frame: 1743, Time since last: 0,3333333
-Frame: 1744, Time since last: 0,3333333
-Frame: 1745, Time since last: 0,3333333
-Frame: 1746, Time since last: 0,3333333
-Frame: 1747, Time since last: 0,3333333
-Frame: 1748, Time since last: 0,3333333
-Frame: 1749, Time since last: 0,3333333
-Frame: 1750, Time since last: 0,3333333
-Frame: 1751, Time since last: 0,3333333
-Frame: 1752, Time since last: 0,3333333
-Frame: 1753, Time since last: 0,3333333
-Frame: 1754, Time since last: 0,3333333
-Frame: 1755, Time since last: 0,3333333
-Frame: 1756, Time since last: 0,3333333
-Frame: 1757, Time since last: 0,3333333
-Frame: 1758, Time since last: 0,3333333
-Frame: 1759, Time since last: 0,3333333
-Frame: 1760, Time since last: 0,3333333
-Frame: 1761, Time since last: 0,3333333
-Frame: 1762, Time since last: 0,3333333
-Frame: 1763, Time since last: 0,3333333
-Frame: 1764, Time since last: 0,3333333
-Frame: 1765, Time since last: 0,3333333
-Frame: 1766, Time since last: 0,3333333
-Frame: 1767, Time since last: 0,3333333
-Frame: 1768, Time since last: 0,3333333
-Frame: 1769, Time since last: 0,3333333
-Frame: 1770, Time since last: 0,3333333
-Frame: 1771, Time since last: 0,3333333
-Frame: 1772, Time since last: 0,3333333
-Frame: 1773, Time since last: 0,3333333
-Frame: 1774, Time since last: 0,3333333
-Frame: 1775, Time since last: 0,3333333
-Frame: 1776, Time since last: 0,3333333
-Frame: 1777, Time since last: 0,3333333
-Frame: 1778, Time since last: 0,3333333
-Frame: 1779, Time since last: 0,3333333
-Frame: 1780, Time since last: 0,3333333
-Frame: 1781, Time since last: 0,3333333
-Frame: 1782, Time since last: 0,3333333
-Frame: 1783, Time since last: 0,3333333
-Frame: 1784, Time since last: 0,3333333
-Frame: 1785, Time since last: 0,3333333
-Frame: 1786, Time since last: 0,3333333
-Frame: 1787, Time since last: 0,3333333
-Frame: 1788, Time since last: 0,3333333
-Frame: 1789, Time since last: 0,3333333
-Frame: 1790, Time since last: 0,3333333
-Frame: 1791, Time since last: 0,3333333
-Frame: 1792, Time since last: 0,3333333
-Frame: 1793, Time since last: 0,3333333
-Frame: 1794, Time since last: 0,3333333
-Frame: 1795, Time since last: 0,3333333
-Frame: 1796, Time since last: 0,3333333
-Frame: 1797, Time since last: 0,3333333
-Frame: 1798, Time since last: 0,3333333
-Frame: 1799, Time since last: 0,3333333
-Frame: 1800, Time since last: 0,3333333
-Frame: 1801, Time since last: 0,3333333
-Frame: 1802, Time since last: 0,3333333
-Frame: 1803, Time since last: 0,3333333
-Frame: 1804, Time since last: 0,3333333
-Frame: 1805, Time since last: 0,3333333
-Frame: 1806, Time since last: 0,3333333
-Frame: 1807, Time since last: 0,3333333
-Frame: 1808, Time since last: 0,3333333
-Frame: 1809, Time since last: 0,3333333
-Frame: 1810, Time since last: 0,3333333
-Frame: 1811, Time since last: 0,3333333
-Frame: 1812, Time since last: 0,3333333
-Frame: 1813, Time since last: 0,3333333
-Frame: 1814, Time since last: 0,3333333
-Frame: 1815, Time since last: 0,3333333
-Frame: 1816, Time since last: 0,3333333
-Frame: 1817, Time since last: 0,3333333
-Frame: 1818, Time since last: 0,3333333
-Frame: 1819, Time since last: 0,3333333
-Frame: 1820, Time since last: 0,3333333
-Frame: 1821, Time since last: 0,3333333
-Frame: 1822, Time since last: 0,3333333
-Frame: 1823, Time since last: 0,3333333
-Frame: 1824, Time since last: 0,3333333
-Frame: 1825, Time since last: 0,3333333
-Frame: 1826, Time since last: 0,3333333
-Frame: 1827, Time since last: 0,3333333
-Frame: 1828, Time since last: 0,3333333
-Frame: 1829, Time since last: 0,3333333
-Frame: 1830, Time since last: 0,3333333
-Frame: 1831, Time since last: 0,3333333
-Frame: 1832, Time since last: 0,3333333
-Frame: 1833, Time since last: 0,3333333
-Frame: 1834, Time since last: 0,3333333
-Frame: 1835, Time since last: 0,3333333
-Frame: 1836, Time since last: 0,3333333
-Frame: 1837, Time since last: 0,3333333
-Frame: 1838, Time since last: 0,3333333
-Frame: 1839, Time since last: 0,3333333
-Frame: 1840, Time since last: 0,3333333
-Frame: 1841, Time since last: 0,3333333
-Frame: 1842, Time since last: 0,3333333
-Frame: 1843, Time since last: 0,3333333
-Frame: 1844, Time since last: 0,3333333
-Frame: 1845, Time since last: 0,3201122
-Frame: 1846, Time since last: 0,3333333
-Frame: 1847, Time since last: 0,3333333
-Frame: 1848, Time since last: 0,3333333
-Frame: 1849, Time since last: 0,3333333
-Frame: 1850, Time since last: 0,3333333
-Frame: 1851, Time since last: 0,3333333
-Frame: 1852, Time since last: 0,3333333
-Frame: 1853, Time since last: 0,3333333
-Frame: 1854, Time since last: 0,3333333
-Frame: 1855, Time since last: 0,3333333
-Frame: 1856, Time since last: 0,3333333
-Frame: 1857, Time since last: 0,3333333
-Frame: 1858, Time since last: 0,3333333
-Frame: 1859, Time since last: 0,3333333
-Frame: 1860, Time since last: 0,3333333
-Frame: 1861, Time since last: 0,3333333
-Frame: 1862, Time since last: 0,3333333
-Frame: 1863, Time since last: 0,3262371
-Frame: 1864, Time since last: 0,3333333
-Frame: 1865, Time since last: 0,3333333
-Frame: 1866, Time since last: 0,3333333
-Frame: 1867, Time since last: 0,3333333
-Frame: 1868, Time since last: 0,3333333
-Frame: 1869, Time since last: 0,3333333
-Frame: 1870, Time since last: 0,3333333
-Frame: 1871, Time since last: 0,3333333
-Frame: 1872, Time since last: 0,3333333
-Frame: 1873, Time since last: 0,3333333
-Frame: 1874, Time since last: 0,3333333
-Frame: 1875, Time since last: 0,3333333
-Frame: 1876, Time since last: 0,3333333
-Frame: 1877, Time since last: 0,3333333
-Frame: 1878, Time since last: 0,3333333
-Frame: 1879, Time since last: 0,3333333
-Frame: 1880, Time since last: 0,3333333
-Frame: 1881, Time since last: 0,3333333
-Frame: 1882, Time since last: 0,3333333
-Frame: 1883, Time since last: 0,3333333
-Frame: 1884, Time since last: 0,3333333
-Frame: 1885, Time since last: 0,3333333
-Frame: 1886, Time since last: 0,3333333
-Frame: 1887, Time since last: 0,3333333
-Frame: 1888, Time since last: 0,3333333
-Frame: 1889, Time since last: 0,3333333
-Frame: 1890, Time since last: 0,3333333
-Frame: 1891, Time since last: 0,3333333
-Frame: 1892, Time since last: 0,3333333
-Frame: 1893, Time since last: 0,3333333
-Frame: 1894, Time since last: 0,3333333
-Frame: 1895, Time since last: 0,3333333
-Frame: 1896, Time since last: 0,3333333
-Frame: 1897, Time since last: 0,3333333
-Frame: 1898, Time since last: 0,3333333
-Frame: 1899, Time since last: 0,3333333
-Frame: 1900, Time since last: 0,3333333
-Frame: 1901, Time since last: 0,3333333
-Frame: 1902, Time since last: 0,3333333
-Frame: 1903, Time since last: 0,3333333
-Frame: 1904, Time since last: 0,3333333
-Frame: 1905, Time since last: 0,3333333
-Frame: 1906, Time since last: 0,3333333
-Frame: 1907, Time since last: 0,3333333
-Frame: 1908, Time since last: 0,3333333
-Frame: 1909, Time since last: 0,3333333
-Frame: 1910, Time since last: 0,3333333
-Frame: 1911, Time since last: 0,3333333
-Frame: 1912, Time since last: 0,3333333
-Frame: 1913, Time since last: 0,3333333
-Frame: 1914, Time since last: 0,3333333
-Frame: 1915, Time since last: 0,3333333
-Frame: 1916, Time since last: 0,3333333
-Frame: 1917, Time since last: 0,3333333
-Frame: 1918, Time since last: 0,3333333
-Frame: 1919, Time since last: 0,3333333
-Frame: 1920, Time since last: 0,3333333
-Frame: 1921, Time since last: 0,3333333
-Frame: 1922, Time since last: 0,3333333
-Frame: 1923, Time since last: 0,3333333
-Frame: 1924, Time since last: 0,3333333
-Frame: 1925, Time since last: 0,3333333
-Frame: 1926, Time since last: 0,3333333
-Frame: 1927, Time since last: 0,3333333
-Frame: 1928, Time since last: 0,3333333
-Frame: 1929, Time since last: 0,3333333
-Frame: 1930, Time since last: 0,3333333
-Frame: 1931, Time since last: 0,3333333
-Frame: 1932, Time since last: 0,3333333
-Frame: 1933, Time since last: 0,3333333
-Frame: 1934, Time since last: 0,3333333
-Frame: 1935, Time since last: 0,3333333
-Frame: 1936, Time since last: 0,3327561
-Frame: 1937, Time since last: 0,3333333
-Frame: 1938, Time since last: 0,3333333
-Frame: 1939, Time since last: 0,3333333
-Frame: 1940, Time since last: 0,3333333
-Frame: 1941, Time since last: 0,3333333
-Frame: 1942, Time since last: 0,3333333
-Frame: 1943, Time since last: 0,3333333
-Frame: 1944, Time since last: 0,3333333
-Frame: 1945, Time since last: 0,3333333
-Frame: 1946, Time since last: 0,3333333
-Frame: 1947, Time since last: 0,3333333
-Frame: 1948, Time since last: 0,3333333
-Frame: 1949, Time since last: 0,3333333
-Frame: 1950, Time since last: 0,3333333
-Frame: 1951, Time since last: 0,3333333
-Frame: 1952, Time since last: 0,3333333
-Frame: 1953, Time since last: 0,3333333
-Frame: 1954, Time since last: 0,3193324
-Frame: 1955, Time since last: 0,3333333
-Frame: 1956, Time since last: 0,3333333
-Frame: 1957, Time since last: 0,3333333
-Frame: 1958, Time since last: 0,3333333
-Frame: 1959, Time since last: 0,3333333
-Frame: 1960, Time since last: 0,3333333
-Frame: 1961, Time since last: 0,3333333
-Frame: 1962, Time since last: 0,3333333
-Frame: 1963, Time since last: 0,3333333
-Frame: 1964, Time since last: 0,3333333
-Frame: 1965, Time since last: 0,3333333
-Frame: 1966, Time since last: 0,3333333
-Frame: 1967, Time since last: 0,3333333
-Frame: 1968, Time since last: 0,3333333
-Frame: 1969, Time since last: 0,3333333
-Frame: 1970, Time since last: 0,3333333
-Frame: 1971, Time since last: 0,3333333
-Frame: 1972, Time since last: 0,3222868
-Frame: 1973, Time since last: 0,3333333
-Frame: 1974, Time since last: 0,3333333
-Frame: 1975, Time since last: 0,3333333
-Frame: 1976, Time since last: 0,3333333
-Frame: 1977, Time since last: 0,3333333
-Frame: 1978, Time since last: 0,3333333
-Frame: 1979, Time since last: 0,3333333
-Frame: 1980, Time since last: 0,3333333
-Frame: 1981, Time since last: 0,3333333
-Frame: 1982, Time since last: 0,3333333
-Frame: 1983, Time since last: 0,3333333
-Frame: 1984, Time since last: 0,3333333
-Frame: 1985, Time since last: 0,3333333
-Frame: 1986, Time since last: 0,3333333
-Frame: 1987, Time since last: 0,3333333
-Frame: 1988, Time since last: 0,3333333
-Frame: 1989, Time since last: 0,3333333
-Frame: 1990, Time since last: 0,318697
-Frame: 1991, Time since last: 0,3333333
-Frame: 1992, Time since last: 0,3333333
-Frame: 1993, Time since last: 0,3333333
-Frame: 1994, Time since last: 0,3333333
-Frame: 1995, Time since last: 0,3333333
-Frame: 1996, Time since last: 0,3333333
-Frame: 1997, Time since last: 0,3333333
-Frame: 1998, Time since last: 0,3333333
-Frame: 1999, Time since last: 0,3333333
+0, 0.02
+1, 0.02
+2, 0.3333333
+3, 0.3333333
+4, 0.3333333
+5, 0.2661073
+6, 0.3316259
+7, 0.3333333
+8, 0.3333333
+9, 0.3333333
+10, 0.3333333
+11, 0.3333333
+12, 0.3333333
+13, 0.3333333
+14, 0.3333333
+15, 0.3333333
+16, 0.3333333
+17, 0.3333333
+18, 0.3333333
+19, 0.3333333
+20, 0.3333333
+21, 0.3333333
+22, 0.3333333
+23, 0.3333333
+24, 0.3333333
+25, 0.3333333
+26, 0.3333333
+27, 0.3333333
+28, 0.3333333
+29, 0.3333333
+30, 0.3333333
+31, 0.3333333
+32, 0.3333333
+33, 0.3333333
+34, 0.3333333
+35, 0.3333333
+36, 0.3333333
+37, 0.3333333
+38, 0.3333333
+39, 0.3333333
+40, 0.3333333
+41, 0.3333333
+42, 0.3333333
+43, 0.3333333
+44, 0.3333333
+45, 0.3333333
+46, 0.3333333
+47, 0.3333333
+48, 0.3333333
+49, 0.3333333
+50, 0.3333333
+51, 0.3333333
+52, 0.3333333
+53, 0.3333333
+54, 0.3333333
+55, 0.3333333
+56, 0.3333333
+57, 0.3333333
+58, 0.3333333
+59, 0.3333333
+60, 0.3333333
+61, 0.3333333
+62, 0.3333333
+63, 0.3333333
+64, 0.3333333
+65, 0.3333333
+66, 0.3333333
+67, 0.3333333
+68, 0.3333333
+69, 0.3333333
+70, 0.3333333
+71, 0.3333333
+72, 0.3333333
+73, 0.3333333
+74, 0.3333333
+75, 0.3333333
+76, 0.3333333
+77, 0.3333333
+78, 0.3333333
+79, 0.3333333
+80, 0.3333333
+81, 0.3333333
+82, 0.3333333
+83, 0.3333333
+84, 0.3333333
+85, 0.3333333
+86, 0.3333333
+87, 0.3333333
+88, 0.3333333
+89, 0.3333333
+90, 0.3333333
+91, 0.3333333
+92, 0.3333333
+93, 0.3333333
+94, 0.3333333
+95, 0.3333333
+96, 0.3333333
+97, 0.3333333
+98, 0.3333333
+99, 0.3333333
+100, 0.3333333
+101, 0.3333333
+102, 0.3333333
+103, 0.3333333
+104, 0.3333333
+105, 0.3333333
+106, 0.3333333
+107, 0.3333333
+108, 0.3333333
+109, 0.3333333
+110, 0.3333333
+111, 0.3333333
+112, 0.3333333
+113, 0.3333333
+114, 0.3333333
+115, 0.3333333
+116, 0.3333333
+117, 0.3333333
+118, 0.3333333
+119, 0.3333333
+120, 0.3333333
+121, 0.3333333
+122, 0.3333333
+123, 0.3333333
+124, 0.3333333
+125, 0.3333333
+126, 0.3333333
+127, 0.3333333
+128, 0.3333333
+129, 0.3333333
+130, 0.3333333
+131, 0.3333333
+132, 0.3333333
+133, 0.3333333
+134, 0.3333333
+135, 0.3333333
+136, 0.3333333
+137, 0.3333333
+138, 0.3333333
+139, 0.3333333
+140, 0.3333333
+141, 0.3333333
+142, 0.3333333
+143, 0.3333333
+144, 0.3333333
+145, 0.3333333
+146, 0.3333333
+147, 0.3333333
+148, 0.3333333
+149, 0.3333333
+150, 0.3333333
+151, 0.3333333
+152, 0.3333333
+153, 0.3333333
+154, 0.3333333
+155, 0.3333333
+156, 0.3333333
+157, 0.3333333
+158, 0.3333333
+159, 0.3333333
+160, 0.3298737
+161, 0.3333333
+162, 0.3333333
+163, 0.3333333
+164, 0.3333333
+165, 0.3333333
+166, 0.3333333
+167, 0.3333333
+168, 0.3333333
+169, 0.3333333
+170, 0.3333333
+171, 0.3333333
+172, 0.3333333
+173, 0.3333333
+174, 0.3333333
+175, 0.3333333
+176, 0.3333333
+177, 0.3333333
+178, 0.3333333
+179, 0.3333333
+180, 0.3333333
+181, 0.3333333
+182, 0.3333333
+183, 0.3333333
+184, 0.3333333
+185, 0.3333333
+186, 0.3333333
+187, 0.3333333
+188, 0.3333333
+189, 0.3333333
+190, 0.3333333
+191, 0.3333333
+192, 0.3333333
+193, 0.3333333
+194, 0.3333333
+195, 0.3333333
+196, 0.3333333
+197, 0.3333333
+198, 0.3333333
+199, 0.3333333
+200, 0.3333333
+201, 0.3333333
+202, 0.3333333
+203, 0.3333333
+204, 0.3333333
+205, 0.3333333
+206, 0.3333333
+207, 0.3333333
+208, 0.3333333
+209, 0.3333333
+210, 0.3333333
+211, 0.3333333
+212, 0.3333333
+213, 0.3333333
+214, 0.3333333
+215, 0.3333333
+216, 0.3333333
+217, 0.3333333
+218, 0.3333333
+219, 0.3333333
+220, 0.3333333
+221, 0.3333333
+222, 0.3333333
+223, 0.3333333
+224, 0.3333333
+225, 0.3333333
+226, 0.3333333
+227, 0.3333333
+228, 0.3333333
+229, 0.3333333
+230, 0.3333333
+231, 0.3333333
+232, 0.3333333
+233, 0.3333333
+234, 0.3333333
+235, 0.3333333
+236, 0.3333333
+237, 0.3333333
+238, 0.3333333
+239, 0.3333333
+240, 0.3333333
+241, 0.3333333
+242, 0.3333333
+243, 0.3333333
+244, 0.3333333
+245, 0.3333333
+246, 0.3333333
+247, 0.3333333
+248, 0.3333333
+249, 0.3333333
+250, 0.3333333
+251, 0.3333333
+252, 0.3333333
+253, 0.3333333
+254, 0.3333333
+255, 0.3333333
+256, 0.3333333
+257, 0.3333333
+258, 0.3333333
+259, 0.3333333
+260, 0.3333333
+261, 0.3333333
+262, 0.3333333
+263, 0.3333333
+264, 0.3333333
+265, 0.3333333
+266, 0.3333333
+267, 0.3333333
+268, 0.3333333
+269, 0.3333333
+270, 0.3333333
+271, 0.3333333
+272, 0.3333333
+273, 0.3333333
+274, 0.3333333
+275, 0.3333333
+276, 0.3333333
+277, 0.3333333
+278, 0.3333333
+279, 0.3333333
+280, 0.3333333
+281, 0.3333333
+282, 0.3333333
+283, 0.3333333
+284, 0.3333333
+285, 0.3333333
+286, 0.3333333
+287, 0.3333333
+288, 0.3333333
+289, 0.3333333
+290, 0.3333333
+291, 0.3333333
+292, 0.3333333
+293, 0.3333333
+294, 0.3333333
+295, 0.3333333
+296, 0.3333333
+297, 0.3333333
+298, 0.3333333
+299, 0.3333333
+300, 0.3333333
+301, 0.3333333
+302, 0.3333333
+303, 0.3333333
+304, 0.3333333
+305, 0.3333333
+306, 0.3333333
+307, 0.3333333
+308, 0.3333333
+309, 0.3333333
+310, 0.3333333
+311, 0.3333333
+312, 0.3333333
+313, 0.3333333
+314, 0.3333333
+315, 0.3333333
+316, 0.3333333
+317, 0.3333333
+318, 0.3333333
+319, 0.3333333
+320, 0.3333333
+321, 0.3333333
+322, 0.3333333
+323, 0.3333333
+324, 0.3333333
+325, 0.3333333
+326, 0.3333333
+327, 0.3333333
+328, 0.3333333
+329, 0.3333333
+330, 0.3333333
+331, 0.3333333
+332, 0.3333333
+333, 0.3333333
+334, 0.3333333
+335, 0.3333333
+336, 0.3333333
+337, 0.3333333
+338, 0.3333333
+339, 0.3333333
+340, 0.3333333
+341, 0.3204981
+342, 0.3333333
+343, 0.3333333
+344, 0.3333333
+345, 0.3333333
+346, 0.3333333
+347, 0.3333333
+348, 0.3333333
+349, 0.3333333
+350, 0.3333333
+351, 0.3333333
+352, 0.3333333
+353, 0.3333333
+354, 0.3333333
+355, 0.3333333
+356, 0.3333333
+357, 0.3333333
+358, 0.3333333
+359, 0.3333333
+360, 0.3333333
+361, 0.3333333
+362, 0.3333333
+363, 0.3333333
+364, 0.3333333
+365, 0.3333333
+366, 0.3333333
+367, 0.3333333
+368, 0.3333333
+369, 0.3333333
+370, 0.3333333
+371, 0.3333333
+372, 0.3333333
+373, 0.3333333
+374, 0.3333333
+375, 0.3333333
+376, 0.3333333
+377, 0.3333333
+378, 0.3333333
+379, 0.3333333
+380, 0.3333333
+381, 0.3333333
+382, 0.3333333
+383, 0.3333333
+384, 0.3333333
+385, 0.3333333
+386, 0.3333333
+387, 0.3333333
+388, 0.3333333
+389, 0.3333333
+390, 0.3333333
+391, 0.3333333
+392, 0.3333333
+393, 0.3333333
+394, 0.3333333
+395, 0.3333333
+396, 0.3333333
+397, 0.3333333
+398, 0.3333333
+399, 0.3333333
+400, 0.3333333
+401, 0.3333333
+402, 0.3333333
+403, 0.3333333
+404, 0.3333333
+405, 0.3333333
+406, 0.3333333
+407, 0.3333333
+408, 0.3333333
+409, 0.3333333
+410, 0.3333333
+411, 0.3333333
+412, 0.3333333
+413, 0.3333333
+414, 0.3333333
+415, 0.3333333
+416, 0.3333333
+417, 0.3333333
+418, 0.3333333
+419, 0.3333333
+420, 0.3333333
+421, 0.3333333
+422, 0.3333333
+423, 0.3333333
+424, 0.3333333
+425, 0.3333333
+426, 0.3333333
+427, 0.3333333
+428, 0.3333333
+429, 0.3333333
+430, 0.3333333
+431, 0.3333333
+432, 0.3333333
+433, 0.3333333
+434, 0.3333333
+435, 0.3333333
+436, 0.3333333
+437, 0.3333333
+438, 0.3333333
+439, 0.3333333
+440, 0.3333333
+441, 0.3333333
+442, 0.3333333
+443, 0.3333333
+444, 0.3333333
+445, 0.3333333
+446, 0.3333333
+447, 0.3333333
+448, 0.3333333
+449, 0.3333333
+450, 0.3333333
+451, 0.3333333
+452, 0.3333333
+453, 0.3333333
+454, 0.3333333
+455, 0.3333333
+456, 0.3333333
+457, 0.3333333
+458, 0.3333333
+459, 0.3333333
+460, 0.3333333
+461, 0.3333333
+462, 0.3333333
+463, 0.3333333
+464, 0.3333333
+465, 0.3333333
+466, 0.3333333
+467, 0.3333333
+468, 0.3333333
+469, 0.3333333
+470, 0.3333333
+471, 0.3333333
+472, 0.3333333
+473, 0.3333333
+474, 0.3333333
+475, 0.3333333
+476, 0.3333333
+477, 0.3333333
+478, 0.3333333
+479, 0.3333333
+480, 0.3333333
+481, 0.3333333
+482, 0.3333333
+483, 0.3333333
+484, 0.3333333
+485, 0.3333333
+486, 0.3321672
+487, 0.3333333
+488, 0.3333333
+489, 0.3333333
+490, 0.3333333
+491, 0.3333333
+492, 0.3333333
+493, 0.3333333
+494, 0.3333333
+495, 0.3333333
+496, 0.3333333
+497, 0.3333333
+498, 0.3333333
+499, 0.3333333
+500, 0.3333333
+501, 0.3333333
+502, 0.3333333
+503, 0.3333333
+504, 0.3082168
+505, 0.3333333
+506, 0.3333333
+507, 0.3333333
+508, 0.3333333
+509, 0.3333333
+510, 0.3333333
+511, 0.3333333
+512, 0.3333333
+513, 0.3333333
+514, 0.3333333
+515, 0.3333333
+516, 0.3333333
+517, 0.3333333
+518, 0.3333333
+519, 0.3333333
+520, 0.3333333
+521, 0.3333333
+522, 0.3333333
+523, 0.3333333
+524, 0.3333333
+525, 0.3333333
+526, 0.3333333
+527, 0.3333333
+528, 0.3333333
+529, 0.3333333
+530, 0.3333333
+531, 0.3333333
+532, 0.3333333
+533, 0.3333333
+534, 0.3333333
+535, 0.3333333
+536, 0.3333333
+537, 0.3333333
+538, 0.3333333
+539, 0.3333333
+540, 0.3333333
+541, 0.3333333
+542, 0.3333333
+543, 0.3333333
+544, 0.3333333
+545, 0.3333333
+546, 0.3333333
+547, 0.3333333
+548, 0.3333333
+549, 0.3333333
+550, 0.3333333
+551, 0.3333333
+552, 0.3333333
+553, 0.3333333
+554, 0.3333333
+555, 0.3333333
+556, 0.3333333
+557, 0.3333333
+558, 0.3333333
+559, 0.3333333
+560, 0.3333333
+561, 0.3333333
+562, 0.3333333
+563, 0.3333333
+564, 0.3333333
+565, 0.3333333
+566, 0.3333333
+567, 0.3333333
+568, 0.3333333
+569, 0.3333333
+570, 0.3333333
+571, 0.3333333
+572, 0.3333333
+573, 0.3333333
+574, 0.3333333
+575, 0.3333333
+576, 0.3333333
+577, 0.3333333
+578, 0.3333333
+579, 0.3333333
+580, 0.3333333
+581, 0.3333333
+582, 0.3333333
+583, 0.3333333
+584, 0.3333333
+585, 0.3333333
+586, 0.3333333
+587, 0.3333333
+588, 0.3333333
+589, 0.3333333
+590, 0.3333333
+591, 0.3333333
+592, 0.3333333
+593, 0.3333333
+594, 0.3333333
+595, 0.3333333
+596, 0.3333333
+597, 0.3333333
+598, 0.3333333
+599, 0.3333333
+600, 0.3333333
+601, 0.3333333
+602, 0.3333333
+603, 0.3333333
+604, 0.3333333
+605, 0.3333333
+606, 0.3333333
+607, 0.3333333
+608, 0.3333333
+609, 0.3333333
+610, 0.3333333
+611, 0.3333333
+612, 0.3333333
+613, 0.3333333
+614, 0.3333333
+615, 0.3333333
+616, 0.3333333
+617, 0.3333333
+618, 0.3333333
+619, 0.3333333
+620, 0.3333333
+621, 0.3333333
+622, 0.3333333
+623, 0.3333333
+624, 0.3333333
+625, 0.3333333
+626, 0.3333333
+627, 0.3333333
+628, 0.3333333
+629, 0.3333333
+630, 0.3333333
+631, 0.3333333
+632, 0.3333333
+633, 0.3333333
+634, 0.3333333
+635, 0.3333333
+636, 0.3333333
+637, 0.3333333
+638, 0.3333333
+639, 0.3333333
+640, 0.3333333
+641, 0.3333333
+642, 0.3333333
+643, 0.3333333
+644, 0.3333333
+645, 0.3333333
+646, 0.3333333
+647, 0.3333333
+648, 0.3333333
+649, 0.3333333
+650, 0.3333333
+651, 0.3333333
+652, 0.3333333
+653, 0.3333333
+654, 0.3333333
+655, 0.3333333
+656, 0.3333333
+657, 0.3333333
+658, 0.3333333
+659, 0.3333333
+660, 0.3333333
+661, 0.3333333
+662, 0.3333333
+663, 0.3333333
+664, 0.3333333
+665, 0.3333333
+666, 0.3333333
+667, 0.3333333
+668, 0.3333333
+669, 0.3333333
+670, 0.3333333
+671, 0.3333333
+672, 0.3333333
+673, 0.3333333
+674, 0.3333333
+675, 0.3333333
+676, 0.3333333
+677, 0.3333333
+678, 0.3333333
+679, 0.3333333
+680, 0.3333333
+681, 0.3333333
+682, 0.3333333
+683, 0.3333333
+684, 0.3333333
+685, 0.3333333
+686, 0.3333333
+687, 0.3333333
+688, 0.3333333
+689, 0.3333333
+690, 0.3333333
+691, 0.3333333
+692, 0.3333333
+693, 0.3333333
+694, 0.3333333
+695, 0.3333333
+696, 0.3333333
+697, 0.3333333
+698, 0.3333333
+699, 0.3333333
+700, 0.3333333
+701, 0.3333333
+702, 0.3333333
+703, 0.3329042
+704, 0.3333333
+705, 0.3333333
+706, 0.3333333
+707, 0.3333333
+708, 0.3333333
+709, 0.3333333
+710, 0.3333333
+711, 0.3333333
+712, 0.3333333
+713, 0.3333333
+714, 0.3333333
+715, 0.3333333
+716, 0.3333333
+717, 0.3333333
+718, 0.3333333
+719, 0.3333333
+720, 0.3333333
+721, 0.3333333
+722, 0.3333333
+723, 0.3333333
+724, 0.3333333
+725, 0.3333333
+726, 0.3333333
+727, 0.3333333
+728, 0.3333333
+729, 0.3333333
+730, 0.3333333
+731, 0.3333333
+732, 0.3333333
+733, 0.3333333
+734, 0.3333333
+735, 0.3333333
+736, 0.3333333
+737, 0.3333333
+738, 0.3333333
+739, 0.3333333
+740, 0.3333333
+741, 0.3333333
+742, 0.3333333
+743, 0.3333333
+744, 0.3333333
+745, 0.3333333
+746, 0.3333333
+747, 0.3333333
+748, 0.3333333
+749, 0.3333333
+750, 0.3333333
+751, 0.3333333
+752, 0.3333333
+753, 0.3333333
+754, 0.3333333
+755, 0.3333333
+756, 0.3333333
+757, 0.3333333
+758, 0.3333333
+759, 0.3333333
+760, 0.3333333
+761, 0.3333333
+762, 0.3333333
+763, 0.3333333
+764, 0.3333333
+765, 0.3333333
+766, 0.3333333
+767, 0.3333333
+768, 0.3333333
+769, 0.3333333
+770, 0.3333333
+771, 0.3333333
+772, 0.3333333
+773, 0.3333333
+774, 0.3333333
+775, 0.3333333
+776, 0.3333333
+777, 0.3333333
+778, 0.3333333
+779, 0.3333333
+780, 0.3333333
+781, 0.3333333
+782, 0.3333333
+783, 0.3333333
+784, 0.3333333
+785, 0.3333333
+786, 0.3333333
+787, 0.3333333
+788, 0.3333333
+789, 0.3333333
+790, 0.3333333
+791, 0.3333333
+792, 0.3333333
+793, 0.3333333
+794, 0.3333333
+795, 0.3333333
+796, 0.3333333
+797, 0.3333333
+798, 0.3333333
+799, 0.3333333
+800, 0.3333333
+801, 0.3333333
+802, 0.3333333
+803, 0.3333333
+804, 0.3333333
+805, 0.3333333
+806, 0.3333333
+807, 0.3333333
+808, 0.3333333
+809, 0.3333333
+810, 0.3333333
+811, 0.3333333
+812, 0.3333333
+813, 0.3333333
+814, 0.3333333
+815, 0.3333333
+816, 0.3333333
+817, 0.3333333
+818, 0.3333333
+819, 0.3333333
+820, 0.3333333
+821, 0.3333333
+822, 0.3333333
+823, 0.3333333
+824, 0.3333333
+825, 0.3333333
+826, 0.3333333
+827, 0.3333333
+828, 0.3333333
+829, 0.3333333
+830, 0.3219762
+831, 0.3333333
+832, 0.3333333
+833, 0.3333333
+834, 0.3333333
+835, 0.3333333
+836, 0.3333333
+837, 0.3333333
+838, 0.3333333
+839, 0.3333333
+840, 0.3333333
+841, 0.3333333
+842, 0.3333333
+843, 0.3333333
+844, 0.3333333
+845, 0.3333333
+846, 0.3333333
+847, 0.3333333
+848, 0.3329341
+849, 0.3333333
+850, 0.3333333
+851, 0.3333333
+852, 0.3333333
+853, 0.3333333
+854, 0.3333333
+855, 0.3333333
+856, 0.3333333
+857, 0.3333333
+858, 0.3333333
+859, 0.3333333
+860, 0.3333333
+861, 0.3333333
+862, 0.3333333
+863, 0.3333333
+864, 0.3333333
+865, 0.3333333
+866, 0.3261181
+867, 0.3333333
+868, 0.3333333
+869, 0.3333333
+870, 0.3333333
+871, 0.3333333
+872, 0.3333333
+873, 0.3333333
+874, 0.3333333
+875, 0.3333333
+876, 0.3333333
+877, 0.3333333
+878, 0.3333333
+879, 0.3333333
+880, 0.3333333
+881, 0.3333333
+882, 0.3333333
+883, 0.3333333
+884, 0.3181471
+885, 0.3333333
+886, 0.3333333
+887, 0.3333333
+888, 0.3333333
+889, 0.3333333
+890, 0.3333333
+891, 0.3333333
+892, 0.3333333
+893, 0.3333333
+894, 0.3333333
+895, 0.3333333
+896, 0.3333333
+897, 0.3333333
+898, 0.3333333
+899, 0.3333333
+900, 0.3333333
+901, 0.3333333
+902, 0.3333333
+903, 0.3333333
+904, 0.3333333
+905, 0.3333333
+906, 0.3333333
+907, 0.3333333
+908, 0.3333333
+909, 0.3333333
+910, 0.3333333
+911, 0.3333333
+912, 0.3333333
+913, 0.3333333
+914, 0.3333333
+915, 0.3333333
+916, 0.3333333
+917, 0.3333333
+918, 0.3333333
+919, 0.3333333
+920, 0.3333333
+921, 0.3333333
+922, 0.3333333
+923, 0.3333333
+924, 0.3333333
+925, 0.3333333
+926, 0.3333333
+927, 0.3333333
+928, 0.3333333
+929, 0.3333333
+930, 0.3333333
+931, 0.3333333
+932, 0.3333333
+933, 0.3333333
+934, 0.3333333
+935, 0.3333333
+936, 0.3333333
+937, 0.3333333
+938, 0.3333333
+939, 0.3333333
+940, 0.3333333
+941, 0.3333333
+942, 0.3333333
+943, 0.3333333
+944, 0.3333333
+945, 0.3333333
+946, 0.3333333
+947, 0.3333333
+948, 0.3333333
+949, 0.3333333
+950, 0.3333333
+951, 0.3333333
+952, 0.3333333
+953, 0.3333333
+954, 0.3333333
+955, 0.3333333
+956, 0.3333333
+957, 0.3333333
+958, 0.3333333
+959, 0.3333333
+960, 0.3333333
+961, 0.3333333
+962, 0.3333333
+963, 0.3333333
+964, 0.3333333
+965, 0.3333333
+966, 0.3333333
+967, 0.3333333
+968, 0.3333333
+969, 0.3333333
+970, 0.3333333
+971, 0.3333333
+972, 0.3333333
+973, 0.3333333
+974, 0.3333333
+975, 0.3333333
+976, 0.3333333
+977, 0.3333333
+978, 0.3333333
+979, 0.3333333
+980, 0.3333333
+981, 0.3333333
+982, 0.3333333
+983, 0.3333333
+984, 0.3333333
+985, 0.3333333
+986, 0.3333333
+987, 0.3333333
+988, 0.3333333
+989, 0.3333333
+990, 0.3333333
+991, 0.3333333
+992, 0.3333333
+993, 0.3213309
+994, 0.3333333
+995, 0.3333333
+996, 0.3333333
+997, 0.3333333
+998, 0.3333333
+999, 0.3333333
+1000, 0.3333333
+1001, 0.3333333
+1002, 0.3333333
+1003, 0.3333333
+1004, 0.3333333
+1005, 0.3333333
+1006, 0.3333333
+1007, 0.3333333
+1008, 0.3333333
+1009, 0.3333333
+1010, 0.3333333
+1011, 0.3307171
+1012, 0.3333333
+1013, 0.3333333
+1014, 0.3333333
+1015, 0.3333333
+1016, 0.3333333
+1017, 0.3333333
+1018, 0.3333333
+1019, 0.3333333
+1020, 0.3333333
+1021, 0.3333333
+1022, 0.3333333
+1023, 0.3333333
+1024, 0.3333333
+1025, 0.3333333
+1026, 0.3333333
+1027, 0.3333333
+1028, 0.3333333
+1029, 0.3096721
+1030, 0.3333333
+1031, 0.3333333
+1032, 0.3333333
+1033, 0.3333333
+1034, 0.3333333
+1035, 0.3333333
+1036, 0.3333333
+1037, 0.3333333
+1038, 0.3333333
+1039, 0.3333333
+1040, 0.3333333
+1041, 0.3333333
+1042, 0.3333333
+1043, 0.3333333
+1044, 0.3333333
+1045, 0.3333333
+1046, 0.3333333
+1047, 0.3076101
+1048, 0.3333333
+1049, 0.3333333
+1050, 0.3333333
+1051, 0.3333333
+1052, 0.3333333
+1053, 0.3333333
+1054, 0.3333333
+1055, 0.3333333
+1056, 0.3333333
+1057, 0.3333333
+1058, 0.3333333
+1059, 0.3333333
+1060, 0.3333333
+1061, 0.3333333
+1062, 0.3333333
+1063, 0.3333333
+1064, 0.3333333
+1065, 0.3333333
+1066, 0.3333333
+1067, 0.3333333
+1068, 0.3333333
+1069, 0.3333333
+1070, 0.3333333
+1071, 0.3333333
+1072, 0.3333333
+1073, 0.3333333
+1074, 0.3333333
+1075, 0.3333333
+1076, 0.3333333
+1077, 0.3333333
+1078, 0.3333333
+1079, 0.3333333
+1080, 0.3333333
+1081, 0.3333333
+1082, 0.3333333
+1083, 0.3333333
+1084, 0.3333333
+1085, 0.3333333
+1086, 0.3333333
+1087, 0.3333333
+1088, 0.3333333
+1089, 0.3333333
+1090, 0.3333333
+1091, 0.3333333
+1092, 0.3333333
+1093, 0.3333333
+1094, 0.3333333
+1095, 0.3333333
+1096, 0.3333333
+1097, 0.3333333
+1098, 0.3333333
+1099, 0.3333333
+1100, 0.3333333
+1101, 0.3333333
+1102, 0.3333333
+1103, 0.3333333
+1104, 0.3333333
+1105, 0.3333333
+1106, 0.3333333
+1107, 0.3333333
+1108, 0.3333333
+1109, 0.3333333
+1110, 0.3333333
+1111, 0.3333333
+1112, 0.3333333
+1113, 0.3333333
+1114, 0.3333333
+1115, 0.3333333
+1116, 0.3333333
+1117, 0.3333333
+1118, 0.3333333
+1119, 0.3333333
+1120, 0.3333333
+1121, 0.3333333
+1122, 0.3333333
+1123, 0.3333333
+1124, 0.3333333
+1125, 0.3333333
+1126, 0.3333333
+1127, 0.3333333
+1128, 0.3333333
+1129, 0.3333333
+1130, 0.3333333
+1131, 0.3333333
+1132, 0.3333333
+1133, 0.3333333
+1134, 0.3333333
+1135, 0.3333333
+1136, 0.3333333
+1137, 0.3333333
+1138, 0.3333333
+1139, 0.3333333
+1140, 0.3333333
+1141, 0.3333333
+1142, 0.3333333
+1143, 0.3333333
+1144, 0.3333333
+1145, 0.3333333
+1146, 0.3333333
+1147, 0.3333333
+1148, 0.3333333
+1149, 0.3333333
+1150, 0.3333333
+1151, 0.3333333
+1152, 0.3333333
+1153, 0.3333333
+1154, 0.3333333
+1155, 0.3333333
+1156, 0.3333333
+1157, 0.3333333
+1158, 0.3333333
+1159, 0.3333333
+1160, 0.3333333
+1161, 0.3333333
+1162, 0.3333333
+1163, 0.3333333
+1164, 0.3333333
+1165, 0.3333333
+1166, 0.3333333
+1167, 0.3333333
+1168, 0.3333333
+1169, 0.3333333
+1170, 0.3333333
+1171, 0.3333333
+1172, 0.3333333
+1173, 0.3333333
+1174, 0.321031
+1175, 0.3333333
+1176, 0.3333333
+1177, 0.3333333
+1178, 0.3333333
+1179, 0.3333333
+1180, 0.3333333
+1181, 0.3333333
+1182, 0.3333333
+1183, 0.3333333
+1184, 0.3333333
+1185, 0.3333333
+1186, 0.3333333
+1187, 0.3333333
+1188, 0.3333333
+1189, 0.3333333
+1190, 0.3333333
+1191, 0.3333333
+1192, 0.3293344
+1193, 0.3333333
+1194, 0.3333333
+1195, 0.3333333
+1196, 0.3333333
+1197, 0.3333333
+1198, 0.3333333
+1199, 0.3333333
+1200, 0.3333333
+1201, 0.3333333
+1202, 0.3333333
+1203, 0.3333333
+1204, 0.3333333
+1205, 0.3333333
+1206, 0.3333333
+1207, 0.3333333
+1208, 0.3333333
+1209, 0.3333333
+1210, 0.3328966
+1211, 0.3333333
+1212, 0.3333333
+1213, 0.3333333
+1214, 0.3333333
+1215, 0.3333333
+1216, 0.3333333
+1217, 0.3333333
+1218, 0.3333333
+1219, 0.3333333
+1220, 0.3333333
+1221, 0.3333333
+1222, 0.3333333
+1223, 0.3333333
+1224, 0.3333333
+1225, 0.3333333
+1226, 0.3333333
+1227, 0.3333333
+1228, 0.3333333
+1229, 0.3333333
+1230, 0.3333333
+1231, 0.3333333
+1232, 0.3333333
+1233, 0.3333333
+1234, 0.3333333
+1235, 0.3333333
+1236, 0.3333333
+1237, 0.3333333
+1238, 0.3333333
+1239, 0.3333333
+1240, 0.3333333
+1241, 0.3333333
+1242, 0.3333333
+1243, 0.3333333
+1244, 0.3333333
+1245, 0.3333333
+1246, 0.3333333
+1247, 0.3333333
+1248, 0.3333333
+1249, 0.3333333
+1250, 0.3333333
+1251, 0.3333333
+1252, 0.3333333
+1253, 0.3333333
+1254, 0.3333333
+1255, 0.3333333
+1256, 0.3333333
+1257, 0.3333333
+1258, 0.3333333
+1259, 0.3333333
+1260, 0.3333333
+1261, 0.3333333
+1262, 0.3333333
+1263, 0.3333333
+1264, 0.3333333
+1265, 0.3333333
+1266, 0.3333333
+1267, 0.3333333
+1268, 0.3333333
+1269, 0.3333333
+1270, 0.3333333
+1271, 0.3333333
+1272, 0.3333333
+1273, 0.3333333
+1274, 0.3333333
+1275, 0.3333333
+1276, 0.3333333
+1277, 0.3333333
+1278, 0.3333333
+1279, 0.3333333
+1280, 0.3333333
+1281, 0.3333333
+1282, 0.3333333
+1283, 0.3215235
+1284, 0.3333333
+1285, 0.3333333
+1286, 0.3333333
+1287, 0.3333333
+1288, 0.3333333
+1289, 0.3333333
+1290, 0.3333333
+1291, 0.3333333
+1292, 0.3333333
+1293, 0.3333333
+1294, 0.3333333
+1295, 0.3333333
+1296, 0.3333333
+1297, 0.3333333
+1298, 0.3333333
+1299, 0.3333333
+1300, 0.3333333
+1301, 0.3329394
+1302, 0.3333333
+1303, 0.3333333
+1304, 0.3333333
+1305, 0.3333333
+1306, 0.3333333
+1307, 0.3333333
+1308, 0.3333333
+1309, 0.3333333
+1310, 0.3333333
+1311, 0.3333333
+1312, 0.3333333
+1313, 0.3333333
+1314, 0.3333333
+1315, 0.3333333
+1316, 0.3333333
+1317, 0.3333333
+1318, 0.3333333
+1319, 0.3224615
+1320, 0.3333333
+1321, 0.3333333
+1322, 0.3333333
+1323, 0.3333333
+1324, 0.3333333
+1325, 0.3333333
+1326, 0.3333333
+1327, 0.3333333
+1328, 0.3333333
+1329, 0.3333333
+1330, 0.3333333
+1331, 0.3333333
+1332, 0.3333333
+1333, 0.3333333
+1334, 0.3333333
+1335, 0.3333333
+1336, 0.3333333
+1337, 0.3088163
+1338, 0.3333333
+1339, 0.3333333
+1340, 0.3333333
+1341, 0.3333333
+1342, 0.3333333
+1343, 0.3333333
+1344, 0.3333333
+1345, 0.3333333
+1346, 0.3333333
+1347, 0.3333333
+1348, 0.3333333
+1349, 0.3333333
+1350, 0.3333333
+1351, 0.3333333
+1352, 0.3333333
+1353, 0.3333333
+1354, 0.3333333
+1355, 0.3333333
+1356, 0.3333333
+1357, 0.3333333
+1358, 0.3333333
+1359, 0.3333333
+1360, 0.3333333
+1361, 0.3333333
+1362, 0.3333333
+1363, 0.3333333
+1364, 0.3333333
+1365, 0.3333333
+1366, 0.3333333
+1367, 0.3333333
+1368, 0.3333333
+1369, 0.3333333
+1370, 0.3333333
+1371, 0.3333333
+1372, 0.3333333
+1373, 0.3333333
+1374, 0.3333333
+1375, 0.3333333
+1376, 0.3333333
+1377, 0.3333333
+1378, 0.3333333
+1379, 0.3333333
+1380, 0.3333333
+1381, 0.3333333
+1382, 0.3333333
+1383, 0.3333333
+1384, 0.3333333
+1385, 0.3333333
+1386, 0.3333333
+1387, 0.3333333
+1388, 0.3333333
+1389, 0.3333333
+1390, 0.3333333
+1391, 0.3333333
+1392, 0.3333333
+1393, 0.3333333
+1394, 0.3333333
+1395, 0.3333333
+1396, 0.3333333
+1397, 0.3333333
+1398, 0.3333333
+1399, 0.3333333
+1400, 0.3333333
+1401, 0.3333333
+1402, 0.3333333
+1403, 0.3333333
+1404, 0.3333333
+1405, 0.3333333
+1406, 0.3333333
+1407, 0.3333333
+1408, 0.3333333
+1409, 0.3333333
+1410, 0.3333333
+1411, 0.3333333
+1412, 0.3333333
+1413, 0.3333333
+1414, 0.3333333
+1415, 0.3333333
+1416, 0.3333333
+1417, 0.3333333
+1418, 0.3333333
+1419, 0.3333333
+1420, 0.3333333
+1421, 0.3333333
+1422, 0.3333333
+1423, 0.3333333
+1424, 0.3333333
+1425, 0.3333333
+1426, 0.3333333
+1427, 0.3333333
+1428, 0.3333333
+1429, 0.3333333
+1430, 0.3333333
+1431, 0.3333333
+1432, 0.3333333
+1433, 0.3333333
+1434, 0.3333333
+1435, 0.3333333
+1436, 0.3333333
+1437, 0.3333333
+1438, 0.3333333
+1439, 0.3333333
+1440, 0.3333333
+1441, 0.3333333
+1442, 0.3333333
+1443, 0.3333333
+1444, 0.3333333
+1445, 0.3333333
+1446, 0.3233658
+1447, 0.3333333
+1448, 0.3333333
+1449, 0.3333333
+1450, 0.3333333
+1451, 0.3333333
+1452, 0.3333333
+1453, 0.3333333
+1454, 0.3333333
+1455, 0.3333333
+1456, 0.3333333
+1457, 0.3333333
+1458, 0.3333333
+1459, 0.3333333
+1460, 0.3333333
+1461, 0.3333333
+1462, 0.3333333
+1463, 0.3333333
+1464, 0.3098776
+1465, 0.3333333
+1466, 0.3333333
+1467, 0.3333333
+1468, 0.3333333
+1469, 0.3333333
+1470, 0.3333333
+1471, 0.3333333
+1472, 0.3333333
+1473, 0.3333333
+1474, 0.3333333
+1475, 0.3333333
+1476, 0.3333333
+1477, 0.3333333
+1478, 0.3333333
+1479, 0.3333333
+1480, 0.3333333
+1481, 0.3333333
+1482, 0.3333333
+1483, 0.3333333
+1484, 0.3333333
+1485, 0.3333333
+1486, 0.3333333
+1487, 0.3333333
+1488, 0.3333333
+1489, 0.3333333
+1490, 0.3333333
+1491, 0.3333333
+1492, 0.3333333
+1493, 0.3333333
+1494, 0.3333333
+1495, 0.3333333
+1496, 0.3333333
+1497, 0.3333333
+1498, 0.3333333
+1499, 0.3333333
+1500, 0.3333333
+1501, 0.3333333
+1502, 0.3333333
+1503, 0.3333333
+1504, 0.3333333
+1505, 0.3333333
+1506, 0.3333333
+1507, 0.3333333
+1508, 0.3333333
+1509, 0.3333333
+1510, 0.3333333
+1511, 0.3333333
+1512, 0.3333333
+1513, 0.3333333
+1514, 0.3333333
+1515, 0.3333333
+1516, 0.3333333
+1517, 0.3333333
+1518, 0.3333333
+1519, 0.3333333
+1520, 0.3333333
+1521, 0.3333333
+1522, 0.3333333
+1523, 0.3333333
+1524, 0.3333333
+1525, 0.3333333
+1526, 0.3333333
+1527, 0.3333333
+1528, 0.3333333
+1529, 0.3333333
+1530, 0.3333333
+1531, 0.3333333
+1532, 0.3333333
+1533, 0.3333333
+1534, 0.3333333
+1535, 0.3333333
+1536, 0.3333333
+1537, 0.3333333
+1538, 0.3333333
+1539, 0.3333333
+1540, 0.3333333
+1541, 0.3333333
+1542, 0.3333333
+1543, 0.3333333
+1544, 0.3333333
+1545, 0.3333333
+1546, 0.3333333
+1547, 0.3333333
+1548, 0.3333333
+1549, 0.3333333
+1550, 0.3333333
+1551, 0.3333333
+1552, 0.3333333
+1553, 0.3333333
+1554, 0.3333333
+1555, 0.3322802
+1556, 0.3333333
+1557, 0.3333333
+1558, 0.3333333
+1559, 0.3333333
+1560, 0.3333333
+1561, 0.3333333
+1562, 0.3333333
+1563, 0.3333333
+1564, 0.3333333
+1565, 0.3333333
+1566, 0.3333333
+1567, 0.3333333
+1568, 0.3333333
+1569, 0.3333333
+1570, 0.3333333
+1571, 0.3333333
+1572, 0.3333333
+1573, 0.3179146
+1574, 0.3333333
+1575, 0.3333333
+1576, 0.3333333
+1577, 0.3333333
+1578, 0.3333333
+1579, 0.3333333
+1580, 0.3333333
+1581, 0.3333333
+1582, 0.3333333
+1583, 0.3333333
+1584, 0.3333333
+1585, 0.3333333
+1586, 0.3333333
+1587, 0.3333333
+1588, 0.3333333
+1589, 0.3333333
+1590, 0.3333333
+1591, 0.3065363
+1592, 0.3333333
+1593, 0.3333333
+1594, 0.3333333
+1595, 0.3333333
+1596, 0.3333333
+1597, 0.3333333
+1598, 0.3333333
+1599, 0.3333333
+1600, 0.3333333
+1601, 0.3333333
+1602, 0.3333333
+1603, 0.3333333
+1604, 0.3333333
+1605, 0.3333333
+1606, 0.3333333
+1607, 0.3333333
+1608, 0.3333333
+1609, 0.3333333
+1610, 0.3333333
+1611, 0.3333333
+1612, 0.3333333
+1613, 0.3333333
+1614, 0.3333333
+1615, 0.3333333
+1616, 0.3333333
+1617, 0.3333333
+1618, 0.3333333
+1619, 0.3333333
+1620, 0.3333333
+1621, 0.3333333
+1622, 0.3333333
+1623, 0.3333333
+1624, 0.3333333
+1625, 0.3333333
+1626, 0.3333333
+1627, 0.3333333
+1628, 0.3333333
+1629, 0.3333333
+1630, 0.3333333
+1631, 0.3333333
+1632, 0.3333333
+1633, 0.3333333
+1634, 0.3333333
+1635, 0.3333333
+1636, 0.3333333
+1637, 0.3333333
+1638, 0.3333333
+1639, 0.3333333
+1640, 0.3333333
+1641, 0.3333333
+1642, 0.3333333
+1643, 0.3333333
+1644, 0.3333333
+1645, 0.3333333
+1646, 0.3333333
+1647, 0.3333333
+1648, 0.3333333
+1649, 0.3333333
+1650, 0.3333333
+1651, 0.3333333
+1652, 0.3333333
+1653, 0.3333333
+1654, 0.3333333
+1655, 0.3333333
+1656, 0.3333333
+1657, 0.3333333
+1658, 0.3333333
+1659, 0.3333333
+1660, 0.3333333
+1661, 0.3333333
+1662, 0.3333333
+1663, 0.3333333
+1664, 0.3333333
+1665, 0.3333333
+1666, 0.3333333
+1667, 0.3333333
+1668, 0.3333333
+1669, 0.3333333
+1670, 0.3333333
+1671, 0.3333333
+1672, 0.3333333
+1673, 0.3333333
+1674, 0.3333333
+1675, 0.3333333
+1676, 0.3333333
+1677, 0.3333333
+1678, 0.3333333
+1679, 0.3333333
+1680, 0.3333333
+1681, 0.3333333
+1682, 0.3199857
+1683, 0.3333333
+1684, 0.3333333
+1685, 0.3333333
+1686, 0.3333333
+1687, 0.3333333
+1688, 0.3333333
+1689, 0.3333333
+1690, 0.3333333
+1691, 0.3333333
+1692, 0.3333333
+1693, 0.3333333
+1694, 0.3333333
+1695, 0.3333333
+1696, 0.3333333
+1697, 0.3333333
+1698, 0.3333333
+1699, 0.3333333
+1700, 0.3214504
+1701, 0.3333333
+1702, 0.3333333
+1703, 0.3333333
+1704, 0.3333333
+1705, 0.3333333
+1706, 0.3333333
+1707, 0.3333333
+1708, 0.3333333
+1709, 0.3333333
+1710, 0.3333333
+1711, 0.3333333
+1712, 0.3333333
+1713, 0.3333333
+1714, 0.3333333
+1715, 0.3333333
+1716, 0.3333333
+1717, 0.3333333
+1718, 0.3329522
+1719, 0.3333333
+1720, 0.3333333
+1721, 0.3333333
+1722, 0.3333333
+1723, 0.3333333
+1724, 0.3333333
+1725, 0.3333333
+1726, 0.3333333
+1727, 0.3333333
+1728, 0.3333333
+1729, 0.3333333
+1730, 0.3333333
+1731, 0.3333333
+1732, 0.3333333
+1733, 0.3333333
+1734, 0.3333333
+1735, 0.3333333
+1736, 0.3333333
+1737, 0.3333333
+1738, 0.3333333
+1739, 0.3333333
+1740, 0.3333333
+1741, 0.3333333
+1742, 0.3333333
+1743, 0.3333333
+1744, 0.3333333
+1745, 0.3333333
+1746, 0.3333333
+1747, 0.3333333
+1748, 0.3333333
+1749, 0.3333333
+1750, 0.3333333
+1751, 0.3333333
+1752, 0.3333333
+1753, 0.3333333
+1754, 0.3333333
+1755, 0.3333333
+1756, 0.3333333
+1757, 0.3333333
+1758, 0.3333333
+1759, 0.3333333
+1760, 0.3333333
+1761, 0.3333333
+1762, 0.3333333
+1763, 0.3333333
+1764, 0.3333333
+1765, 0.3333333
+1766, 0.3333333
+1767, 0.3333333
+1768, 0.3333333
+1769, 0.3333333
+1770, 0.3333333
+1771, 0.3333333
+1772, 0.3333333
+1773, 0.3333333
+1774, 0.3333333
+1775, 0.3333333
+1776, 0.3333333
+1777, 0.3333333
+1778, 0.3333333
+1779, 0.3333333
+1780, 0.3333333
+1781, 0.3333333
+1782, 0.3333333
+1783, 0.3333333
+1784, 0.3333333
+1785, 0.3333333
+1786, 0.3333333
+1787, 0.3333333
+1788, 0.3333333
+1789, 0.3333333
+1790, 0.3333333
+1791, 0.3333333
+1792, 0.3333333
+1793, 0.3333333
+1794, 0.3333333
+1795, 0.3333333
+1796, 0.3333333
+1797, 0.3333333
+1798, 0.3333333
+1799, 0.3333333
+1800, 0.3333333
+1801, 0.3333333
+1802, 0.3333333
+1803, 0.3333333
+1804, 0.3333333
+1805, 0.3333333
+1806, 0.3333333
+1807, 0.3333333
+1808, 0.3333333
+1809, 0.3333333
+1810, 0.3333333
+1811, 0.3333333
+1812, 0.3333333
+1813, 0.3333333
+1814, 0.3333333
+1815, 0.3333333
+1816, 0.3333333
+1817, 0.3333333
+1818, 0.3333333
+1819, 0.3333333
+1820, 0.3333333
+1821, 0.3333333
+1822, 0.3333333
+1823, 0.3333333
+1824, 0.3333333
+1825, 0.3333333
+1826, 0.3333333
+1827, 0.3333333
+1828, 0.3333333
+1829, 0.3333333
+1830, 0.3333333
+1831, 0.3333333
+1832, 0.3333333
+1833, 0.3333333
+1834, 0.3333333
+1835, 0.3333333
+1836, 0.3333333
+1837, 0.3333333
+1838, 0.3333333
+1839, 0.3333333
+1840, 0.3333333
+1841, 0.3333333
+1842, 0.3333333
+1843, 0.3333333
+1844, 0.3333333
+1845, 0.3201122
+1846, 0.3333333
+1847, 0.3333333
+1848, 0.3333333
+1849, 0.3333333
+1850, 0.3333333
+1851, 0.3333333
+1852, 0.3333333
+1853, 0.3333333
+1854, 0.3333333
+1855, 0.3333333
+1856, 0.3333333
+1857, 0.3333333
+1858, 0.3333333
+1859, 0.3333333
+1860, 0.3333333
+1861, 0.3333333
+1862, 0.3333333
+1863, 0.3262371
+1864, 0.3333333
+1865, 0.3333333
+1866, 0.3333333
+1867, 0.3333333
+1868, 0.3333333
+1869, 0.3333333
+1870, 0.3333333
+1871, 0.3333333
+1872, 0.3333333
+1873, 0.3333333
+1874, 0.3333333
+1875, 0.3333333
+1876, 0.3333333
+1877, 0.3333333
+1878, 0.3333333
+1879, 0.3333333
+1880, 0.3333333
+1881, 0.3333333
+1882, 0.3333333
+1883, 0.3333333
+1884, 0.3333333
+1885, 0.3333333
+1886, 0.3333333
+1887, 0.3333333
+1888, 0.3333333
+1889, 0.3333333
+1890, 0.3333333
+1891, 0.3333333
+1892, 0.3333333
+1893, 0.3333333
+1894, 0.3333333
+1895, 0.3333333
+1896, 0.3333333
+1897, 0.3333333
+1898, 0.3333333
+1899, 0.3333333
+1900, 0.3333333
+1901, 0.3333333
+1902, 0.3333333
+1903, 0.3333333
+1904, 0.3333333
+1905, 0.3333333
+1906, 0.3333333
+1907, 0.3333333
+1908, 0.3333333
+1909, 0.3333333
+1910, 0.3333333
+1911, 0.3333333
+1912, 0.3333333
+1913, 0.3333333
+1914, 0.3333333
+1915, 0.3333333
+1916, 0.3333333
+1917, 0.3333333
+1918, 0.3333333
+1919, 0.3333333
+1920, 0.3333333
+1921, 0.3333333
+1922, 0.3333333
+1923, 0.3333333
+1924, 0.3333333
+1925, 0.3333333
+1926, 0.3333333
+1927, 0.3333333
+1928, 0.3333333
+1929, 0.3333333
+1930, 0.3333333
+1931, 0.3333333
+1932, 0.3333333
+1933, 0.3333333
+1934, 0.3333333
+1935, 0.3333333
+1936, 0.3327561
+1937, 0.3333333
+1938, 0.3333333
+1939, 0.3333333
+1940, 0.3333333
+1941, 0.3333333
+1942, 0.3333333
+1943, 0.3333333
+1944, 0.3333333
+1945, 0.3333333
+1946, 0.3333333
+1947, 0.3333333
+1948, 0.3333333
+1949, 0.3333333
+1950, 0.3333333
+1951, 0.3333333
+1952, 0.3333333
+1953, 0.3333333
+1954, 0.3193324
+1955, 0.3333333
+1956, 0.3333333
+1957, 0.3333333
+1958, 0.3333333
+1959, 0.3333333
+1960, 0.3333333
+1961, 0.3333333
+1962, 0.3333333
+1963, 0.3333333
+1964, 0.3333333
+1965, 0.3333333
+1966, 0.3333333
+1967, 0.3333333
+1968, 0.3333333
+1969, 0.3333333
+1970, 0.3333333
+1971, 0.3333333
+1972, 0.3222868
+1973, 0.3333333
+1974, 0.3333333
+1975, 0.3333333
+1976, 0.3333333
+1977, 0.3333333
+1978, 0.3333333
+1979, 0.3333333
+1980, 0.3333333
+1981, 0.3333333
+1982, 0.3333333
+1983, 0.3333333
+1984, 0.3333333
+1985, 0.3333333
+1986, 0.3333333
+1987, 0.3333333
+1988, 0.3333333
+1989, 0.3333333
+1990, 0.318697
+1991, 0.3333333
+1992, 0.3333333
+1993, 0.3333333
+1994, 0.3333333
+1995, 0.3333333
+1996, 0.3333333
+1997, 0.3333333
+1998, 0.3333333
+1999, 0.3333333

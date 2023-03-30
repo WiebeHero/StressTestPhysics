@@ -1,2000 +1,2000 @@
-Frame: 0, Time since last: 0,02
-Frame: 1, Time since last: 0,02
-Frame: 2, Time since last: 0,3333333
-Frame: 3, Time since last: 0,3333045
-Frame: 4, Time since last: 0,135866
-Frame: 5, Time since last: 0,0529136
-Frame: 6, Time since last: 0,0267414
-Frame: 7, Time since last: 0,0124093
-Frame: 8, Time since last: 0,0235359
-Frame: 9, Time since last: 0,0208535
-Frame: 10, Time since last: 0,0202624
-Frame: 11, Time since last: 0,0114188
-Frame: 12, Time since last: 0,0203445
-Frame: 13, Time since last: 0,0187705
-Frame: 14, Time since last: 0,0120876
-Frame: 15, Time since last: 0,0115871
-Frame: 16, Time since last: 0,0110785
-Frame: 17, Time since last: 0,0105807
-Frame: 18, Time since last: 0,0100941
-Frame: 19, Time since last: 0,0095691
-Frame: 20, Time since last: 0,0090799
-Frame: 21, Time since last: 0,0085834
-Frame: 22, Time since last: 0,008325
-Frame: 23, Time since last: 0,0083532
-Frame: 24, Time since last: 0,008325
-Frame: 25, Time since last: 0,008325
-Frame: 26, Time since last: 0,0083747
-Frame: 27, Time since last: 0,008325
-Frame: 28, Time since last: 0,008335
-Frame: 29, Time since last: 0,008325
-Frame: 30, Time since last: 0,008325
-Frame: 31, Time since last: 0,0083444
-Frame: 32, Time since last: 0,008325
-Frame: 33, Time since last: 0,0083416
-Frame: 34, Time since last: 0,008325
-Frame: 35, Time since last: 0,008325
-Frame: 36, Time since last: 0,008325
-Frame: 37, Time since last: 0,008325
-Frame: 38, Time since last: 0,0083421
-Frame: 39, Time since last: 0,0083807
-Frame: 40, Time since last: 0,0083339
-Frame: 41, Time since last: 0,0091293
-Frame: 42, Time since last: 0,0083839
-Frame: 43, Time since last: 0,008325
-Frame: 44, Time since last: 0,0103379
-Frame: 45, Time since last: 0,0083569
-Frame: 46, Time since last: 0,0109191
-Frame: 47, Time since last: 0,0083406
-Frame: 48, Time since last: 0,010061
-Frame: 49, Time since last: 0,0083792
-Frame: 50, Time since last: 0,009752
-Frame: 51, Time since last: 0,0083572
-Frame: 52, Time since last: 0,0105658
-Frame: 53, Time since last: 0,008357
-Frame: 54, Time since last: 0,0092045
-Frame: 55, Time since last: 0,008325
-Frame: 56, Time since last: 0,0083381
-Frame: 57, Time since last: 0,008325
-Frame: 58, Time since last: 0,0083462
-Frame: 59, Time since last: 0,008325
-Frame: 60, Time since last: 0,0083376
-Frame: 61, Time since last: 0,0084286
-Frame: 62, Time since last: 0,0083734
-Frame: 63, Time since last: 0,008325
-Frame: 64, Time since last: 0,0083627
-Frame: 65, Time since last: 0,008325
-Frame: 66, Time since last: 0,0095441
-Frame: 67, Time since last: 0,0083483
-Frame: 68, Time since last: 0,008325
-Frame: 69, Time since last: 0,0083353
-Frame: 70, Time since last: 0,008366
-Frame: 71, Time since last: 0,008325
-Frame: 72, Time since last: 0,008325
-Frame: 73, Time since last: 0,0089508
-Frame: 74, Time since last: 0,0083342
-Frame: 75, Time since last: 0,0083552
-Frame: 76, Time since last: 0,008325
-Frame: 77, Time since last: 0,0083675
-Frame: 78, Time since last: 0,008325
-Frame: 79, Time since last: 0,008325
-Frame: 80, Time since last: 0,008325
-Frame: 81, Time since last: 0,008325
-Frame: 82, Time since last: 0,0083368
-Frame: 83, Time since last: 0,008325
-Frame: 84, Time since last: 0,008341
-Frame: 85, Time since last: 0,008325
-Frame: 86, Time since last: 0,0083443
-Frame: 87, Time since last: 0,0083551
-Frame: 88, Time since last: 0,008325
-Frame: 89, Time since last: 0,008325
-Frame: 90, Time since last: 0,008325
-Frame: 91, Time since last: 0,008325
-Frame: 92, Time since last: 0,008325
-Frame: 93, Time since last: 0,008325
-Frame: 94, Time since last: 0,0083686
-Frame: 95, Time since last: 0,008325
-Frame: 96, Time since last: 0,008325
-Frame: 97, Time since last: 0,008325
-Frame: 98, Time since last: 0,0083473
-Frame: 99, Time since last: 0,008325
-Frame: 100, Time since last: 0,008325
-Frame: 101, Time since last: 0,0083681
-Frame: 102, Time since last: 0,008325
-Frame: 103, Time since last: 0,008325
-Frame: 104, Time since last: 0,008325
-Frame: 105, Time since last: 0,008325
-Frame: 106, Time since last: 0,0083388
-Frame: 107, Time since last: 0,008325
-Frame: 108, Time since last: 0,0083625
-Frame: 109, Time since last: 0,008325
-Frame: 110, Time since last: 0,008325
-Frame: 111, Time since last: 0,008325
-Frame: 112, Time since last: 0,008325
-Frame: 113, Time since last: 0,0083676
-Frame: 114, Time since last: 0,008325
-Frame: 115, Time since last: 0,008325
-Frame: 116, Time since last: 0,008325
-Frame: 117, Time since last: 0,008325
-Frame: 118, Time since last: 0,0083607
-Frame: 119, Time since last: 0,008325
-Frame: 120, Time since last: 0,008325
-Frame: 121, Time since last: 0,008325
-Frame: 122, Time since last: 0,008325
-Frame: 123, Time since last: 0,0083456
-Frame: 124, Time since last: 0,008325
-Frame: 125, Time since last: 0,0083539
-Frame: 126, Time since last: 0,008325
-Frame: 127, Time since last: 0,008325
-Frame: 128, Time since last: 0,0083379
-Frame: 129, Time since last: 0,008325
-Frame: 130, Time since last: 0,0083371
-Frame: 131, Time since last: 0,008325
-Frame: 132, Time since last: 0,0083605
-Frame: 133, Time since last: 0,008325
-Frame: 134, Time since last: 0,008325
-Frame: 135, Time since last: 0,0083609
-Frame: 136, Time since last: 0,008325
-Frame: 137, Time since last: 0,008341
-Frame: 138, Time since last: 0,008325
-Frame: 139, Time since last: 0,008325
-Frame: 140, Time since last: 0,0083659
-Frame: 141, Time since last: 0,0083517
-Frame: 142, Time since last: 0,0083424
-Frame: 143, Time since last: 0,0102598
-Frame: 144, Time since last: 0,0083605
-Frame: 145, Time since last: 0,0108201
-Frame: 146, Time since last: 0,0083556
-Frame: 147, Time since last: 0,0106928
-Frame: 148, Time since last: 0,0083526
-Frame: 149, Time since last: 0,0109815
-Frame: 150, Time since last: 0,0083441
-Frame: 151, Time since last: 0,0104401
-Frame: 152, Time since last: 0,0083895
-Frame: 153, Time since last: 0,0107937
-Frame: 154, Time since last: 0,008374
-Frame: 155, Time since last: 0,011914
-Frame: 156, Time since last: 0,0083778
-Frame: 157, Time since last: 0,0114121
-Frame: 158, Time since last: 0,0083648
-Frame: 159, Time since last: 0,0114084
-Frame: 160, Time since last: 0,0083727
-Frame: 161, Time since last: 0,01167
-Frame: 162, Time since last: 0,008367
-Frame: 163, Time since last: 0,0122247
-Frame: 164, Time since last: 0,0083474
-Frame: 165, Time since last: 0,0131873
-Frame: 166, Time since last: 0,0083546
-Frame: 167, Time since last: 0,0131786
-Frame: 168, Time since last: 0,0083758
-Frame: 169, Time since last: 0,0127109
-Frame: 170, Time since last: 0,0083876
-Frame: 171, Time since last: 0,0130499
-Frame: 172, Time since last: 0,0083897
-Frame: 173, Time since last: 0,0127303
-Frame: 174, Time since last: 0,008404
-Frame: 175, Time since last: 0,0127309
-Frame: 176, Time since last: 0,0083769
-Frame: 177, Time since last: 0,0122478
-Frame: 178, Time since last: 0,0083734
-Frame: 179, Time since last: 0,0108916
-Frame: 180, Time since last: 0,008349
-Frame: 181, Time since last: 0,0107676
-Frame: 182, Time since last: 0,0083604
-Frame: 183, Time since last: 0,0104529
-Frame: 184, Time since last: 0,0083751
-Frame: 185, Time since last: 0,0108185
-Frame: 186, Time since last: 0,0083849
-Frame: 187, Time since last: 0,0097537
-Frame: 188, Time since last: 0,0083625
-Frame: 189, Time since last: 0,0092976
-Frame: 190, Time since last: 0,0083486
-Frame: 191, Time since last: 0,0091404
-Frame: 192, Time since last: 0,0083532
-Frame: 193, Time since last: 0,0083376
-Frame: 194, Time since last: 0,0114174
-Frame: 195, Time since last: 0,0083732
-Frame: 196, Time since last: 0,0119249
-Frame: 197, Time since last: 0,0083478
-Frame: 198, Time since last: 0,0128202
-Frame: 199, Time since last: 0,0083611
-Frame: 200, Time since last: 0,0135488
-Frame: 201, Time since last: 0,0098737
-Frame: 202, Time since last: 0,0122912
-Frame: 203, Time since last: 0,0166799
-Frame: 204, Time since last: 0,0083724
-Frame: 205, Time since last: 0,0206463
-Frame: 206, Time since last: 0,0083346
-Frame: 207, Time since last: 0,0123304
-Frame: 208, Time since last: 0,0167081
-Frame: 209, Time since last: 0,008325
-Frame: 210, Time since last: 0,0108866
-Frame: 211, Time since last: 0,0110442
-Frame: 212, Time since last: 0,0083557
-Frame: 213, Time since last: 0,009008
-Frame: 214, Time since last: 0,008325
-Frame: 215, Time since last: 0,0098029
-Frame: 216, Time since last: 0,0083521
-Frame: 217, Time since last: 0,010518
-Frame: 218, Time since last: 0,008325
-Frame: 219, Time since last: 0,0143331
-Frame: 220, Time since last: 0,0083592
-Frame: 221, Time since last: 0,0106594
-Frame: 222, Time since last: 0,008369
-Frame: 223, Time since last: 0,011263
-Frame: 224, Time since last: 0,0083497
-Frame: 225, Time since last: 0,012041
-Frame: 226, Time since last: 0,008325
-Frame: 227, Time since last: 0,0136021
-Frame: 228, Time since last: 0,0083614
-Frame: 229, Time since last: 0,013521
-Frame: 230, Time since last: 0,0083504
-Frame: 231, Time since last: 0,0219796
-Frame: 232, Time since last: 0,0098329
-Frame: 233, Time since last: 0,0212767
-Frame: 234, Time since last: 0,0114229
-Frame: 235, Time since last: 0,0192911
-Frame: 236, Time since last: 0,0107932
-Frame: 237, Time since last: 0,0157538
-Frame: 238, Time since last: 0,0204806
-Frame: 239, Time since last: 0,0123403
-Frame: 240, Time since last: 0,0177088
-Frame: 241, Time since last: 0,0108966
-Frame: 242, Time since last: 0,0132706
-Frame: 243, Time since last: 0,0183419
-Frame: 244, Time since last: 0,0129483
-Frame: 245, Time since last: 0,0133934
-Frame: 246, Time since last: 0,0197747
-Frame: 247, Time since last: 0,0193193
-Frame: 248, Time since last: 0,0188186
-Frame: 249, Time since last: 0,0138201
-Frame: 250, Time since last: 0,0187198
-Frame: 251, Time since last: 0,0119392
-Frame: 252, Time since last: 0,0114099
-Frame: 253, Time since last: 0,0167294
-Frame: 254, Time since last: 0,0114132
-Frame: 255, Time since last: 0,0126975
-Frame: 256, Time since last: 0,0172191
-Frame: 257, Time since last: 0,0109282
-Frame: 258, Time since last: 0,0128868
-Frame: 259, Time since last: 0,0178908
-Frame: 260, Time since last: 0,0102099
-Frame: 261, Time since last: 0,0125467
-Frame: 262, Time since last: 0,0173437
-Frame: 263, Time since last: 0,0154167
-Frame: 264, Time since last: 0,0106935
-Frame: 265, Time since last: 0,0109665
-Frame: 266, Time since last: 0,0144515
-Frame: 267, Time since last: 0,0104253
-Frame: 268, Time since last: 0,0097701
-Frame: 269, Time since last: 0,0093479
-Frame: 270, Time since last: 0,008827
-Frame: 271, Time since last: 0,0083792
-Frame: 272, Time since last: 0,0089949
-Frame: 273, Time since last: 0,0083436
-Frame: 274, Time since last: 0,0083868
-Frame: 275, Time since last: 0,008325
-Frame: 276, Time since last: 0,008325
-Frame: 277, Time since last: 0,0083594
-Frame: 278, Time since last: 0,008325
-Frame: 279, Time since last: 0,008325
-Frame: 280, Time since last: 0,0083343
-Frame: 281, Time since last: 0,0083408
-Frame: 282, Time since last: 0,008325
-Frame: 283, Time since last: 0,008325
-Frame: 284, Time since last: 0,008325
-Frame: 285, Time since last: 0,0083336
-Frame: 286, Time since last: 0,008325
-Frame: 287, Time since last: 0,008368
-Frame: 288, Time since last: 0,008325
-Frame: 289, Time since last: 0,008325
-Frame: 290, Time since last: 0,008325
-Frame: 291, Time since last: 0,008325
-Frame: 292, Time since last: 0,0083442
-Frame: 293, Time since last: 0,008325
-Frame: 294, Time since last: 0,0083374
-Frame: 295, Time since last: 0,0083394
-Frame: 296, Time since last: 0,008325
-Frame: 297, Time since last: 0,008349
-Frame: 298, Time since last: 0,008325
-Frame: 299, Time since last: 0,008325
-Frame: 300, Time since last: 0,008325
-Frame: 301, Time since last: 0,008325
-Frame: 302, Time since last: 0,008325
-Frame: 303, Time since last: 0,008325
-Frame: 304, Time since last: 0,0083805
-Frame: 305, Time since last: 0,008325
-Frame: 306, Time since last: 0,008325
-Frame: 307, Time since last: 0,008325
-Frame: 308, Time since last: 0,008344
-Frame: 309, Time since last: 0,008325
-Frame: 310, Time since last: 0,008325
-Frame: 311, Time since last: 0,0083472
-Frame: 312, Time since last: 0,008325
-Frame: 313, Time since last: 0,008325
-Frame: 314, Time since last: 0,008325
-Frame: 315, Time since last: 0,0083453
-Frame: 316, Time since last: 0,008325
-Frame: 317, Time since last: 0,0083563
-Frame: 318, Time since last: 0,008335
-Frame: 319, Time since last: 0,0083445
-Frame: 320, Time since last: 0,008325
-Frame: 321, Time since last: 0,008325
-Frame: 322, Time since last: 0,008325
-Frame: 323, Time since last: 0,0083651
-Frame: 324, Time since last: 0,0089093
-Frame: 325, Time since last: 0,0083646
-Frame: 326, Time since last: 0,008325
-Frame: 327, Time since last: 0,0083347
-Frame: 328, Time since last: 0,0083342
-Frame: 329, Time since last: 0,0083659
-Frame: 330, Time since last: 0,008325
-Frame: 331, Time since last: 0,0083387
-Frame: 332, Time since last: 0,0083478
-Frame: 333, Time since last: 0,008325
-Frame: 334, Time since last: 0,008325
-Frame: 335, Time since last: 0,008325
-Frame: 336, Time since last: 0,008325
-Frame: 337, Time since last: 0,0083346
-Frame: 338, Time since last: 0,008325
-Frame: 339, Time since last: 0,0083538
-Frame: 340, Time since last: 0,008325
-Frame: 341, Time since last: 0,0083563
-Frame: 342, Time since last: 0,008325
-Frame: 343, Time since last: 0,008325
-Frame: 344, Time since last: 0,0083471
-Frame: 345, Time since last: 0,008325
-Frame: 346, Time since last: 0,008325
-Frame: 347, Time since last: 0,008325
-Frame: 348, Time since last: 0,0083512
-Frame: 349, Time since last: 0,0083454
-Frame: 350, Time since last: 0,008325
-Frame: 351, Time since last: 0,008325
-Frame: 352, Time since last: 0,008325
-Frame: 353, Time since last: 0,008325
-Frame: 354, Time since last: 0,008325
-Frame: 355, Time since last: 0,008325
-Frame: 356, Time since last: 0,0083502
-Frame: 357, Time since last: 0,008325
-Frame: 358, Time since last: 0,008325
-Frame: 359, Time since last: 0,008325
-Frame: 360, Time since last: 0,0083526
-Frame: 361, Time since last: 0,0083433
-Frame: 362, Time since last: 0,008325
-Frame: 363, Time since last: 0,008325
-Frame: 364, Time since last: 0,0083373
-Frame: 365, Time since last: 0,008325
-Frame: 366, Time since last: 0,0083756
-Frame: 367, Time since last: 0,008325
-Frame: 368, Time since last: 0,008325
-Frame: 369, Time since last: 0,008325
-Frame: 370, Time since last: 0,008325
-Frame: 371, Time since last: 0,008325
-Frame: 372, Time since last: 0,008325
-Frame: 373, Time since last: 0,008355
-Frame: 374, Time since last: 0,008325
-Frame: 375, Time since last: 0,008325
-Frame: 376, Time since last: 0,0083355
-Frame: 377, Time since last: 0,008325
-Frame: 378, Time since last: 0,0083335
-Frame: 379, Time since last: 0,008325
-Frame: 380, Time since last: 0,0083628
-Frame: 381, Time since last: 0,0083374
-Frame: 382, Time since last: 0,008325
-Frame: 383, Time since last: 0,008325
-Frame: 384, Time since last: 0,0086947
-Frame: 385, Time since last: 0,0083558
-Frame: 386, Time since last: 0,008325
-Frame: 387, Time since last: 0,008325
-Frame: 388, Time since last: 0,0083565
-Frame: 389, Time since last: 0,008325
-Frame: 390, Time since last: 0,00835
-Frame: 391, Time since last: 0,008325
-Frame: 392, Time since last: 0,008325
-Frame: 393, Time since last: 0,0083549
-Frame: 394, Time since last: 0,008325
-Frame: 395, Time since last: 0,008325
-Frame: 396, Time since last: 0,008325
-Frame: 397, Time since last: 0,0083584
-Frame: 398, Time since last: 0,008325
-Frame: 399, Time since last: 0,008325
-Frame: 400, Time since last: 0,008325
-Frame: 401, Time since last: 0,008325
-Frame: 402, Time since last: 0,0083516
-Frame: 403, Time since last: 0,008325
-Frame: 404, Time since last: 0,0083718
-Frame: 405, Time since last: 0,008325
-Frame: 406, Time since last: 0,008325
-Frame: 407, Time since last: 0,008325
-Frame: 408, Time since last: 0,008325
-Frame: 409, Time since last: 0,0083456
-Frame: 410, Time since last: 0,008325
-Frame: 411, Time since last: 0,008325
-Frame: 412, Time since last: 0,0083486
-Frame: 413, Time since last: 0,008325
-Frame: 414, Time since last: 0,008325
-Frame: 415, Time since last: 0,008325
-Frame: 416, Time since last: 0,008325
-Frame: 417, Time since last: 0,0083505
-Frame: 418, Time since last: 0,008325
-Frame: 419, Time since last: 0,008342
-Frame: 420, Time since last: 0,008325
-Frame: 421, Time since last: 0,0083542
-Frame: 422, Time since last: 0,008325
-Frame: 423, Time since last: 0,008325
-Frame: 424, Time since last: 0,0083426
-Frame: 425, Time since last: 0,008325
-Frame: 426, Time since last: 0,0083381
-Frame: 427, Time since last: 0,008325
-Frame: 428, Time since last: 0,0083464
-Frame: 429, Time since last: 0,0083373
-Frame: 430, Time since last: 0,008325
-Frame: 431, Time since last: 0,008325
-Frame: 432, Time since last: 0,008325
-Frame: 433, Time since last: 0,0083556
-Frame: 434, Time since last: 0,008325
-Frame: 435, Time since last: 0,008325
-Frame: 436, Time since last: 0,0083418
-Frame: 437, Time since last: 0,008325
-Frame: 438, Time since last: 0,0083523
-Frame: 439, Time since last: 0,008325
-Frame: 440, Time since last: 0,008367
-Frame: 441, Time since last: 0,008325
-Frame: 442, Time since last: 0,008325
-Frame: 443, Time since last: 0,008325
-Frame: 444, Time since last: 0,0085206
-Frame: 445, Time since last: 0,008335
-Frame: 446, Time since last: 0,008338
-Frame: 447, Time since last: 0,008325
-Frame: 448, Time since last: 0,0083486
-Frame: 449, Time since last: 0,008325
-Frame: 450, Time since last: 0,0083421
-Frame: 451, Time since last: 0,008325
-Frame: 452, Time since last: 0,008325
-Frame: 453, Time since last: 0,0083478
-Frame: 454, Time since last: 0,0084329
-Frame: 455, Time since last: 0,0083807
-Frame: 456, Time since last: 0,008325
-Frame: 457, Time since last: 0,0083365
-Frame: 458, Time since last: 0,0083337
-Frame: 459, Time since last: 0,008659
-Frame: 460, Time since last: 0,0083392
-Frame: 461, Time since last: 0,0083351
-Frame: 462, Time since last: 0,008343
-Frame: 463, Time since last: 0,008325
-Frame: 464, Time since last: 0,0083464
-Frame: 465, Time since last: 0,0083343
-Frame: 466, Time since last: 0,0087414
-Frame: 467, Time since last: 0,0083698
-Frame: 468, Time since last: 0,0087514
-Frame: 469, Time since last: 0,0083511
-Frame: 470, Time since last: 0,0089178
-Frame: 471, Time since last: 0,0083528
-Frame: 472, Time since last: 0,0083365
-Frame: 473, Time since last: 0,0088629
-Frame: 474, Time since last: 0,0083773
-Frame: 475, Time since last: 0,0091389
-Frame: 476, Time since last: 0,0083555
-Frame: 477, Time since last: 0,0095567
-Frame: 478, Time since last: 0,0083907
-Frame: 479, Time since last: 0,008325
-Frame: 480, Time since last: 0,0103134
-Frame: 481, Time since last: 0,0083427
-Frame: 482, Time since last: 0,0094141
-Frame: 483, Time since last: 0,0083603
-Frame: 484, Time since last: 0,0095833
-Frame: 485, Time since last: 0,0083677
-Frame: 486, Time since last: 0,0101945
-Frame: 487, Time since last: 0,0083559
-Frame: 488, Time since last: 0,0101072
-Frame: 489, Time since last: 0,0083705
-Frame: 490, Time since last: 0,008325
-Frame: 491, Time since last: 0,0104796
-Frame: 492, Time since last: 0,0083775
-Frame: 493, Time since last: 0,0104493
-Frame: 494, Time since last: 0,008375
-Frame: 495, Time since last: 0,0116337
-Frame: 496, Time since last: 0,0083582
-Frame: 497, Time since last: 0,0114214
-Frame: 498, Time since last: 0,0083579
-Frame: 499, Time since last: 0,0105032
-Frame: 500, Time since last: 0,0083503
-Frame: 501, Time since last: 0,0132313
-Frame: 502, Time since last: 0,0083879
-Frame: 503, Time since last: 0,0117826
-Frame: 504, Time since last: 0,0083667
-Frame: 505, Time since last: 0,011225
-Frame: 506, Time since last: 0,0083337
-Frame: 507, Time since last: 0,0122431
-Frame: 508, Time since last: 0,0083583
-Frame: 509, Time since last: 0,0115671
-Frame: 510, Time since last: 0,0083748
-Frame: 511, Time since last: 0,0116234
-Frame: 512, Time since last: 0,0084011
-Frame: 513, Time since last: 0,0127231
-Frame: 514, Time since last: 0,0083769
-Frame: 515, Time since last: 0,0125022
-Frame: 516, Time since last: 0,0083609
-Frame: 517, Time since last: 0,0120947
-Frame: 518, Time since last: 0,0083661
-Frame: 519, Time since last: 0,0117301
-Frame: 520, Time since last: 0,0083532
-Frame: 521, Time since last: 0,0121719
-Frame: 522, Time since last: 0,0083708
-Frame: 523, Time since last: 0,0119482
-Frame: 524, Time since last: 0,0083596
-Frame: 525, Time since last: 0,0109247
-Frame: 526, Time since last: 0,0083891
-Frame: 527, Time since last: 0,0122722
-Frame: 528, Time since last: 0,0083571
-Frame: 529, Time since last: 0,0216251
-Frame: 530, Time since last: 0,010612
-Frame: 531, Time since last: 0,0206253
-Frame: 532, Time since last: 0,0112221
-Frame: 533, Time since last: 0,0143314
-Frame: 534, Time since last: 0,013464
-Frame: 535, Time since last: 0,0120451
-Frame: 536, Time since last: 0,0115204
-Frame: 537, Time since last: 0,0109956
-Frame: 538, Time since last: 0,0105258
-Frame: 539, Time since last: 0,0099696
-Frame: 540, Time since last: 0,0095405
-Frame: 541, Time since last: 0,0103731
-Frame: 542, Time since last: 0,008529
-Frame: 543, Time since last: 0,0117094
-Frame: 544, Time since last: 0,0083638
-Frame: 545, Time since last: 0,0115598
-Frame: 546, Time since last: 0,0083547
-Frame: 547, Time since last: 0,0226041
-Frame: 548, Time since last: 0,0083487
-Frame: 549, Time since last: 0,0118693
-Frame: 550, Time since last: 0,0130399
-Frame: 551, Time since last: 0,0083796
-Frame: 552, Time since last: 0,01118
-Frame: 553, Time since last: 0,0083717
-Frame: 554, Time since last: 0,0112403
-Frame: 555, Time since last: 0,0083703
-Frame: 556, Time since last: 0,0106685
-Frame: 557, Time since last: 0,0083715
-Frame: 558, Time since last: 0,0099801
-Frame: 559, Time since last: 0,008356
-Frame: 560, Time since last: 0,0116492
-Frame: 561, Time since last: 0,0083653
-Frame: 562, Time since last: 0,0104302
-Frame: 563, Time since last: 0,0083642
-Frame: 564, Time since last: 0,0096347
-Frame: 565, Time since last: 0,0083792
-Frame: 566, Time since last: 0,008325
-Frame: 567, Time since last: 0,008325
-Frame: 568, Time since last: 0,0083526
-Frame: 569, Time since last: 0,008325
-Frame: 570, Time since last: 0,0083361
-Frame: 571, Time since last: 0,008325
-Frame: 572, Time since last: 0,0083385
-Frame: 573, Time since last: 0,008325
-Frame: 574, Time since last: 0,008325
-Frame: 575, Time since last: 0,008353
-Frame: 576, Time since last: 0,008325
-Frame: 577, Time since last: 0,0083455
-Frame: 578, Time since last: 0,008325
-Frame: 579, Time since last: 0,0083699
-Frame: 580, Time since last: 0,008325
-Frame: 581, Time since last: 0,0091147
-Frame: 582, Time since last: 0,0083856
-Frame: 583, Time since last: 0,008325
-Frame: 584, Time since last: 0,008325
-Frame: 585, Time since last: 0,008325
-Frame: 586, Time since last: 0,008348
-Frame: 587, Time since last: 0,008325
-Frame: 588, Time since last: 0,0085537
-Frame: 589, Time since last: 0,0083564
-Frame: 590, Time since last: 0,0093
-Frame: 591, Time since last: 0,008364
-Frame: 592, Time since last: 0,0101323
-Frame: 593, Time since last: 0,0083493
-Frame: 594, Time since last: 0,0083346
-Frame: 595, Time since last: 0,012297
-Frame: 596, Time since last: 0,0083661
-Frame: 597, Time since last: 0,0127677
-Frame: 598, Time since last: 0,0083779
-Frame: 599, Time since last: 0,0137616
-Frame: 600, Time since last: 0,0083621
-Frame: 601, Time since last: 0,0138299
-Frame: 602, Time since last: 0,0084045
-Frame: 603, Time since last: 0,0139984
-Frame: 604, Time since last: 0,0147823
-Frame: 605, Time since last: 0,0083953
-Frame: 606, Time since last: 0,0131665
-Frame: 607, Time since last: 0,0083778
-Frame: 608, Time since last: 0,0139339
-Frame: 609, Time since last: 0,0233679
-Frame: 610, Time since last: 0,0083425
-Frame: 611, Time since last: 0,0146524
-Frame: 612, Time since last: 0,0187052
-Frame: 613, Time since last: 0,0111059
-Frame: 614, Time since last: 0,0109161
-Frame: 615, Time since last: 0,0104036
-Frame: 616, Time since last: 0,0104524
-Frame: 617, Time since last: 0,0097746
-Frame: 618, Time since last: 0,0093101
-Frame: 619, Time since last: 0,0087455
-Frame: 620, Time since last: 0,0104569
-Frame: 621, Time since last: 0,0083782
-Frame: 622, Time since last: 0,0091892
-Frame: 623, Time since last: 0,008378
-Frame: 624, Time since last: 0,0083395
-Frame: 625, Time since last: 0,0086341
-Frame: 626, Time since last: 0,0083739
-Frame: 627, Time since last: 0,008325
-Frame: 628, Time since last: 0,0083452
-Frame: 629, Time since last: 0,008325
-Frame: 630, Time since last: 0,0083385
-Frame: 631, Time since last: 0,008325
-Frame: 632, Time since last: 0,00955
-Frame: 633, Time since last: 0,0083589
-Frame: 634, Time since last: 0,0085652
-Frame: 635, Time since last: 0,0083683
-Frame: 636, Time since last: 0,008325
-Frame: 637, Time since last: 0,0083429
-Frame: 638, Time since last: 0,008325
-Frame: 639, Time since last: 0,008325
-Frame: 640, Time since last: 0,0083438
-Frame: 641, Time since last: 0,008325
-Frame: 642, Time since last: 0,008325
-Frame: 643, Time since last: 0,0083525
-Frame: 644, Time since last: 0,008325
-Frame: 645, Time since last: 0,0083404
-Frame: 646, Time since last: 0,008325
-Frame: 647, Time since last: 0,0083357
-Frame: 648, Time since last: 0,008325
-Frame: 649, Time since last: 0,008325
-Frame: 650, Time since last: 0,0083381
-Frame: 651, Time since last: 0,008325
-Frame: 652, Time since last: 0,0083384
-Frame: 653, Time since last: 0,008325
-Frame: 654, Time since last: 0,008343
-Frame: 655, Time since last: 0,0083375
-Frame: 656, Time since last: 0,008325
-Frame: 657, Time since last: 0,008342
-Frame: 658, Time since last: 0,008325
-Frame: 659, Time since last: 0,008325
-Frame: 660, Time since last: 0,0083398
-Frame: 661, Time since last: 0,008325
-Frame: 662, Time since last: 0,008341
-Frame: 663, Time since last: 0,008325
-Frame: 664, Time since last: 0,0083652
-Frame: 665, Time since last: 0,008325
-Frame: 666, Time since last: 0,008325
-Frame: 667, Time since last: 0,008325
-Frame: 668, Time since last: 0,008325
-Frame: 669, Time since last: 0,0083455
-Frame: 670, Time since last: 0,008325
-Frame: 671, Time since last: 0,0083372
-Frame: 672, Time since last: 0,008325
-Frame: 673, Time since last: 0,0083376
-Frame: 674, Time since last: 0,0083395
-Frame: 675, Time since last: 0,008325
-Frame: 676, Time since last: 0,0083406
-Frame: 677, Time since last: 0,008325
-Frame: 678, Time since last: 0,0083392
-Frame: 679, Time since last: 0,0083365
-Frame: 680, Time since last: 0,008325
-Frame: 681, Time since last: 0,0083452
-Frame: 682, Time since last: 0,008325
-Frame: 683, Time since last: 0,0083367
-Frame: 684, Time since last: 0,008325
-Frame: 685, Time since last: 0,0083338
-Frame: 686, Time since last: 0,0083725
-Frame: 687, Time since last: 0,008325
-Frame: 688, Time since last: 0,008325
-Frame: 689, Time since last: 0,008325
-Frame: 690, Time since last: 0,008325
-Frame: 691, Time since last: 0,008325
-Frame: 692, Time since last: 0,008334
-Frame: 693, Time since last: 0,0083477
-Frame: 694, Time since last: 0,008325
-Frame: 695, Time since last: 0,0083501
-Frame: 696, Time since last: 0,008325
-Frame: 697, Time since last: 0,008325
-Frame: 698, Time since last: 0,0083594
-Frame: 699, Time since last: 0,008325
-Frame: 700, Time since last: 0,008325
-Frame: 701, Time since last: 0,008325
-Frame: 702, Time since last: 0,0083512
-Frame: 703, Time since last: 0,008325
-Frame: 704, Time since last: 0,008325
-Frame: 705, Time since last: 0,0083451
-Frame: 706, Time since last: 0,008325
-Frame: 707, Time since last: 0,0083606
-Frame: 708, Time since last: 0,008325
-Frame: 709, Time since last: 0,008325
-Frame: 710, Time since last: 0,008325
-Frame: 711, Time since last: 0,0101141
-Frame: 712, Time since last: 0,0083671
-Frame: 713, Time since last: 0,008325
-Frame: 714, Time since last: 0,0083457
-Frame: 715, Time since last: 0,008325
-Frame: 716, Time since last: 0,0083549
-Frame: 717, Time since last: 0,0083387
-Frame: 718, Time since last: 0,008325
-Frame: 719, Time since last: 0,008325
-Frame: 720, Time since last: 0,008325
-Frame: 721, Time since last: 0,0083552
-Frame: 722, Time since last: 0,008325
-Frame: 723, Time since last: 0,008325
-Frame: 724, Time since last: 0,0083448
-Frame: 725, Time since last: 0,008325
-Frame: 726, Time since last: 0,008325
-Frame: 727, Time since last: 0,008325
-Frame: 728, Time since last: 0,0083538
-Frame: 729, Time since last: 0,008325
-Frame: 730, Time since last: 0,008325
-Frame: 731, Time since last: 0,0083351
-Frame: 732, Time since last: 0,008325
-Frame: 733, Time since last: 0,0083515
-Frame: 734, Time since last: 0,008325
-Frame: 735, Time since last: 0,008325
-Frame: 736, Time since last: 0,0083491
-Frame: 737, Time since last: 0,008325
-Frame: 738, Time since last: 0,0083413
-Frame: 739, Time since last: 0,008325
-Frame: 740, Time since last: 0,0083494
-Frame: 741, Time since last: 0,008325
-Frame: 742, Time since last: 0,008325
-Frame: 743, Time since last: 0,0083351
-Frame: 744, Time since last: 0,008325
-Frame: 745, Time since last: 0,0083506
-Frame: 746, Time since last: 0,0083402
-Frame: 747, Time since last: 0,008325
-Frame: 748, Time since last: 0,008325
-Frame: 749, Time since last: 0,0092888
-Frame: 750, Time since last: 0,0083432
-Frame: 751, Time since last: 0,0101735
-Frame: 752, Time since last: 0,008368
-Frame: 753, Time since last: 0,0083334
-Frame: 754, Time since last: 0,0107613
-Frame: 755, Time since last: 0,0083558
-Frame: 756, Time since last: 0,0100984
-Frame: 757, Time since last: 0,0083367
-Frame: 758, Time since last: 0,009963
-Frame: 759, Time since last: 0,0083773
-Frame: 760, Time since last: 0,0094477
-Frame: 761, Time since last: 0,0083815
-Frame: 762, Time since last: 0,0096042
-Frame: 763, Time since last: 0,0083699
-Frame: 764, Time since last: 0,008325
-Frame: 765, Time since last: 0,0096999
-Frame: 766, Time since last: 0,0083545
-Frame: 767, Time since last: 0,0090507
-Frame: 768, Time since last: 0,0083722
-Frame: 769, Time since last: 0,011326
-Frame: 770, Time since last: 0,0083871
-Frame: 771, Time since last: 0,009663
-Frame: 772, Time since last: 0,0083724
-Frame: 773, Time since last: 0,0104399
-Frame: 774, Time since last: 0,008365
-Frame: 775, Time since last: 0,0105666
-Frame: 776, Time since last: 0,0083487
-Frame: 777, Time since last: 0,0083532
-Frame: 778, Time since last: 0,0113838
-Frame: 779, Time since last: 0,0083696
-Frame: 780, Time since last: 0,0112053
-Frame: 781, Time since last: 0,0083525
-Frame: 782, Time since last: 0,011027
-Frame: 783, Time since last: 0,008359
-Frame: 784, Time since last: 0,0113034
-Frame: 785, Time since last: 0,0083949
-Frame: 786, Time since last: 0,0123708
-Frame: 787, Time since last: 0,008372
-Frame: 788, Time since last: 0,0114596
-Frame: 789, Time since last: 0,00834
-Frame: 790, Time since last: 0,0121426
-Frame: 791, Time since last: 0,0083742
-Frame: 792, Time since last: 0,01167
-Frame: 793, Time since last: 0,008372
-Frame: 794, Time since last: 0,0131093
-Frame: 795, Time since last: 0,0083471
-Frame: 796, Time since last: 0,0121763
-Frame: 797, Time since last: 0,0083681
-Frame: 798, Time since last: 0,01263
-Frame: 799, Time since last: 0,0083674
-Frame: 800, Time since last: 0,0119315
-Frame: 801, Time since last: 0,0083546
-Frame: 802, Time since last: 0,0117166
-Frame: 803, Time since last: 0,0083662
-Frame: 804, Time since last: 0,0116442
-Frame: 805, Time since last: 0,0083593
-Frame: 806, Time since last: 0,0105677
-Frame: 807, Time since last: 0,00837
-Frame: 808, Time since last: 0,0105682
-Frame: 809, Time since last: 0,0083777
-Frame: 810, Time since last: 0,0096166
-Frame: 811, Time since last: 0,0083727
-Frame: 812, Time since last: 0,0095724
-Frame: 813, Time since last: 0,0083608
-Frame: 814, Time since last: 0,0087931
-Frame: 815, Time since last: 0,0083426
-Frame: 816, Time since last: 0,008325
-Frame: 817, Time since last: 0,0083924
-Frame: 818, Time since last: 0,008325
-Frame: 819, Time since last: 0,0091659
-Frame: 820, Time since last: 0,0083785
-Frame: 821, Time since last: 0,009647
-Frame: 822, Time since last: 0,0083794
-Frame: 823, Time since last: 0,008325
-Frame: 824, Time since last: 0,008325
-Frame: 825, Time since last: 0,0083382
-Frame: 826, Time since last: 0,008325
-Frame: 827, Time since last: 0,0083399
-Frame: 828, Time since last: 0,008325
-Frame: 829, Time since last: 0,0083541
-Frame: 830, Time since last: 0,008325
-Frame: 831, Time since last: 0,008339
-Frame: 832, Time since last: 0,0083388
-Frame: 833, Time since last: 0,008325
-Frame: 834, Time since last: 0,008325
-Frame: 835, Time since last: 0,008325
-Frame: 836, Time since last: 0,008325
-Frame: 837, Time since last: 0,0083649
-Frame: 838, Time since last: 0,0105921
-Frame: 839, Time since last: 0,0083586
-Frame: 840, Time since last: 0,00961
-Frame: 841, Time since last: 0,0083513
-Frame: 842, Time since last: 0,0096681
-Frame: 843, Time since last: 0,0083569
-Frame: 844, Time since last: 0,0091373
-Frame: 845, Time since last: 0,0083718
-Frame: 846, Time since last: 0,0083392
-Frame: 847, Time since last: 0,008325
-Frame: 848, Time since last: 0,008325
-Frame: 849, Time since last: 0,008325
-Frame: 850, Time since last: 0,0083511
-Frame: 851, Time since last: 0,008325
-Frame: 852, Time since last: 0,0083486
-Frame: 853, Time since last: 0,008325
-Frame: 854, Time since last: 0,0083648
-Frame: 855, Time since last: 0,008325
-Frame: 856, Time since last: 0,008585
-Frame: 857, Time since last: 0,008325
-Frame: 858, Time since last: 0,0083653
-Frame: 859, Time since last: 0,0094682
-Frame: 860, Time since last: 0,0083546
-Frame: 861, Time since last: 0,0083357
-Frame: 862, Time since last: 0,0083671
-Frame: 863, Time since last: 0,0122563
-Frame: 864, Time since last: 0,0084176
-Frame: 865, Time since last: 0,0084317
-Frame: 866, Time since last: 0,0083985
-Frame: 867, Time since last: 0,008325
-Frame: 868, Time since last: 0,0102102
-Frame: 869, Time since last: 0,008325
-Frame: 870, Time since last: 0,0096533
-Frame: 871, Time since last: 0,0083494
-Frame: 872, Time since last: 0,009725
-Frame: 873, Time since last: 0,0083546
-Frame: 874, Time since last: 0,0101091
-Frame: 875, Time since last: 0,0083977
-Frame: 876, Time since last: 0,0095333
-Frame: 877, Time since last: 0,0083554
-Frame: 878, Time since last: 0,0083336
-Frame: 879, Time since last: 0,0243643
-Frame: 880, Time since last: 0,0153765
-Frame: 881, Time since last: 0,0114715
-Frame: 882, Time since last: 0,0124759
-Frame: 883, Time since last: 0,008325
-Frame: 884, Time since last: 0,008325
-Frame: 885, Time since last: 0,0100279
-Frame: 886, Time since last: 0,0122411
-Frame: 887, Time since last: 0,01663
-Frame: 888, Time since last: 0,0083847
-Frame: 889, Time since last: 0,0105379
-Frame: 890, Time since last: 0,0128038
-Frame: 891, Time since last: 0,008325
-Frame: 892, Time since last: 0,0107629
-Frame: 893, Time since last: 0,0083527
-Frame: 894, Time since last: 0,0117401
-Frame: 895, Time since last: 0,0083692
-Frame: 896, Time since last: 0,0127872
-Frame: 897, Time since last: 0,008338
-Frame: 898, Time since last: 0,0102632
-Frame: 899, Time since last: 0,0083444
-Frame: 900, Time since last: 0,010413
-Frame: 901, Time since last: 0,008387
-Frame: 902, Time since last: 0,0102342
-Frame: 903, Time since last: 0,0083719
-Frame: 904, Time since last: 0,0107271
-Frame: 905, Time since last: 0,008325
-Frame: 906, Time since last: 0,0103362
-Frame: 907, Time since last: 0,0083634
-Frame: 908, Time since last: 0,0084933
-Frame: 909, Time since last: 0,008362
-Frame: 910, Time since last: 0,0083568
-Frame: 911, Time since last: 0,0094958
-Frame: 912, Time since last: 0,0083413
-Frame: 913, Time since last: 0,0084443
-Frame: 914, Time since last: 0,0083452
-Frame: 915, Time since last: 0,0087978
-Frame: 916, Time since last: 0,0083648
-Frame: 917, Time since last: 0,008325
-Frame: 918, Time since last: 0,0100632
-Frame: 919, Time since last: 0,0083526
-Frame: 920, Time since last: 0,0096583
-Frame: 921, Time since last: 0,0083696
-Frame: 922, Time since last: 0,0086667
-Frame: 923, Time since last: 0,0083663
-Frame: 924, Time since last: 0,0083429
-Frame: 925, Time since last: 0,0095832
-Frame: 926, Time since last: 0,0083581
-Frame: 927, Time since last: 0,008325
-Frame: 928, Time since last: 0,008325
-Frame: 929, Time since last: 0,0111802
-Frame: 930, Time since last: 0,0083523
-Frame: 931, Time since last: 0,008325
-Frame: 932, Time since last: 0,0083465
-Frame: 933, Time since last: 0,008325
-Frame: 934, Time since last: 0,008325
-Frame: 935, Time since last: 0,0083423
-Frame: 936, Time since last: 0,008325
-Frame: 937, Time since last: 0,0083409
-Frame: 938, Time since last: 0,008325
-Frame: 939, Time since last: 0,0083481
-Frame: 940, Time since last: 0,008325
-Frame: 941, Time since last: 0,0083336
-Frame: 942, Time since last: 0,008325
-Frame: 943, Time since last: 0,008344
-Frame: 944, Time since last: 0,0083391
-Frame: 945, Time since last: 0,008325
-Frame: 946, Time since last: 0,008325
-Frame: 947, Time since last: 0,008325
-Frame: 948, Time since last: 0,0083499
-Frame: 949, Time since last: 0,008325
-Frame: 950, Time since last: 0,0083339
-Frame: 951, Time since last: 0,0083561
-Frame: 952, Time since last: 0,008325
-Frame: 953, Time since last: 0,008325
-Frame: 954, Time since last: 0,008325
-Frame: 955, Time since last: 0,0083505
-Frame: 956, Time since last: 0,008325
-Frame: 957, Time since last: 0,0083335
-Frame: 958, Time since last: 0,008325
-Frame: 959, Time since last: 0,008325
-Frame: 960, Time since last: 0,0083574
-Frame: 961, Time since last: 0,008325
-Frame: 962, Time since last: 0,0083428
-Frame: 963, Time since last: 0,0083556
-Frame: 964, Time since last: 0,008325
-Frame: 965, Time since last: 0,008325
-Frame: 966, Time since last: 0,008325
-Frame: 967, Time since last: 0,008325
-Frame: 968, Time since last: 0,0083694
-Frame: 969, Time since last: 0,008325
-Frame: 970, Time since last: 0,008325
-Frame: 971, Time since last: 0,008325
-Frame: 972, Time since last: 0,008325
-Frame: 973, Time since last: 0,008325
-Frame: 974, Time since last: 0,008325
-Frame: 975, Time since last: 0,0083517
-Frame: 976, Time since last: 0,008325
-Frame: 977, Time since last: 0,0083459
-Frame: 978, Time since last: 0,008325
-Frame: 979, Time since last: 0,008325
-Frame: 980, Time since last: 0,0083472
-Frame: 981, Time since last: 0,008325
-Frame: 982, Time since last: 0,0083506
-Frame: 983, Time since last: 0,008325
-Frame: 984, Time since last: 0,008355
-Frame: 985, Time since last: 0,008325
-Frame: 986, Time since last: 0,0083432
-Frame: 987, Time since last: 0,008325
-Frame: 988, Time since last: 0,008325
-Frame: 989, Time since last: 0,0083382
-Frame: 990, Time since last: 0,008325
-Frame: 991, Time since last: 0,0083485
-Frame: 992, Time since last: 0,0084119
-Frame: 993, Time since last: 0,008325
-Frame: 994, Time since last: 0,008325
-Frame: 995, Time since last: 0,008325
-Frame: 996, Time since last: 0,008325
-Frame: 997, Time since last: 0,008325
-Frame: 998, Time since last: 0,008325
-Frame: 999, Time since last: 0,008325
-Frame: 1000, Time since last: 0,008325
-Frame: 1001, Time since last: 0,008325
-Frame: 1002, Time since last: 0,008325
-Frame: 1003, Time since last: 0,008325
-Frame: 1004, Time since last: 0,0083442
-Frame: 1005, Time since last: 0,008325
-Frame: 1006, Time since last: 0,0083379
-Frame: 1007, Time since last: 0,008325
-Frame: 1008, Time since last: 0,0083347
-Frame: 1009, Time since last: 0,008325
-Frame: 1010, Time since last: 0,008325
-Frame: 1011, Time since last: 0,008325
-Frame: 1012, Time since last: 0,008325
-Frame: 1013, Time since last: 0,0083396
-Frame: 1014, Time since last: 0,008325
-Frame: 1015, Time since last: 0,0083447
-Frame: 1016, Time since last: 0,0083482
-Frame: 1017, Time since last: 0,008325
-Frame: 1018, Time since last: 0,008325
-Frame: 1019, Time since last: 0,008325
-Frame: 1020, Time since last: 0,008325
-Frame: 1021, Time since last: 0,0083529
-Frame: 1022, Time since last: 0,008325
-Frame: 1023, Time since last: 0,0083474
-Frame: 1024, Time since last: 0,008325
-Frame: 1025, Time since last: 0,008325
-Frame: 1026, Time since last: 0,008325
-Frame: 1027, Time since last: 0,008325
-Frame: 1028, Time since last: 0,0083648
-Frame: 1029, Time since last: 0,008325
-Frame: 1030, Time since last: 0,0083449
-Frame: 1031, Time since last: 0,008325
-Frame: 1032, Time since last: 0,008325
-Frame: 1033, Time since last: 0,008325
-Frame: 1034, Time since last: 0,008325
-Frame: 1035, Time since last: 0,0083423
-Frame: 1036, Time since last: 0,0083338
-Frame: 1037, Time since last: 0,008325
-Frame: 1038, Time since last: 0,0083462
-Frame: 1039, Time since last: 0,008325
-Frame: 1040, Time since last: 0,008325
-Frame: 1041, Time since last: 0,0083446
-Frame: 1042, Time since last: 0,008325
-Frame: 1043, Time since last: 0,0083445
-Frame: 1044, Time since last: 0,008325
-Frame: 1045, Time since last: 0,0083372
-Frame: 1046, Time since last: 0,008325
-Frame: 1047, Time since last: 0,0083355
-Frame: 1048, Time since last: 0,0083596
-Frame: 1049, Time since last: 0,008325
-Frame: 1050, Time since last: 0,008325
-Frame: 1051, Time since last: 0,0083499
-Frame: 1052, Time since last: 0,008325
-Frame: 1053, Time since last: 0,0083383
-Frame: 1054, Time since last: 0,008325
-Frame: 1055, Time since last: 0,008325
-Frame: 1056, Time since last: 0,0083368
-Frame: 1057, Time since last: 0,0083421
-Frame: 1058, Time since last: 0,008325
-Frame: 1059, Time since last: 0,008325
-Frame: 1060, Time since last: 0,0083435
-Frame: 1061, Time since last: 0,008325
-Frame: 1062, Time since last: 0,0083554
-Frame: 1063, Time since last: 0,008325
-Frame: 1064, Time since last: 0,008325
-Frame: 1065, Time since last: 0,0083466
-Frame: 1066, Time since last: 0,008325
-Frame: 1067, Time since last: 0,008325
-Frame: 1068, Time since last: 0,008325
-Frame: 1069, Time since last: 0,0083586
-Frame: 1070, Time since last: 0,008325
-Frame: 1071, Time since last: 0,0083395
-Frame: 1072, Time since last: 0,008325
-Frame: 1073, Time since last: 0,0083379
-Frame: 1074, Time since last: 0,008325
-Frame: 1075, Time since last: 0,0083415
-Frame: 1076, Time since last: 0,0083685
-Frame: 1077, Time since last: 0,008325
-Frame: 1078, Time since last: 0,008325
-Frame: 1079, Time since last: 0,008325
-Frame: 1080, Time since last: 0,008325
-Frame: 1081, Time since last: 0,008325
-Frame: 1082, Time since last: 0,008325
-Frame: 1083, Time since last: 0,00835
-Frame: 1084, Time since last: 0,008325
-Frame: 1085, Time since last: 0,0083396
-Frame: 1086, Time since last: 0,008325
-Frame: 1087, Time since last: 0,008325
-Frame: 1088, Time since last: 0,0083496
-Frame: 1089, Time since last: 0,0083495
-Frame: 1090, Time since last: 0,008325
-Frame: 1091, Time since last: 0,008325
-Frame: 1092, Time since last: 0,008325
-Frame: 1093, Time since last: 0,008325
-Frame: 1094, Time since last: 0,008325
-Frame: 1095, Time since last: 0,0083608
-Frame: 1096, Time since last: 0,008325
-Frame: 1097, Time since last: 0,008325
-Frame: 1098, Time since last: 0,0083386
-Frame: 1099, Time since last: 0,008325
-Frame: 1100, Time since last: 0,0083471
-Frame: 1101, Time since last: 0,008354
-Frame: 1102, Time since last: 0,008325
-Frame: 1103, Time since last: 0,008325
-Frame: 1104, Time since last: 0,008325
-Frame: 1105, Time since last: 0,0083416
-Frame: 1106, Time since last: 0,008325
-Frame: 1107, Time since last: 0,008325
-Frame: 1108, Time since last: 0,0083421
-Frame: 1109, Time since last: 0,008325
-Frame: 1110, Time since last: 0,0083371
-Frame: 1111, Time since last: 0,008325
-Frame: 1112, Time since last: 0,0083543
-Frame: 1113, Time since last: 0,008325
-Frame: 1114, Time since last: 0,008325
-Frame: 1115, Time since last: 0,0083485
-Frame: 1116, Time since last: 0,008325
-Frame: 1117, Time since last: 0,0083365
-Frame: 1118, Time since last: 0,008325
-Frame: 1119, Time since last: 0,0083409
-Frame: 1120, Time since last: 0,008325
-Frame: 1121, Time since last: 0,008325
-Frame: 1122, Time since last: 0,0083427
-Frame: 1123, Time since last: 0,008325
-Frame: 1124, Time since last: 0,0083528
-Frame: 1125, Time since last: 0,008325
-Frame: 1126, Time since last: 0,008325
-Frame: 1127, Time since last: 0,0083502
-Frame: 1128, Time since last: 0,008325
-Frame: 1129, Time since last: 0,008325
-Frame: 1130, Time since last: 0,008325
-Frame: 1131, Time since last: 0,0083572
-Frame: 1132, Time since last: 0,008325
-Frame: 1133, Time since last: 0,0086143
-Frame: 1134, Time since last: 0,0083739
-Frame: 1135, Time since last: 0,008325
-Frame: 1136, Time since last: 0,0083556
-Frame: 1137, Time since last: 0,008325
-Frame: 1138, Time since last: 0,0084778
-Frame: 1139, Time since last: 0,0083376
-Frame: 1140, Time since last: 0,0088601
-Frame: 1141, Time since last: 0,008325
-Frame: 1142, Time since last: 0,0085899
-Frame: 1143, Time since last: 0,0083702
-Frame: 1144, Time since last: 0,008325
-Frame: 1145, Time since last: 0,0084604
-Frame: 1146, Time since last: 0,0083581
-Frame: 1147, Time since last: 0,008325
-Frame: 1148, Time since last: 0,00834
-Frame: 1149, Time since last: 0,008325
-Frame: 1150, Time since last: 0,0083519
-Frame: 1151, Time since last: 0,0083536
-Frame: 1152, Time since last: 0,008325
-Frame: 1153, Time since last: 0,0083411
-Frame: 1154, Time since last: 0,0085987
-Frame: 1155, Time since last: 0,0083574
-Frame: 1156, Time since last: 0,0083412
-Frame: 1157, Time since last: 0,0101395
-Frame: 1158, Time since last: 0,0083592
-Frame: 1159, Time since last: 0,0092951
-Frame: 1160, Time since last: 0,008372
-Frame: 1161, Time since last: 0,0090511
-Frame: 1162, Time since last: 0,0083723
-Frame: 1163, Time since last: 0,0094189
-Frame: 1164, Time since last: 0,008376
-Frame: 1165, Time since last: 0,0083424
-Frame: 1166, Time since last: 0,009812
-Frame: 1167, Time since last: 0,0083385
-Frame: 1168, Time since last: 0,0116395
-Frame: 1169, Time since last: 0,0083787
-Frame: 1170, Time since last: 0,0096589
-Frame: 1171, Time since last: 0,0083666
-Frame: 1172, Time since last: 0,0102898
-Frame: 1173, Time since last: 0,0083621
-Frame: 1174, Time since last: 0,0093895
-Frame: 1175, Time since last: 0,0083934
-Frame: 1176, Time since last: 0,008325
-Frame: 1177, Time since last: 0,0108231
-Frame: 1178, Time since last: 0,008361
-Frame: 1179, Time since last: 0,010972
-Frame: 1180, Time since last: 0,0083664
-Frame: 1181, Time since last: 0,0104683
-Frame: 1182, Time since last: 0,0083806
-Frame: 1183, Time since last: 0,0112304
-Frame: 1184, Time since last: 0,0083465
-Frame: 1185, Time since last: 0,0107345
-Frame: 1186, Time since last: 0,0083859
-Frame: 1187, Time since last: 0,0109963
-Frame: 1188, Time since last: 0,00837
-Frame: 1189, Time since last: 0,011595
-Frame: 1190, Time since last: 0,0083739
-Frame: 1191, Time since last: 0,0118405
-Frame: 1192, Time since last: 0,0083903
-Frame: 1193, Time since last: 0,0115523
-Frame: 1194, Time since last: 0,0083918
-Frame: 1195, Time since last: 0,0119057
-Frame: 1196, Time since last: 0,0083857
-Frame: 1197, Time since last: 0,0123936
-Frame: 1198, Time since last: 0,0083535
-Frame: 1199, Time since last: 0,0128956
-Frame: 1200, Time since last: 0,0083745
-Frame: 1201, Time since last: 0,0131884
-Frame: 1202, Time since last: 0,0083622
-Frame: 1203, Time since last: 0,0216105
-Frame: 1204, Time since last: 0,008325
-Frame: 1205, Time since last: 0,0139564
-Frame: 1206, Time since last: 0,01871
-Frame: 1207, Time since last: 0,0104047
-Frame: 1208, Time since last: 0,0103572
-Frame: 1209, Time since last: 0,0135204
-Frame: 1210, Time since last: 0,0098843
-Frame: 1211, Time since last: 0,0095734
-Frame: 1212, Time since last: 0,0138555
-Frame: 1213, Time since last: 0,0088861
-Frame: 1214, Time since last: 0,0131148
-Frame: 1215, Time since last: 0,008356
-Frame: 1216, Time since last: 0,010791
-Frame: 1217, Time since last: 0,0083732
-Frame: 1218, Time since last: 0,0114086
-Frame: 1219, Time since last: 0,0083644
-Frame: 1220, Time since last: 0,0109653
-Frame: 1221, Time since last: 0,0083551
-Frame: 1222, Time since last: 0,0105666
-Frame: 1223, Time since last: 0,0083649
-Frame: 1224, Time since last: 0,0104359
-Frame: 1225, Time since last: 0,0083674
-Frame: 1226, Time since last: 0,0113918
-Frame: 1227, Time since last: 0,0083373
-Frame: 1228, Time since last: 0,0112288
-Frame: 1229, Time since last: 0,0083787
-Frame: 1230, Time since last: 0,0101681
-Frame: 1231, Time since last: 0,0083694
-Frame: 1232, Time since last: 0,0094872
-Frame: 1233, Time since last: 0,0083351
-Frame: 1234, Time since last: 0,0083616
-Frame: 1235, Time since last: 0,010683
-Frame: 1236, Time since last: 0,0083659
-Frame: 1237, Time since last: 0,0090729
-Frame: 1238, Time since last: 0,0083616
-Frame: 1239, Time since last: 0,0087853
-Frame: 1240, Time since last: 0,0083512
-Frame: 1241, Time since last: 0,008325
-Frame: 1242, Time since last: 0,0083356
-Frame: 1243, Time since last: 0,008325
-Frame: 1244, Time since last: 0,008356
-Frame: 1245, Time since last: 0,008374
-Frame: 1246, Time since last: 0,008325
-Frame: 1247, Time since last: 0,0083483
-Frame: 1248, Time since last: 0,0083723
-Frame: 1249, Time since last: 0,0083395
-Frame: 1250, Time since last: 0,0083575
-Frame: 1251, Time since last: 0,008325
-Frame: 1252, Time since last: 0,0083339
-Frame: 1253, Time since last: 0,008325
-Frame: 1254, Time since last: 0,0083533
-Frame: 1255, Time since last: 0,008325
-Frame: 1256, Time since last: 0,008325
-Frame: 1257, Time since last: 0,0083436
-Frame: 1258, Time since last: 0,008325
-Frame: 1259, Time since last: 0,0083384
-Frame: 1260, Time since last: 0,008325
-Frame: 1261, Time since last: 0,008325
-Frame: 1262, Time since last: 0,0083567
-Frame: 1263, Time since last: 0,008325
-Frame: 1264, Time since last: 0,008325
-Frame: 1265, Time since last: 0,0088174
-Frame: 1266, Time since last: 0,008351
-Frame: 1267, Time since last: 0,008349
-Frame: 1268, Time since last: 0,0104748
-Frame: 1269, Time since last: 0,0083809
-Frame: 1270, Time since last: 0,0104989
-Frame: 1271, Time since last: 0,0083777
-Frame: 1272, Time since last: 0,0125591
-Frame: 1273, Time since last: 0,0083645
-Frame: 1274, Time since last: 0,0125488
-Frame: 1275, Time since last: 0,0083672
-Frame: 1276, Time since last: 0,0136119
-Frame: 1277, Time since last: 0,0083732
-Frame: 1278, Time since last: 0,0136105
-Frame: 1279, Time since last: 0,0084333
-Frame: 1280, Time since last: 0,0127991
-Frame: 1281, Time since last: 0,0083646
-Frame: 1282, Time since last: 0,013647
-Frame: 1283, Time since last: 0,0166329
-Frame: 1284, Time since last: 0,0083756
-Frame: 1285, Time since last: 0,0142445
-Frame: 1286, Time since last: 0,0083948
-Frame: 1287, Time since last: 0,0137175
-Frame: 1288, Time since last: 0,0147985
-Frame: 1289, Time since last: 0,0083649
-Frame: 1290, Time since last: 0,012444
-Frame: 1291, Time since last: 0,0083669
-Frame: 1292, Time since last: 0,0119411
-Frame: 1293, Time since last: 0,0083518
-Frame: 1294, Time since last: 0,0117738
-Frame: 1295, Time since last: 0,0083563
-Frame: 1296, Time since last: 0,010426
-Frame: 1297, Time since last: 0,0083417
-Frame: 1298, Time since last: 0,0098694
-Frame: 1299, Time since last: 0,0083642
-Frame: 1300, Time since last: 0,0085212
-Frame: 1301, Time since last: 0,0083604
-Frame: 1302, Time since last: 0,0083342
-Frame: 1303, Time since last: 0,0083351
-Frame: 1304, Time since last: 0,008325
-Frame: 1305, Time since last: 0,0083483
-Frame: 1306, Time since last: 0,0083345
-Frame: 1307, Time since last: 0,009035
-Frame: 1308, Time since last: 0,0083804
-Frame: 1309, Time since last: 0,009016
-Frame: 1310, Time since last: 0,0083844
-Frame: 1311, Time since last: 0,0085581
-Frame: 1312, Time since last: 0,0083817
-Frame: 1313, Time since last: 0,008325
-Frame: 1314, Time since last: 0,0084334
-Frame: 1315, Time since last: 0,008369
-Frame: 1316, Time since last: 0,008325
-Frame: 1317, Time since last: 0,0083341
-Frame: 1318, Time since last: 0,008325
-Frame: 1319, Time since last: 0,0083356
-Frame: 1320, Time since last: 0,008325
-Frame: 1321, Time since last: 0,008325
-Frame: 1322, Time since last: 0,0083406
-Frame: 1323, Time since last: 0,008325
-Frame: 1324, Time since last: 0,008325
-Frame: 1325, Time since last: 0,008342
-Frame: 1326, Time since last: 0,008325
-Frame: 1327, Time since last: 0,0083373
-Frame: 1328, Time since last: 0,008325
-Frame: 1329, Time since last: 0,0083411
-Frame: 1330, Time since last: 0,008325
-Frame: 1331, Time since last: 0,0083368
-Frame: 1332, Time since last: 0,0083628
-Frame: 1333, Time since last: 0,008325
-Frame: 1334, Time since last: 0,008325
-Frame: 1335, Time since last: 0,008325
-Frame: 1336, Time since last: 0,008355
-Frame: 1337, Time since last: 0,0083364
-Frame: 1338, Time since last: 0,008325
-Frame: 1339, Time since last: 0,008325
-Frame: 1340, Time since last: 0,008325
-Frame: 1341, Time since last: 0,0083469
-Frame: 1342, Time since last: 0,008325
-Frame: 1343, Time since last: 0,008325
-Frame: 1344, Time since last: 0,0083405
-Frame: 1345, Time since last: 0,008325
-Frame: 1346, Time since last: 0,008325
-Frame: 1347, Time since last: 0,0083342
-Frame: 1348, Time since last: 0,0083591
-Frame: 1349, Time since last: 0,008325
-Frame: 1350, Time since last: 0,008325
-Frame: 1351, Time since last: 0,0083338
-Frame: 1352, Time since last: 0,008325
-Frame: 1353, Time since last: 0,0083398
-Frame: 1354, Time since last: 0,008325
-Frame: 1355, Time since last: 0,0083365
-Frame: 1356, Time since last: 0,0083495
-Frame: 1357, Time since last: 0,008325
-Frame: 1358, Time since last: 0,008325
-Frame: 1359, Time since last: 0,008325
-Frame: 1360, Time since last: 0,008365
-Frame: 1361, Time since last: 0,0083416
-Frame: 1362, Time since last: 0,008325
-Frame: 1363, Time since last: 0,0083386
-Frame: 1364, Time since last: 0,008325
-Frame: 1365, Time since last: 0,008325
-Frame: 1366, Time since last: 0,008325
-Frame: 1367, Time since last: 0,0083628
-Frame: 1368, Time since last: 0,008325
-Frame: 1369, Time since last: 0,008325
-Frame: 1370, Time since last: 0,008325
-Frame: 1371, Time since last: 0,0083374
-Frame: 1372, Time since last: 0,008325
-Frame: 1373, Time since last: 0,0083559
-Frame: 1374, Time since last: 0,008325
-Frame: 1375, Time since last: 0,0083478
-Frame: 1376, Time since last: 0,008325
-Frame: 1377, Time since last: 0,008325
-Frame: 1378, Time since last: 0,008325
-Frame: 1379, Time since last: 0,008347
-Frame: 1380, Time since last: 0,008325
-Frame: 1381, Time since last: 0,008325
-Frame: 1382, Time since last: 0,0083389
-Frame: 1383, Time since last: 0,0088766
-Frame: 1384, Time since last: 0,0083389
-Frame: 1385, Time since last: 0,00837
-Frame: 1386, Time since last: 0,008325
-Frame: 1387, Time since last: 0,008325
-Frame: 1388, Time since last: 0,008325
-Frame: 1389, Time since last: 0,0083418
-Frame: 1390, Time since last: 0,008325
-Frame: 1391, Time since last: 0,008325
-Frame: 1392, Time since last: 0,0083404
-Frame: 1393, Time since last: 0,0083361
-Frame: 1394, Time since last: 0,0083393
-Frame: 1395, Time since last: 0,008325
-Frame: 1396, Time since last: 0,0083468
-Frame: 1397, Time since last: 0,008325
-Frame: 1398, Time since last: 0,008325
-Frame: 1399, Time since last: 0,0083488
-Frame: 1400, Time since last: 0,008325
-Frame: 1401, Time since last: 0,0083416
-Frame: 1402, Time since last: 0,008325
-Frame: 1403, Time since last: 0,0083394
-Frame: 1404, Time since last: 0,008325
-Frame: 1405, Time since last: 0,0088262
-Frame: 1406, Time since last: 0,0083975
-Frame: 1407, Time since last: 0,0083823
-Frame: 1408, Time since last: 0,0083908
-Frame: 1409, Time since last: 0,008325
-Frame: 1410, Time since last: 0,008325
-Frame: 1411, Time since last: 0,0083399
-Frame: 1412, Time since last: 0,008325
-Frame: 1413, Time since last: 0,00834
-Frame: 1414, Time since last: 0,008325
-Frame: 1415, Time since last: 0,008325
-Frame: 1416, Time since last: 0,0083506
-Frame: 1417, Time since last: 0,008325
-Frame: 1418, Time since last: 0,008325
-Frame: 1419, Time since last: 0,008325
-Frame: 1420, Time since last: 0,008325
-Frame: 1421, Time since last: 0,0083393
-Frame: 1422, Time since last: 0,0083383
-Frame: 1423, Time since last: 0,008325
-Frame: 1424, Time since last: 0,0087629
-Frame: 1425, Time since last: 0,0083707
-Frame: 1426, Time since last: 0,0088131
-Frame: 1427, Time since last: 0,0083597
-Frame: 1428, Time since last: 0,0083578
-Frame: 1429, Time since last: 0,0105277
-Frame: 1430, Time since last: 0,0083646
-Frame: 1431, Time since last: 0,0099268
-Frame: 1432, Time since last: 0,008363
-Frame: 1433, Time since last: 0,0103226
-Frame: 1434, Time since last: 0,0083432
-Frame: 1435, Time since last: 0,0104415
-Frame: 1436, Time since last: 0,0083572
-Frame: 1437, Time since last: 0,0097756
-Frame: 1438, Time since last: 0,008343
-Frame: 1439, Time since last: 0,0090737
-Frame: 1440, Time since last: 0,0083424
-Frame: 1441, Time since last: 0,0083492
-Frame: 1442, Time since last: 0,0109001
-Frame: 1443, Time since last: 0,0083695
-Frame: 1444, Time since last: 0,0099492
-Frame: 1445, Time since last: 0,0083645
-Frame: 1446, Time since last: 0,009665
-Frame: 1447, Time since last: 0,0083567
-Frame: 1448, Time since last: 0,0098916
-Frame: 1449, Time since last: 0,0083543
-Frame: 1450, Time since last: 0,0112781
-Frame: 1451, Time since last: 0,008325
-Frame: 1452, Time since last: 0,0083467
-Frame: 1453, Time since last: 0,0124999
-Frame: 1454, Time since last: 0,0083618
-Frame: 1455, Time since last: 0,0109184
-Frame: 1456, Time since last: 0,0083791
-Frame: 1457, Time since last: 0,0108385
-Frame: 1458, Time since last: 0,0083511
-Frame: 1459, Time since last: 0,0106199
-Frame: 1460, Time since last: 0,0083764
-Frame: 1461, Time since last: 0,011511
-Frame: 1462, Time since last: 0,0083401
-Frame: 1463, Time since last: 0,0122633
-Frame: 1464, Time since last: 0,0083438
-Frame: 1465, Time since last: 0,0116651
-Frame: 1466, Time since last: 0,0083792
-Frame: 1467, Time since last: 0,0122537
-Frame: 1468, Time since last: 0,0083617
-Frame: 1469, Time since last: 0,0110782
-Frame: 1470, Time since last: 0,0083639
-Frame: 1471, Time since last: 0,0118974
-Frame: 1472, Time since last: 0,0083637
-Frame: 1473, Time since last: 0,0110504
-Frame: 1474, Time since last: 0,0083727
-Frame: 1475, Time since last: 0,0112866
-Frame: 1476, Time since last: 0,0083659
-Frame: 1477, Time since last: 0,0116661
-Frame: 1478, Time since last: 0,0083572
-Frame: 1479, Time since last: 0,0134781
-Frame: 1480, Time since last: 0,0083744
-Frame: 1481, Time since last: 0,0113584
-Frame: 1482, Time since last: 0,0083671
-Frame: 1483, Time since last: 0,0108693
-Frame: 1484, Time since last: 0,0083648
-Frame: 1485, Time since last: 0,010671
-Frame: 1486, Time since last: 0,0083671
-Frame: 1487, Time since last: 0,0092593
-Frame: 1488, Time since last: 0,008372
-Frame: 1489, Time since last: 0,0092531
-Frame: 1490, Time since last: 0,0083711
-Frame: 1491, Time since last: 0,0085155
-Frame: 1492, Time since last: 0,0083611
-Frame: 1493, Time since last: 0,008325
-Frame: 1494, Time since last: 0,0084466
-Frame: 1495, Time since last: 0,0083665
-Frame: 1496, Time since last: 0,008325
-Frame: 1497, Time since last: 0,0083422
-Frame: 1498, Time since last: 0,008325
-Frame: 1499, Time since last: 0,008325
-Frame: 1500, Time since last: 0,0083386
-Frame: 1501, Time since last: 0,008325
-Frame: 1502, Time since last: 0,0083365
-Frame: 1503, Time since last: 0,008325
-Frame: 1504, Time since last: 0,0083536
-Frame: 1505, Time since last: 0,0083341
-Frame: 1506, Time since last: 0,008325
-Frame: 1507, Time since last: 0,0083468
-Frame: 1508, Time since last: 0,008325
-Frame: 1509, Time since last: 0,008325
-Frame: 1510, Time since last: 0,008325
-Frame: 1511, Time since last: 0,008325
-Frame: 1512, Time since last: 0,0083514
-Frame: 1513, Time since last: 0,008325
-Frame: 1514, Time since last: 0,0083505
-Frame: 1515, Time since last: 0,008325
-Frame: 1516, Time since last: 0,0083705
-Frame: 1517, Time since last: 0,008325
-Frame: 1518, Time since last: 0,0095285
-Frame: 1519, Time since last: 0,008359
-Frame: 1520, Time since last: 0,0092152
-Frame: 1521, Time since last: 0,008365
-Frame: 1522, Time since last: 0,0085202
-Frame: 1523, Time since last: 0,0083684
-Frame: 1524, Time since last: 0,008325
-Frame: 1525, Time since last: 0,008325
-Frame: 1526, Time since last: 0,0083434
-Frame: 1527, Time since last: 0,008325
-Frame: 1528, Time since last: 0,0083453
-Frame: 1529, Time since last: 0,008325
-Frame: 1530, Time since last: 0,0083447
-Frame: 1531, Time since last: 0,0083349
-Frame: 1532, Time since last: 0,008325
-Frame: 1533, Time since last: 0,0083349
-Frame: 1534, Time since last: 0,008325
-Frame: 1535, Time since last: 0,008325
-Frame: 1536, Time since last: 0,0083615
-Frame: 1537, Time since last: 0,008325
-Frame: 1538, Time since last: 0,0083341
-Frame: 1539, Time since last: 0,008325
-Frame: 1540, Time since last: 0,0083371
-Frame: 1541, Time since last: 0,008325
-Frame: 1542, Time since last: 0,0083725
-Frame: 1543, Time since last: 0,008325
-Frame: 1544, Time since last: 0,008325
-Frame: 1545, Time since last: 0,008325
-Frame: 1546, Time since last: 0,008325
-Frame: 1547, Time since last: 0,0083374
-Frame: 1548, Time since last: 0,008325
-Frame: 1549, Time since last: 0,008325
-Frame: 1550, Time since last: 0,0083494
-Frame: 1551, Time since last: 0,008325
-Frame: 1552, Time since last: 0,0083512
-Frame: 1553, Time since last: 0,0087992
-Frame: 1554, Time since last: 0,0083835
-Frame: 1555, Time since last: 0,008325
-Frame: 1556, Time since last: 0,008325
-Frame: 1557, Time since last: 0,008325
-Frame: 1558, Time since last: 0,0088227
-Frame: 1559, Time since last: 0,0083566
-Frame: 1560, Time since last: 0,0088986
-Frame: 1561, Time since last: 0,0083342
-Frame: 1562, Time since last: 0,0083456
-Frame: 1563, Time since last: 0,0084125
-Frame: 1564, Time since last: 0,0083432
-Frame: 1565, Time since last: 0,008325
-Frame: 1566, Time since last: 0,0083586
-Frame: 1567, Time since last: 0,008325
-Frame: 1568, Time since last: 0,0089203
-Frame: 1569, Time since last: 0,0083662
-Frame: 1570, Time since last: 0,008325
-Frame: 1571, Time since last: 0,0083433
-Frame: 1572, Time since last: 0,008325
-Frame: 1573, Time since last: 0,008325
-Frame: 1574, Time since last: 0,0083413
-Frame: 1575, Time since last: 0,0084534
-Frame: 1576, Time since last: 0,008366
-Frame: 1577, Time since last: 0,008325
-Frame: 1578, Time since last: 0,008325
-Frame: 1579, Time since last: 0,0083537
-Frame: 1580, Time since last: 0,0086833
-Frame: 1581, Time since last: 0,0083563
-Frame: 1582, Time since last: 0,00861
-Frame: 1583, Time since last: 0,0083703
-Frame: 1584, Time since last: 0,0095333
-Frame: 1585, Time since last: 0,0083677
-Frame: 1586, Time since last: 0,0087444
-Frame: 1587, Time since last: 0,0083566
-Frame: 1588, Time since last: 0,0083416
-Frame: 1589, Time since last: 0,010455
-Frame: 1590, Time since last: 0,0083636
-Frame: 1591, Time since last: 0,0091241
-Frame: 1592, Time since last: 0,0083551
-Frame: 1593, Time since last: 0,0090587
-Frame: 1594, Time since last: 0,008366
-Frame: 1595, Time since last: 0,008334
-Frame: 1596, Time since last: 0,0093085
-Frame: 1597, Time since last: 0,008365
-Frame: 1598, Time since last: 0,0086145
-Frame: 1599, Time since last: 0,0083695
-Frame: 1600, Time since last: 0,0088867
-Frame: 1601, Time since last: 0,0083523
-Frame: 1602, Time since last: 0,0083367
-Frame: 1603, Time since last: 0,0085324
-Frame: 1604, Time since last: 0,0083684
-Frame: 1605, Time since last: 0,0095717
-Frame: 1606, Time since last: 0,0083664
-Frame: 1607, Time since last: 0,0093902
-Frame: 1608, Time since last: 0,0083753
-Frame: 1609, Time since last: 0,0087639
-Frame: 1610, Time since last: 0,0083607
-Frame: 1611, Time since last: 0,008385
-Frame: 1612, Time since last: 0,0102732
-Frame: 1613, Time since last: 0,0083436
-Frame: 1614, Time since last: 0,0085981
-Frame: 1615, Time since last: 0,0083692
-Frame: 1616, Time since last: 0,008325
-Frame: 1617, Time since last: 0,008325
-Frame: 1618, Time since last: 0,0083525
-Frame: 1619, Time since last: 0,008325
-Frame: 1620, Time since last: 0,0083364
-Frame: 1621, Time since last: 0,008325
-Frame: 1622, Time since last: 0,008353
-Frame: 1623, Time since last: 0,008325
-Frame: 1624, Time since last: 0,008325
-Frame: 1625, Time since last: 0,0083366
-Frame: 1626, Time since last: 0,008325
-Frame: 1627, Time since last: 0,008325
-Frame: 1628, Time since last: 0,0083486
-Frame: 1629, Time since last: 0,0083443
-Frame: 1630, Time since last: 0,008325
-Frame: 1631, Time since last: 0,008325
-Frame: 1632, Time since last: 0,008325
-Frame: 1633, Time since last: 0,0083545
-Frame: 1634, Time since last: 0,0083479
-Frame: 1635, Time since last: 0,008325
-Frame: 1636, Time since last: 0,008325
-Frame: 1637, Time since last: 0,008325
-Frame: 1638, Time since last: 0,008325
-Frame: 1639, Time since last: 0,0083537
-Frame: 1640, Time since last: 0,0083657
-Frame: 1641, Time since last: 0,008325
-Frame: 1642, Time since last: 0,008325
-Frame: 1643, Time since last: 0,008325
-Frame: 1644, Time since last: 0,008325
-Frame: 1645, Time since last: 0,0083416
-Frame: 1646, Time since last: 0,008325
-Frame: 1647, Time since last: 0,008325
-Frame: 1648, Time since last: 0,008325
-Frame: 1649, Time since last: 0,008325
-Frame: 1650, Time since last: 0,008325
-Frame: 1651, Time since last: 0,0083441
-Frame: 1652, Time since last: 0,0083515
-Frame: 1653, Time since last: 0,0083351
-Frame: 1654, Time since last: 0,008325
-Frame: 1655, Time since last: 0,0083482
-Frame: 1656, Time since last: 0,008325
-Frame: 1657, Time since last: 0,008334
-Frame: 1658, Time since last: 0,008325
-Frame: 1659, Time since last: 0,008325
-Frame: 1660, Time since last: 0,0083452
-Frame: 1661, Time since last: 0,008325
-Frame: 1662, Time since last: 0,0083357
-Frame: 1663, Time since last: 0,008325
-Frame: 1664, Time since last: 0,0083464
-Frame: 1665, Time since last: 0,0083352
-Frame: 1666, Time since last: 0,008325
-Frame: 1667, Time since last: 0,00835
-Frame: 1668, Time since last: 0,008325
-Frame: 1669, Time since last: 0,0083423
-Frame: 1670, Time since last: 0,008325
-Frame: 1671, Time since last: 0,008325
-Frame: 1672, Time since last: 0,008325
-Frame: 1673, Time since last: 0,008325
-Frame: 1674, Time since last: 0,0083741
-Frame: 1675, Time since last: 0,008325
-Frame: 1676, Time since last: 0,008325
-Frame: 1677, Time since last: 0,008325
-Frame: 1678, Time since last: 0,008325
-Frame: 1679, Time since last: 0,0083772
-Frame: 1680, Time since last: 0,008325
-Frame: 1681, Time since last: 0,0083455
-Frame: 1682, Time since last: 0,008325
-Frame: 1683, Time since last: 0,008325
-Frame: 1684, Time since last: 0,008325
-Frame: 1685, Time since last: 0,008325
-Frame: 1686, Time since last: 0,0083605
-Frame: 1687, Time since last: 0,008325
-Frame: 1688, Time since last: 0,008325
-Frame: 1689, Time since last: 0,0083432
-Frame: 1690, Time since last: 0,008325
-Frame: 1691, Time since last: 0,008325
-Frame: 1692, Time since last: 0,008325
-Frame: 1693, Time since last: 0,0083429
-Frame: 1694, Time since last: 0,008339
-Frame: 1695, Time since last: 0,008325
-Frame: 1696, Time since last: 0,008325
-Frame: 1697, Time since last: 0,008325
-Frame: 1698, Time since last: 0,0083648
-Frame: 1699, Time since last: 0,008325
-Frame: 1700, Time since last: 0,008325
-Frame: 1701, Time since last: 0,0083572
-Frame: 1702, Time since last: 0,008325
-Frame: 1703, Time since last: 0,008325
-Frame: 1704, Time since last: 0,008325
-Frame: 1705, Time since last: 0,008325
-Frame: 1706, Time since last: 0,0083628
-Frame: 1707, Time since last: 0,008325
-Frame: 1708, Time since last: 0,008325
-Frame: 1709, Time since last: 0,008325
-Frame: 1710, Time since last: 0,008325
-Frame: 1711, Time since last: 0,008325
-Frame: 1712, Time since last: 0,0083415
-Frame: 1713, Time since last: 0,0083375
-Frame: 1714, Time since last: 0,008325
-Frame: 1715, Time since last: 0,008325
-Frame: 1716, Time since last: 0,0083492
-Frame: 1717, Time since last: 0,008325
-Frame: 1718, Time since last: 0,0083551
-Frame: 1719, Time since last: 0,008325
-Frame: 1720, Time since last: 0,008325
-Frame: 1721, Time since last: 0,008325
-Frame: 1722, Time since last: 0,008325
-Frame: 1723, Time since last: 0,0083339
-Frame: 1724, Time since last: 0,0083566
-Frame: 1725, Time since last: 0,008325
-Frame: 1726, Time since last: 0,008325
-Frame: 1727, Time since last: 0,008325
-Frame: 1728, Time since last: 0,008325
-Frame: 1729, Time since last: 0,008325
-Frame: 1730, Time since last: 0,0083682
-Frame: 1731, Time since last: 0,008325
-Frame: 1732, Time since last: 0,008325
-Frame: 1733, Time since last: 0,008325
-Frame: 1734, Time since last: 0,008325
-Frame: 1735, Time since last: 0,0083578
-Frame: 1736, Time since last: 0,008325
-Frame: 1737, Time since last: 0,0083545
-Frame: 1738, Time since last: 0,008325
-Frame: 1739, Time since last: 0,008325
-Frame: 1740, Time since last: 0,008325
-Frame: 1741, Time since last: 0,008325
-Frame: 1742, Time since last: 0,0083628
-Frame: 1743, Time since last: 0,008325
-Frame: 1744, Time since last: 0,008325
-Frame: 1745, Time since last: 0,008325
-Frame: 1746, Time since last: 0,0083429
-Frame: 1747, Time since last: 0,008325
-Frame: 1748, Time since last: 0,0083502
-Frame: 1749, Time since last: 0,00834
-Frame: 1750, Time since last: 0,008325
-Frame: 1751, Time since last: 0,008325
-Frame: 1752, Time since last: 0,0083433
-Frame: 1753, Time since last: 0,0083396
-Frame: 1754, Time since last: 0,0083344
-Frame: 1755, Time since last: 0,008325
-Frame: 1756, Time since last: 0,008325
-Frame: 1757, Time since last: 0,0083421
-Frame: 1758, Time since last: 0,008325
-Frame: 1759, Time since last: 0,008348
-Frame: 1760, Time since last: 0,008325
-Frame: 1761, Time since last: 0,008325
-Frame: 1762, Time since last: 0,0083346
-Frame: 1763, Time since last: 0,008325
-Frame: 1764, Time since last: 0,0083467
-Frame: 1765, Time since last: 0,0083521
-Frame: 1766, Time since last: 0,008325
-Frame: 1767, Time since last: 0,008325
-Frame: 1768, Time since last: 0,008325
-Frame: 1769, Time since last: 0,008325
-Frame: 1770, Time since last: 0,008325
-Frame: 1771, Time since last: 0,008359
-Frame: 1772, Time since last: 0,008325
-Frame: 1773, Time since last: 0,008325
-Frame: 1774, Time since last: 0,0083501
-Frame: 1775, Time since last: 0,008325
-Frame: 1776, Time since last: 0,0083418
-Frame: 1777, Time since last: 0,008325
-Frame: 1778, Time since last: 0,008341
-Frame: 1779, Time since last: 0,0083411
-Frame: 1780, Time since last: 0,008325
-Frame: 1781, Time since last: 0,008325
-Frame: 1782, Time since last: 0,008325
-Frame: 1783, Time since last: 0,0083487
-Frame: 1784, Time since last: 0,008325
-Frame: 1785, Time since last: 0,0083612
-Frame: 1786, Time since last: 0,008325
-Frame: 1787, Time since last: 0,008325
-Frame: 1788, Time since last: 0,0083365
-Frame: 1789, Time since last: 0,008325
-Frame: 1790, Time since last: 0,0083366
-Frame: 1791, Time since last: 0,008325
-Frame: 1792, Time since last: 0,008325
-Frame: 1793, Time since last: 0,0083822
-Frame: 1794, Time since last: 0,008325
-Frame: 1795, Time since last: 0,008325
-Frame: 1796, Time since last: 0,008325
-Frame: 1797, Time since last: 0,0083534
-Frame: 1798, Time since last: 0,008325
-Frame: 1799, Time since last: 0,008325
-Frame: 1800, Time since last: 0,008325
-Frame: 1801, Time since last: 0,008325
-Frame: 1802, Time since last: 0,0083369
-Frame: 1803, Time since last: 0,0083358
-Frame: 1804, Time since last: 0,008325
-Frame: 1805, Time since last: 0,008325
-Frame: 1806, Time since last: 0,008325
-Frame: 1807, Time since last: 0,008348
-Frame: 1808, Time since last: 0,008325
-Frame: 1809, Time since last: 0,0083443
-Frame: 1810, Time since last: 0,0083537
-Frame: 1811, Time since last: 0,008325
-Frame: 1812, Time since last: 0,008325
-Frame: 1813, Time since last: 0,008325
-Frame: 1814, Time since last: 0,0083687
-Frame: 1815, Time since last: 0,008325
-Frame: 1816, Time since last: 0,008325
-Frame: 1817, Time since last: 0,0083367
-Frame: 1818, Time since last: 0,008325
-Frame: 1819, Time since last: 0,008325
-Frame: 1820, Time since last: 0,008325
-Frame: 1821, Time since last: 0,0083704
-Frame: 1822, Time since last: 0,008325
-Frame: 1823, Time since last: 0,008325
-Frame: 1824, Time since last: 0,0083599
-Frame: 1825, Time since last: 0,008325
-Frame: 1826, Time since last: 0,008325
-Frame: 1827, Time since last: 0,008325
-Frame: 1828, Time since last: 0,0083478
-Frame: 1829, Time since last: 0,0083577
-Frame: 1830, Time since last: 0,008325
-Frame: 1831, Time since last: 0,0083601
-Frame: 1832, Time since last: 0,008325
-Frame: 1833, Time since last: 0,0083378
-Frame: 1834, Time since last: 0,008325
-Frame: 1835, Time since last: 0,0083389
-Frame: 1836, Time since last: 0,0083451
-Frame: 1837, Time since last: 0,0086626
-Frame: 1838, Time since last: 0,0083523
-Frame: 1839, Time since last: 0,008325
-Frame: 1840, Time since last: 0,0083586
-Frame: 1841, Time since last: 0,008325
-Frame: 1842, Time since last: 0,0084349
-Frame: 1843, Time since last: 0,0083361
-Frame: 1844, Time since last: 0,008325
-Frame: 1845, Time since last: 0,0083776
-Frame: 1846, Time since last: 0,008325
-Frame: 1847, Time since last: 0,0089332
-Frame: 1848, Time since last: 0,0083499
-Frame: 1849, Time since last: 0,0087494
-Frame: 1850, Time since last: 0,0083716
-Frame: 1851, Time since last: 0,0101981
-Frame: 1852, Time since last: 0,0083577
-Frame: 1853, Time since last: 0,0090348
-Frame: 1854, Time since last: 0,0083648
-Frame: 1855, Time since last: 0,0083518
-Frame: 1856, Time since last: 0,0095267
-Frame: 1857, Time since last: 0,0083665
-Frame: 1858, Time since last: 0,0094599
-Frame: 1859, Time since last: 0,0083676
-Frame: 1860, Time since last: 0,0094151
-Frame: 1861, Time since last: 0,0083809
-Frame: 1862, Time since last: 0,0083521
-Frame: 1863, Time since last: 0,0104795
-Frame: 1864, Time since last: 0,0083538
-Frame: 1865, Time since last: 0,0105006
-Frame: 1866, Time since last: 0,0083467
-Frame: 1867, Time since last: 0,0100245
-Frame: 1868, Time since last: 0,0083669
-Frame: 1869, Time since last: 0,0103232
-Frame: 1870, Time since last: 0,0083571
-Frame: 1871, Time since last: 0,0096546
-Frame: 1872, Time since last: 0,0083586
-Frame: 1873, Time since last: 0,0106907
-Frame: 1874, Time since last: 0,0083543
-Frame: 1875, Time since last: 0,0083341
-Frame: 1876, Time since last: 0,0116877
-Frame: 1877, Time since last: 0,0083804
-Frame: 1878, Time since last: 0,0126225
-Frame: 1879, Time since last: 0,0083829
-Frame: 1880, Time since last: 0,0123713
-Frame: 1881, Time since last: 0,0083665
-Frame: 1882, Time since last: 0,0116151
-Frame: 1883, Time since last: 0,0083799
-Frame: 1884, Time since last: 0,0114161
-Frame: 1885, Time since last: 0,0083743
-Frame: 1886, Time since last: 0,0115396
-Frame: 1887, Time since last: 0,0083612
-Frame: 1888, Time since last: 0,0134346
-Frame: 1889, Time since last: 0,008338
-Frame: 1890, Time since last: 0,0137942
-Frame: 1891, Time since last: 0,0083582
-Frame: 1892, Time since last: 0,0138057
-Frame: 1893, Time since last: 0,0166787
-Frame: 1894, Time since last: 0,0083643
-Frame: 1895, Time since last: 0,0125134
-Frame: 1896, Time since last: 0,0131315
-Frame: 1897, Time since last: 0,008359
-Frame: 1898, Time since last: 0,0116632
-Frame: 1899, Time since last: 0,0083825
-Frame: 1900, Time since last: 0,0117231
-Frame: 1901, Time since last: 0,0083586
-Frame: 1902, Time since last: 0,0130378
-Frame: 1903, Time since last: 0,0083619
-Frame: 1904, Time since last: 0,0112764
-Frame: 1905, Time since last: 0,008397
-Frame: 1906, Time since last: 0,0119361
-Frame: 1907, Time since last: 0,0083656
-Frame: 1908, Time since last: 0,0104651
-Frame: 1909, Time since last: 0,0083391
-Frame: 1910, Time since last: 0,0100355
-Frame: 1911, Time since last: 0,0083664
-Frame: 1912, Time since last: 0,0094066
-Frame: 1913, Time since last: 0,008364
-Frame: 1914, Time since last: 0,0110293
-Frame: 1915, Time since last: 0,0083667
-Frame: 1916, Time since last: 0,0103328
-Frame: 1917, Time since last: 0,0083681
-Frame: 1918, Time since last: 0,0103612
-Frame: 1919, Time since last: 0,0083544
-Frame: 1920, Time since last: 0,0083558
-Frame: 1921, Time since last: 0,010687
-Frame: 1922, Time since last: 0,008365
-Frame: 1923, Time since last: 0,009928
-Frame: 1924, Time since last: 0,0083764
-Frame: 1925, Time since last: 0,009555
-Frame: 1926, Time since last: 0,0083602
-Frame: 1927, Time since last: 0,0087394
-Frame: 1928, Time since last: 0,0083727
-Frame: 1929, Time since last: 0,008325
-Frame: 1930, Time since last: 0,0083425
-Frame: 1931, Time since last: 0,0083351
-Frame: 1932, Time since last: 0,008325
-Frame: 1933, Time since last: 0,0083449
-Frame: 1934, Time since last: 0,008325
-Frame: 1935, Time since last: 0,0083414
-Frame: 1936, Time since last: 0,008325
-Frame: 1937, Time since last: 0,008325
-Frame: 1938, Time since last: 0,0083423
-Frame: 1939, Time since last: 0,008325
-Frame: 1940, Time since last: 0,0083368
-Frame: 1941, Time since last: 0,008325
-Frame: 1942, Time since last: 0,008358
-Frame: 1943, Time since last: 0,008325
-Frame: 1944, Time since last: 0,008325
-Frame: 1945, Time since last: 0,008325
-Frame: 1946, Time since last: 0,008325
-Frame: 1947, Time since last: 0,0083787
-Frame: 1948, Time since last: 0,0083378
-Frame: 1949, Time since last: 0,008325
-Frame: 1950, Time since last: 0,008325
-Frame: 1951, Time since last: 0,0092126
-Frame: 1952, Time since last: 0,0083447
-Frame: 1953, Time since last: 0,0100658
-Frame: 1954, Time since last: 0,008357
-Frame: 1955, Time since last: 0,0083509
-Frame: 1956, Time since last: 0,0125436
-Frame: 1957, Time since last: 0,0083463
-Frame: 1958, Time since last: 0,0211608
-Frame: 1959, Time since last: 0,0099722
-Frame: 1960, Time since last: 0,0122812
-Frame: 1961, Time since last: 0,0186935
-Frame: 1962, Time since last: 0,0152305
-Frame: 1963, Time since last: 0,0124755
-Frame: 1964, Time since last: 0,0119522
-Frame: 1965, Time since last: 0,0148768
-Frame: 1966, Time since last: 0,0114777
-Frame: 1967, Time since last: 0,0114545
-Frame: 1968, Time since last: 0,0159426
-Frame: 1969, Time since last: 0,0104475
-Frame: 1970, Time since last: 0,0123735
-Frame: 1971, Time since last: 0,0152323
-Frame: 1972, Time since last: 0,0092872
-Frame: 1973, Time since last: 0,013012
-Frame: 1974, Time since last: 0,0088348
-Frame: 1975, Time since last: 0,013374
-Frame: 1976, Time since last: 0,0129245
-Frame: 1977, Time since last: 0,0083476
-Frame: 1978, Time since last: 0,0107041
-Frame: 1979, Time since last: 0,0083392
-Frame: 1980, Time since last: 0,0107014
-Frame: 1981, Time since last: 0,0083636
-Frame: 1982, Time since last: 0,0096575
-Frame: 1983, Time since last: 0,0083647
-Frame: 1984, Time since last: 0,0095071
-Frame: 1985, Time since last: 0,0083835
-Frame: 1986, Time since last: 0,0085801
-Frame: 1987, Time since last: 0,0083524
-Frame: 1988, Time since last: 0,0083855
-Frame: 1989, Time since last: 0,008325
-Frame: 1990, Time since last: 0,008325
-Frame: 1991, Time since last: 0,008325
-Frame: 1992, Time since last: 0,008325
-Frame: 1993, Time since last: 0,008325
-Frame: 1994, Time since last: 0,0083561
-Frame: 1995, Time since last: 0,008325
-Frame: 1996, Time since last: 0,0084995
-Frame: 1997, Time since last: 0,0083565
-Frame: 1998, Time since last: 0,008325
-Frame: 1999, Time since last: 0,008325
+0, 0.02
+1, 0.02
+2, 0.3333333
+3, 0.3333045
+4, 0.135866
+5, 0.0529136
+6, 0.0267414
+7, 0.0124093
+8, 0.0235359
+9, 0.0208535
+10, 0.0202624
+11, 0.0114188
+12, 0.0203445
+13, 0.0187705
+14, 0.0120876
+15, 0.0115871
+16, 0.0110785
+17, 0.0105807
+18, 0.0100941
+19, 0.0095691
+20, 0.0090799
+21, 0.0085834
+22, 0.008325
+23, 0.0083532
+24, 0.008325
+25, 0.008325
+26, 0.0083747
+27, 0.008325
+28, 0.008335
+29, 0.008325
+30, 0.008325
+31, 0.0083444
+32, 0.008325
+33, 0.0083416
+34, 0.008325
+35, 0.008325
+36, 0.008325
+37, 0.008325
+38, 0.0083421
+39, 0.0083807
+40, 0.0083339
+41, 0.0091293
+42, 0.0083839
+43, 0.008325
+44, 0.0103379
+45, 0.0083569
+46, 0.0109191
+47, 0.0083406
+48, 0.010061
+49, 0.0083792
+50, 0.009752
+51, 0.0083572
+52, 0.0105658
+53, 0.008357
+54, 0.0092045
+55, 0.008325
+56, 0.0083381
+57, 0.008325
+58, 0.0083462
+59, 0.008325
+60, 0.0083376
+61, 0.0084286
+62, 0.0083734
+63, 0.008325
+64, 0.0083627
+65, 0.008325
+66, 0.0095441
+67, 0.0083483
+68, 0.008325
+69, 0.0083353
+70, 0.008366
+71, 0.008325
+72, 0.008325
+73, 0.0089508
+74, 0.0083342
+75, 0.0083552
+76, 0.008325
+77, 0.0083675
+78, 0.008325
+79, 0.008325
+80, 0.008325
+81, 0.008325
+82, 0.0083368
+83, 0.008325
+84, 0.008341
+85, 0.008325
+86, 0.0083443
+87, 0.0083551
+88, 0.008325
+89, 0.008325
+90, 0.008325
+91, 0.008325
+92, 0.008325
+93, 0.008325
+94, 0.0083686
+95, 0.008325
+96, 0.008325
+97, 0.008325
+98, 0.0083473
+99, 0.008325
+100, 0.008325
+101, 0.0083681
+102, 0.008325
+103, 0.008325
+104, 0.008325
+105, 0.008325
+106, 0.0083388
+107, 0.008325
+108, 0.0083625
+109, 0.008325
+110, 0.008325
+111, 0.008325
+112, 0.008325
+113, 0.0083676
+114, 0.008325
+115, 0.008325
+116, 0.008325
+117, 0.008325
+118, 0.0083607
+119, 0.008325
+120, 0.008325
+121, 0.008325
+122, 0.008325
+123, 0.0083456
+124, 0.008325
+125, 0.0083539
+126, 0.008325
+127, 0.008325
+128, 0.0083379
+129, 0.008325
+130, 0.0083371
+131, 0.008325
+132, 0.0083605
+133, 0.008325
+134, 0.008325
+135, 0.0083609
+136, 0.008325
+137, 0.008341
+138, 0.008325
+139, 0.008325
+140, 0.0083659
+141, 0.0083517
+142, 0.0083424
+143, 0.0102598
+144, 0.0083605
+145, 0.0108201
+146, 0.0083556
+147, 0.0106928
+148, 0.0083526
+149, 0.0109815
+150, 0.0083441
+151, 0.0104401
+152, 0.0083895
+153, 0.0107937
+154, 0.008374
+155, 0.011914
+156, 0.0083778
+157, 0.0114121
+158, 0.0083648
+159, 0.0114084
+160, 0.0083727
+161, 0.01167
+162, 0.008367
+163, 0.0122247
+164, 0.0083474
+165, 0.0131873
+166, 0.0083546
+167, 0.0131786
+168, 0.0083758
+169, 0.0127109
+170, 0.0083876
+171, 0.0130499
+172, 0.0083897
+173, 0.0127303
+174, 0.008404
+175, 0.0127309
+176, 0.0083769
+177, 0.0122478
+178, 0.0083734
+179, 0.0108916
+180, 0.008349
+181, 0.0107676
+182, 0.0083604
+183, 0.0104529
+184, 0.0083751
+185, 0.0108185
+186, 0.0083849
+187, 0.0097537
+188, 0.0083625
+189, 0.0092976
+190, 0.0083486
+191, 0.0091404
+192, 0.0083532
+193, 0.0083376
+194, 0.0114174
+195, 0.0083732
+196, 0.0119249
+197, 0.0083478
+198, 0.0128202
+199, 0.0083611
+200, 0.0135488
+201, 0.0098737
+202, 0.0122912
+203, 0.0166799
+204, 0.0083724
+205, 0.0206463
+206, 0.0083346
+207, 0.0123304
+208, 0.0167081
+209, 0.008325
+210, 0.0108866
+211, 0.0110442
+212, 0.0083557
+213, 0.009008
+214, 0.008325
+215, 0.0098029
+216, 0.0083521
+217, 0.010518
+218, 0.008325
+219, 0.0143331
+220, 0.0083592
+221, 0.0106594
+222, 0.008369
+223, 0.011263
+224, 0.0083497
+225, 0.012041
+226, 0.008325
+227, 0.0136021
+228, 0.0083614
+229, 0.013521
+230, 0.0083504
+231, 0.0219796
+232, 0.0098329
+233, 0.0212767
+234, 0.0114229
+235, 0.0192911
+236, 0.0107932
+237, 0.0157538
+238, 0.0204806
+239, 0.0123403
+240, 0.0177088
+241, 0.0108966
+242, 0.0132706
+243, 0.0183419
+244, 0.0129483
+245, 0.0133934
+246, 0.0197747
+247, 0.0193193
+248, 0.0188186
+249, 0.0138201
+250, 0.0187198
+251, 0.0119392
+252, 0.0114099
+253, 0.0167294
+254, 0.0114132
+255, 0.0126975
+256, 0.0172191
+257, 0.0109282
+258, 0.0128868
+259, 0.0178908
+260, 0.0102099
+261, 0.0125467
+262, 0.0173437
+263, 0.0154167
+264, 0.0106935
+265, 0.0109665
+266, 0.0144515
+267, 0.0104253
+268, 0.0097701
+269, 0.0093479
+270, 0.008827
+271, 0.0083792
+272, 0.0089949
+273, 0.0083436
+274, 0.0083868
+275, 0.008325
+276, 0.008325
+277, 0.0083594
+278, 0.008325
+279, 0.008325
+280, 0.0083343
+281, 0.0083408
+282, 0.008325
+283, 0.008325
+284, 0.008325
+285, 0.0083336
+286, 0.008325
+287, 0.008368
+288, 0.008325
+289, 0.008325
+290, 0.008325
+291, 0.008325
+292, 0.0083442
+293, 0.008325
+294, 0.0083374
+295, 0.0083394
+296, 0.008325
+297, 0.008349
+298, 0.008325
+299, 0.008325
+300, 0.008325
+301, 0.008325
+302, 0.008325
+303, 0.008325
+304, 0.0083805
+305, 0.008325
+306, 0.008325
+307, 0.008325
+308, 0.008344
+309, 0.008325
+310, 0.008325
+311, 0.0083472
+312, 0.008325
+313, 0.008325
+314, 0.008325
+315, 0.0083453
+316, 0.008325
+317, 0.0083563
+318, 0.008335
+319, 0.0083445
+320, 0.008325
+321, 0.008325
+322, 0.008325
+323, 0.0083651
+324, 0.0089093
+325, 0.0083646
+326, 0.008325
+327, 0.0083347
+328, 0.0083342
+329, 0.0083659
+330, 0.008325
+331, 0.0083387
+332, 0.0083478
+333, 0.008325
+334, 0.008325
+335, 0.008325
+336, 0.008325
+337, 0.0083346
+338, 0.008325
+339, 0.0083538
+340, 0.008325
+341, 0.0083563
+342, 0.008325
+343, 0.008325
+344, 0.0083471
+345, 0.008325
+346, 0.008325
+347, 0.008325
+348, 0.0083512
+349, 0.0083454
+350, 0.008325
+351, 0.008325
+352, 0.008325
+353, 0.008325
+354, 0.008325
+355, 0.008325
+356, 0.0083502
+357, 0.008325
+358, 0.008325
+359, 0.008325
+360, 0.0083526
+361, 0.0083433
+362, 0.008325
+363, 0.008325
+364, 0.0083373
+365, 0.008325
+366, 0.0083756
+367, 0.008325
+368, 0.008325
+369, 0.008325
+370, 0.008325
+371, 0.008325
+372, 0.008325
+373, 0.008355
+374, 0.008325
+375, 0.008325
+376, 0.0083355
+377, 0.008325
+378, 0.0083335
+379, 0.008325
+380, 0.0083628
+381, 0.0083374
+382, 0.008325
+383, 0.008325
+384, 0.0086947
+385, 0.0083558
+386, 0.008325
+387, 0.008325
+388, 0.0083565
+389, 0.008325
+390, 0.00835
+391, 0.008325
+392, 0.008325
+393, 0.0083549
+394, 0.008325
+395, 0.008325
+396, 0.008325
+397, 0.0083584
+398, 0.008325
+399, 0.008325
+400, 0.008325
+401, 0.008325
+402, 0.0083516
+403, 0.008325
+404, 0.0083718
+405, 0.008325
+406, 0.008325
+407, 0.008325
+408, 0.008325
+409, 0.0083456
+410, 0.008325
+411, 0.008325
+412, 0.0083486
+413, 0.008325
+414, 0.008325
+415, 0.008325
+416, 0.008325
+417, 0.0083505
+418, 0.008325
+419, 0.008342
+420, 0.008325
+421, 0.0083542
+422, 0.008325
+423, 0.008325
+424, 0.0083426
+425, 0.008325
+426, 0.0083381
+427, 0.008325
+428, 0.0083464
+429, 0.0083373
+430, 0.008325
+431, 0.008325
+432, 0.008325
+433, 0.0083556
+434, 0.008325
+435, 0.008325
+436, 0.0083418
+437, 0.008325
+438, 0.0083523
+439, 0.008325
+440, 0.008367
+441, 0.008325
+442, 0.008325
+443, 0.008325
+444, 0.0085206
+445, 0.008335
+446, 0.008338
+447, 0.008325
+448, 0.0083486
+449, 0.008325
+450, 0.0083421
+451, 0.008325
+452, 0.008325
+453, 0.0083478
+454, 0.0084329
+455, 0.0083807
+456, 0.008325
+457, 0.0083365
+458, 0.0083337
+459, 0.008659
+460, 0.0083392
+461, 0.0083351
+462, 0.008343
+463, 0.008325
+464, 0.0083464
+465, 0.0083343
+466, 0.0087414
+467, 0.0083698
+468, 0.0087514
+469, 0.0083511
+470, 0.0089178
+471, 0.0083528
+472, 0.0083365
+473, 0.0088629
+474, 0.0083773
+475, 0.0091389
+476, 0.0083555
+477, 0.0095567
+478, 0.0083907
+479, 0.008325
+480, 0.0103134
+481, 0.0083427
+482, 0.0094141
+483, 0.0083603
+484, 0.0095833
+485, 0.0083677
+486, 0.0101945
+487, 0.0083559
+488, 0.0101072
+489, 0.0083705
+490, 0.008325
+491, 0.0104796
+492, 0.0083775
+493, 0.0104493
+494, 0.008375
+495, 0.0116337
+496, 0.0083582
+497, 0.0114214
+498, 0.0083579
+499, 0.0105032
+500, 0.0083503
+501, 0.0132313
+502, 0.0083879
+503, 0.0117826
+504, 0.0083667
+505, 0.011225
+506, 0.0083337
+507, 0.0122431
+508, 0.0083583
+509, 0.0115671
+510, 0.0083748
+511, 0.0116234
+512, 0.0084011
+513, 0.0127231
+514, 0.0083769
+515, 0.0125022
+516, 0.0083609
+517, 0.0120947
+518, 0.0083661
+519, 0.0117301
+520, 0.0083532
+521, 0.0121719
+522, 0.0083708
+523, 0.0119482
+524, 0.0083596
+525, 0.0109247
+526, 0.0083891
+527, 0.0122722
+528, 0.0083571
+529, 0.0216251
+530, 0.010612
+531, 0.0206253
+532, 0.0112221
+533, 0.0143314
+534, 0.013464
+535, 0.0120451
+536, 0.0115204
+537, 0.0109956
+538, 0.0105258
+539, 0.0099696
+540, 0.0095405
+541, 0.0103731
+542, 0.008529
+543, 0.0117094
+544, 0.0083638
+545, 0.0115598
+546, 0.0083547
+547, 0.0226041
+548, 0.0083487
+549, 0.0118693
+550, 0.0130399
+551, 0.0083796
+552, 0.01118
+553, 0.0083717
+554, 0.0112403
+555, 0.0083703
+556, 0.0106685
+557, 0.0083715
+558, 0.0099801
+559, 0.008356
+560, 0.0116492
+561, 0.0083653
+562, 0.0104302
+563, 0.0083642
+564, 0.0096347
+565, 0.0083792
+566, 0.008325
+567, 0.008325
+568, 0.0083526
+569, 0.008325
+570, 0.0083361
+571, 0.008325
+572, 0.0083385
+573, 0.008325
+574, 0.008325
+575, 0.008353
+576, 0.008325
+577, 0.0083455
+578, 0.008325
+579, 0.0083699
+580, 0.008325
+581, 0.0091147
+582, 0.0083856
+583, 0.008325
+584, 0.008325
+585, 0.008325
+586, 0.008348
+587, 0.008325
+588, 0.0085537
+589, 0.0083564
+590, 0.0093
+591, 0.008364
+592, 0.0101323
+593, 0.0083493
+594, 0.0083346
+595, 0.012297
+596, 0.0083661
+597, 0.0127677
+598, 0.0083779
+599, 0.0137616
+600, 0.0083621
+601, 0.0138299
+602, 0.0084045
+603, 0.0139984
+604, 0.0147823
+605, 0.0083953
+606, 0.0131665
+607, 0.0083778
+608, 0.0139339
+609, 0.0233679
+610, 0.0083425
+611, 0.0146524
+612, 0.0187052
+613, 0.0111059
+614, 0.0109161
+615, 0.0104036
+616, 0.0104524
+617, 0.0097746
+618, 0.0093101
+619, 0.0087455
+620, 0.0104569
+621, 0.0083782
+622, 0.0091892
+623, 0.008378
+624, 0.0083395
+625, 0.0086341
+626, 0.0083739
+627, 0.008325
+628, 0.0083452
+629, 0.008325
+630, 0.0083385
+631, 0.008325
+632, 0.00955
+633, 0.0083589
+634, 0.0085652
+635, 0.0083683
+636, 0.008325
+637, 0.0083429
+638, 0.008325
+639, 0.008325
+640, 0.0083438
+641, 0.008325
+642, 0.008325
+643, 0.0083525
+644, 0.008325
+645, 0.0083404
+646, 0.008325
+647, 0.0083357
+648, 0.008325
+649, 0.008325
+650, 0.0083381
+651, 0.008325
+652, 0.0083384
+653, 0.008325
+654, 0.008343
+655, 0.0083375
+656, 0.008325
+657, 0.008342
+658, 0.008325
+659, 0.008325
+660, 0.0083398
+661, 0.008325
+662, 0.008341
+663, 0.008325
+664, 0.0083652
+665, 0.008325
+666, 0.008325
+667, 0.008325
+668, 0.008325
+669, 0.0083455
+670, 0.008325
+671, 0.0083372
+672, 0.008325
+673, 0.0083376
+674, 0.0083395
+675, 0.008325
+676, 0.0083406
+677, 0.008325
+678, 0.0083392
+679, 0.0083365
+680, 0.008325
+681, 0.0083452
+682, 0.008325
+683, 0.0083367
+684, 0.008325
+685, 0.0083338
+686, 0.0083725
+687, 0.008325
+688, 0.008325
+689, 0.008325
+690, 0.008325
+691, 0.008325
+692, 0.008334
+693, 0.0083477
+694, 0.008325
+695, 0.0083501
+696, 0.008325
+697, 0.008325
+698, 0.0083594
+699, 0.008325
+700, 0.008325
+701, 0.008325
+702, 0.0083512
+703, 0.008325
+704, 0.008325
+705, 0.0083451
+706, 0.008325
+707, 0.0083606
+708, 0.008325
+709, 0.008325
+710, 0.008325
+711, 0.0101141
+712, 0.0083671
+713, 0.008325
+714, 0.0083457
+715, 0.008325
+716, 0.0083549
+717, 0.0083387
+718, 0.008325
+719, 0.008325
+720, 0.008325
+721, 0.0083552
+722, 0.008325
+723, 0.008325
+724, 0.0083448
+725, 0.008325
+726, 0.008325
+727, 0.008325
+728, 0.0083538
+729, 0.008325
+730, 0.008325
+731, 0.0083351
+732, 0.008325
+733, 0.0083515
+734, 0.008325
+735, 0.008325
+736, 0.0083491
+737, 0.008325
+738, 0.0083413
+739, 0.008325
+740, 0.0083494
+741, 0.008325
+742, 0.008325
+743, 0.0083351
+744, 0.008325
+745, 0.0083506
+746, 0.0083402
+747, 0.008325
+748, 0.008325
+749, 0.0092888
+750, 0.0083432
+751, 0.0101735
+752, 0.008368
+753, 0.0083334
+754, 0.0107613
+755, 0.0083558
+756, 0.0100984
+757, 0.0083367
+758, 0.009963
+759, 0.0083773
+760, 0.0094477
+761, 0.0083815
+762, 0.0096042
+763, 0.0083699
+764, 0.008325
+765, 0.0096999
+766, 0.0083545
+767, 0.0090507
+768, 0.0083722
+769, 0.011326
+770, 0.0083871
+771, 0.009663
+772, 0.0083724
+773, 0.0104399
+774, 0.008365
+775, 0.0105666
+776, 0.0083487
+777, 0.0083532
+778, 0.0113838
+779, 0.0083696
+780, 0.0112053
+781, 0.0083525
+782, 0.011027
+783, 0.008359
+784, 0.0113034
+785, 0.0083949
+786, 0.0123708
+787, 0.008372
+788, 0.0114596
+789, 0.00834
+790, 0.0121426
+791, 0.0083742
+792, 0.01167
+793, 0.008372
+794, 0.0131093
+795, 0.0083471
+796, 0.0121763
+797, 0.0083681
+798, 0.01263
+799, 0.0083674
+800, 0.0119315
+801, 0.0083546
+802, 0.0117166
+803, 0.0083662
+804, 0.0116442
+805, 0.0083593
+806, 0.0105677
+807, 0.00837
+808, 0.0105682
+809, 0.0083777
+810, 0.0096166
+811, 0.0083727
+812, 0.0095724
+813, 0.0083608
+814, 0.0087931
+815, 0.0083426
+816, 0.008325
+817, 0.0083924
+818, 0.008325
+819, 0.0091659
+820, 0.0083785
+821, 0.009647
+822, 0.0083794
+823, 0.008325
+824, 0.008325
+825, 0.0083382
+826, 0.008325
+827, 0.0083399
+828, 0.008325
+829, 0.0083541
+830, 0.008325
+831, 0.008339
+832, 0.0083388
+833, 0.008325
+834, 0.008325
+835, 0.008325
+836, 0.008325
+837, 0.0083649
+838, 0.0105921
+839, 0.0083586
+840, 0.00961
+841, 0.0083513
+842, 0.0096681
+843, 0.0083569
+844, 0.0091373
+845, 0.0083718
+846, 0.0083392
+847, 0.008325
+848, 0.008325
+849, 0.008325
+850, 0.0083511
+851, 0.008325
+852, 0.0083486
+853, 0.008325
+854, 0.0083648
+855, 0.008325
+856, 0.008585
+857, 0.008325
+858, 0.0083653
+859, 0.0094682
+860, 0.0083546
+861, 0.0083357
+862, 0.0083671
+863, 0.0122563
+864, 0.0084176
+865, 0.0084317
+866, 0.0083985
+867, 0.008325
+868, 0.0102102
+869, 0.008325
+870, 0.0096533
+871, 0.0083494
+872, 0.009725
+873, 0.0083546
+874, 0.0101091
+875, 0.0083977
+876, 0.0095333
+877, 0.0083554
+878, 0.0083336
+879, 0.0243643
+880, 0.0153765
+881, 0.0114715
+882, 0.0124759
+883, 0.008325
+884, 0.008325
+885, 0.0100279
+886, 0.0122411
+887, 0.01663
+888, 0.0083847
+889, 0.0105379
+890, 0.0128038
+891, 0.008325
+892, 0.0107629
+893, 0.0083527
+894, 0.0117401
+895, 0.0083692
+896, 0.0127872
+897, 0.008338
+898, 0.0102632
+899, 0.0083444
+900, 0.010413
+901, 0.008387
+902, 0.0102342
+903, 0.0083719
+904, 0.0107271
+905, 0.008325
+906, 0.0103362
+907, 0.0083634
+908, 0.0084933
+909, 0.008362
+910, 0.0083568
+911, 0.0094958
+912, 0.0083413
+913, 0.0084443
+914, 0.0083452
+915, 0.0087978
+916, 0.0083648
+917, 0.008325
+918, 0.0100632
+919, 0.0083526
+920, 0.0096583
+921, 0.0083696
+922, 0.0086667
+923, 0.0083663
+924, 0.0083429
+925, 0.0095832
+926, 0.0083581
+927, 0.008325
+928, 0.008325
+929, 0.0111802
+930, 0.0083523
+931, 0.008325
+932, 0.0083465
+933, 0.008325
+934, 0.008325
+935, 0.0083423
+936, 0.008325
+937, 0.0083409
+938, 0.008325
+939, 0.0083481
+940, 0.008325
+941, 0.0083336
+942, 0.008325
+943, 0.008344
+944, 0.0083391
+945, 0.008325
+946, 0.008325
+947, 0.008325
+948, 0.0083499
+949, 0.008325
+950, 0.0083339
+951, 0.0083561
+952, 0.008325
+953, 0.008325
+954, 0.008325
+955, 0.0083505
+956, 0.008325
+957, 0.0083335
+958, 0.008325
+959, 0.008325
+960, 0.0083574
+961, 0.008325
+962, 0.0083428
+963, 0.0083556
+964, 0.008325
+965, 0.008325
+966, 0.008325
+967, 0.008325
+968, 0.0083694
+969, 0.008325
+970, 0.008325
+971, 0.008325
+972, 0.008325
+973, 0.008325
+974, 0.008325
+975, 0.0083517
+976, 0.008325
+977, 0.0083459
+978, 0.008325
+979, 0.008325
+980, 0.0083472
+981, 0.008325
+982, 0.0083506
+983, 0.008325
+984, 0.008355
+985, 0.008325
+986, 0.0083432
+987, 0.008325
+988, 0.008325
+989, 0.0083382
+990, 0.008325
+991, 0.0083485
+992, 0.0084119
+993, 0.008325
+994, 0.008325
+995, 0.008325
+996, 0.008325
+997, 0.008325
+998, 0.008325
+999, 0.008325
+1000, 0.008325
+1001, 0.008325
+1002, 0.008325
+1003, 0.008325
+1004, 0.0083442
+1005, 0.008325
+1006, 0.0083379
+1007, 0.008325
+1008, 0.0083347
+1009, 0.008325
+1010, 0.008325
+1011, 0.008325
+1012, 0.008325
+1013, 0.0083396
+1014, 0.008325
+1015, 0.0083447
+1016, 0.0083482
+1017, 0.008325
+1018, 0.008325
+1019, 0.008325
+1020, 0.008325
+1021, 0.0083529
+1022, 0.008325
+1023, 0.0083474
+1024, 0.008325
+1025, 0.008325
+1026, 0.008325
+1027, 0.008325
+1028, 0.0083648
+1029, 0.008325
+1030, 0.0083449
+1031, 0.008325
+1032, 0.008325
+1033, 0.008325
+1034, 0.008325
+1035, 0.0083423
+1036, 0.0083338
+1037, 0.008325
+1038, 0.0083462
+1039, 0.008325
+1040, 0.008325
+1041, 0.0083446
+1042, 0.008325
+1043, 0.0083445
+1044, 0.008325
+1045, 0.0083372
+1046, 0.008325
+1047, 0.0083355
+1048, 0.0083596
+1049, 0.008325
+1050, 0.008325
+1051, 0.0083499
+1052, 0.008325
+1053, 0.0083383
+1054, 0.008325
+1055, 0.008325
+1056, 0.0083368
+1057, 0.0083421
+1058, 0.008325
+1059, 0.008325
+1060, 0.0083435
+1061, 0.008325
+1062, 0.0083554
+1063, 0.008325
+1064, 0.008325
+1065, 0.0083466
+1066, 0.008325
+1067, 0.008325
+1068, 0.008325
+1069, 0.0083586
+1070, 0.008325
+1071, 0.0083395
+1072, 0.008325
+1073, 0.0083379
+1074, 0.008325
+1075, 0.0083415
+1076, 0.0083685
+1077, 0.008325
+1078, 0.008325
+1079, 0.008325
+1080, 0.008325
+1081, 0.008325
+1082, 0.008325
+1083, 0.00835
+1084, 0.008325
+1085, 0.0083396
+1086, 0.008325
+1087, 0.008325
+1088, 0.0083496
+1089, 0.0083495
+1090, 0.008325
+1091, 0.008325
+1092, 0.008325
+1093, 0.008325
+1094, 0.008325
+1095, 0.0083608
+1096, 0.008325
+1097, 0.008325
+1098, 0.0083386
+1099, 0.008325
+1100, 0.0083471
+1101, 0.008354
+1102, 0.008325
+1103, 0.008325
+1104, 0.008325
+1105, 0.0083416
+1106, 0.008325
+1107, 0.008325
+1108, 0.0083421
+1109, 0.008325
+1110, 0.0083371
+1111, 0.008325
+1112, 0.0083543
+1113, 0.008325
+1114, 0.008325
+1115, 0.0083485
+1116, 0.008325
+1117, 0.0083365
+1118, 0.008325
+1119, 0.0083409
+1120, 0.008325
+1121, 0.008325
+1122, 0.0083427
+1123, 0.008325
+1124, 0.0083528
+1125, 0.008325
+1126, 0.008325
+1127, 0.0083502
+1128, 0.008325
+1129, 0.008325
+1130, 0.008325
+1131, 0.0083572
+1132, 0.008325
+1133, 0.0086143
+1134, 0.0083739
+1135, 0.008325
+1136, 0.0083556
+1137, 0.008325
+1138, 0.0084778
+1139, 0.0083376
+1140, 0.0088601
+1141, 0.008325
+1142, 0.0085899
+1143, 0.0083702
+1144, 0.008325
+1145, 0.0084604
+1146, 0.0083581
+1147, 0.008325
+1148, 0.00834
+1149, 0.008325
+1150, 0.0083519
+1151, 0.0083536
+1152, 0.008325
+1153, 0.0083411
+1154, 0.0085987
+1155, 0.0083574
+1156, 0.0083412
+1157, 0.0101395
+1158, 0.0083592
+1159, 0.0092951
+1160, 0.008372
+1161, 0.0090511
+1162, 0.0083723
+1163, 0.0094189
+1164, 0.008376
+1165, 0.0083424
+1166, 0.009812
+1167, 0.0083385
+1168, 0.0116395
+1169, 0.0083787
+1170, 0.0096589
+1171, 0.0083666
+1172, 0.0102898
+1173, 0.0083621
+1174, 0.0093895
+1175, 0.0083934
+1176, 0.008325
+1177, 0.0108231
+1178, 0.008361
+1179, 0.010972
+1180, 0.0083664
+1181, 0.0104683
+1182, 0.0083806
+1183, 0.0112304
+1184, 0.0083465
+1185, 0.0107345
+1186, 0.0083859
+1187, 0.0109963
+1188, 0.00837
+1189, 0.011595
+1190, 0.0083739
+1191, 0.0118405
+1192, 0.0083903
+1193, 0.0115523
+1194, 0.0083918
+1195, 0.0119057
+1196, 0.0083857
+1197, 0.0123936
+1198, 0.0083535
+1199, 0.0128956
+1200, 0.0083745
+1201, 0.0131884
+1202, 0.0083622
+1203, 0.0216105
+1204, 0.008325
+1205, 0.0139564
+1206, 0.01871
+1207, 0.0104047
+1208, 0.0103572
+1209, 0.0135204
+1210, 0.0098843
+1211, 0.0095734
+1212, 0.0138555
+1213, 0.0088861
+1214, 0.0131148
+1215, 0.008356
+1216, 0.010791
+1217, 0.0083732
+1218, 0.0114086
+1219, 0.0083644
+1220, 0.0109653
+1221, 0.0083551
+1222, 0.0105666
+1223, 0.0083649
+1224, 0.0104359
+1225, 0.0083674
+1226, 0.0113918
+1227, 0.0083373
+1228, 0.0112288
+1229, 0.0083787
+1230, 0.0101681
+1231, 0.0083694
+1232, 0.0094872
+1233, 0.0083351
+1234, 0.0083616
+1235, 0.010683
+1236, 0.0083659
+1237, 0.0090729
+1238, 0.0083616
+1239, 0.0087853
+1240, 0.0083512
+1241, 0.008325
+1242, 0.0083356
+1243, 0.008325
+1244, 0.008356
+1245, 0.008374
+1246, 0.008325
+1247, 0.0083483
+1248, 0.0083723
+1249, 0.0083395
+1250, 0.0083575
+1251, 0.008325
+1252, 0.0083339
+1253, 0.008325
+1254, 0.0083533
+1255, 0.008325
+1256, 0.008325
+1257, 0.0083436
+1258, 0.008325
+1259, 0.0083384
+1260, 0.008325
+1261, 0.008325
+1262, 0.0083567
+1263, 0.008325
+1264, 0.008325
+1265, 0.0088174
+1266, 0.008351
+1267, 0.008349
+1268, 0.0104748
+1269, 0.0083809
+1270, 0.0104989
+1271, 0.0083777
+1272, 0.0125591
+1273, 0.0083645
+1274, 0.0125488
+1275, 0.0083672
+1276, 0.0136119
+1277, 0.0083732
+1278, 0.0136105
+1279, 0.0084333
+1280, 0.0127991
+1281, 0.0083646
+1282, 0.013647
+1283, 0.0166329
+1284, 0.0083756
+1285, 0.0142445
+1286, 0.0083948
+1287, 0.0137175
+1288, 0.0147985
+1289, 0.0083649
+1290, 0.012444
+1291, 0.0083669
+1292, 0.0119411
+1293, 0.0083518
+1294, 0.0117738
+1295, 0.0083563
+1296, 0.010426
+1297, 0.0083417
+1298, 0.0098694
+1299, 0.0083642
+1300, 0.0085212
+1301, 0.0083604
+1302, 0.0083342
+1303, 0.0083351
+1304, 0.008325
+1305, 0.0083483
+1306, 0.0083345
+1307, 0.009035
+1308, 0.0083804
+1309, 0.009016
+1310, 0.0083844
+1311, 0.0085581
+1312, 0.0083817
+1313, 0.008325
+1314, 0.0084334
+1315, 0.008369
+1316, 0.008325
+1317, 0.0083341
+1318, 0.008325
+1319, 0.0083356
+1320, 0.008325
+1321, 0.008325
+1322, 0.0083406
+1323, 0.008325
+1324, 0.008325
+1325, 0.008342
+1326, 0.008325
+1327, 0.0083373
+1328, 0.008325
+1329, 0.0083411
+1330, 0.008325
+1331, 0.0083368
+1332, 0.0083628
+1333, 0.008325
+1334, 0.008325
+1335, 0.008325
+1336, 0.008355
+1337, 0.0083364
+1338, 0.008325
+1339, 0.008325
+1340, 0.008325
+1341, 0.0083469
+1342, 0.008325
+1343, 0.008325
+1344, 0.0083405
+1345, 0.008325
+1346, 0.008325
+1347, 0.0083342
+1348, 0.0083591
+1349, 0.008325
+1350, 0.008325
+1351, 0.0083338
+1352, 0.008325
+1353, 0.0083398
+1354, 0.008325
+1355, 0.0083365
+1356, 0.0083495
+1357, 0.008325
+1358, 0.008325
+1359, 0.008325
+1360, 0.008365
+1361, 0.0083416
+1362, 0.008325
+1363, 0.0083386
+1364, 0.008325
+1365, 0.008325
+1366, 0.008325
+1367, 0.0083628
+1368, 0.008325
+1369, 0.008325
+1370, 0.008325
+1371, 0.0083374
+1372, 0.008325
+1373, 0.0083559
+1374, 0.008325
+1375, 0.0083478
+1376, 0.008325
+1377, 0.008325
+1378, 0.008325
+1379, 0.008347
+1380, 0.008325
+1381, 0.008325
+1382, 0.0083389
+1383, 0.0088766
+1384, 0.0083389
+1385, 0.00837
+1386, 0.008325
+1387, 0.008325
+1388, 0.008325
+1389, 0.0083418
+1390, 0.008325
+1391, 0.008325
+1392, 0.0083404
+1393, 0.0083361
+1394, 0.0083393
+1395, 0.008325
+1396, 0.0083468
+1397, 0.008325
+1398, 0.008325
+1399, 0.0083488
+1400, 0.008325
+1401, 0.0083416
+1402, 0.008325
+1403, 0.0083394
+1404, 0.008325
+1405, 0.0088262
+1406, 0.0083975
+1407, 0.0083823
+1408, 0.0083908
+1409, 0.008325
+1410, 0.008325
+1411, 0.0083399
+1412, 0.008325
+1413, 0.00834
+1414, 0.008325
+1415, 0.008325
+1416, 0.0083506
+1417, 0.008325
+1418, 0.008325
+1419, 0.008325
+1420, 0.008325
+1421, 0.0083393
+1422, 0.0083383
+1423, 0.008325
+1424, 0.0087629
+1425, 0.0083707
+1426, 0.0088131
+1427, 0.0083597
+1428, 0.0083578
+1429, 0.0105277
+1430, 0.0083646
+1431, 0.0099268
+1432, 0.008363
+1433, 0.0103226
+1434, 0.0083432
+1435, 0.0104415
+1436, 0.0083572
+1437, 0.0097756
+1438, 0.008343
+1439, 0.0090737
+1440, 0.0083424
+1441, 0.0083492
+1442, 0.0109001
+1443, 0.0083695
+1444, 0.0099492
+1445, 0.0083645
+1446, 0.009665
+1447, 0.0083567
+1448, 0.0098916
+1449, 0.0083543
+1450, 0.0112781
+1451, 0.008325
+1452, 0.0083467
+1453, 0.0124999
+1454, 0.0083618
+1455, 0.0109184
+1456, 0.0083791
+1457, 0.0108385
+1458, 0.0083511
+1459, 0.0106199
+1460, 0.0083764
+1461, 0.011511
+1462, 0.0083401
+1463, 0.0122633
+1464, 0.0083438
+1465, 0.0116651
+1466, 0.0083792
+1467, 0.0122537
+1468, 0.0083617
+1469, 0.0110782
+1470, 0.0083639
+1471, 0.0118974
+1472, 0.0083637
+1473, 0.0110504
+1474, 0.0083727
+1475, 0.0112866
+1476, 0.0083659
+1477, 0.0116661
+1478, 0.0083572
+1479, 0.0134781
+1480, 0.0083744
+1481, 0.0113584
+1482, 0.0083671
+1483, 0.0108693
+1484, 0.0083648
+1485, 0.010671
+1486, 0.0083671
+1487, 0.0092593
+1488, 0.008372
+1489, 0.0092531
+1490, 0.0083711
+1491, 0.0085155
+1492, 0.0083611
+1493, 0.008325
+1494, 0.0084466
+1495, 0.0083665
+1496, 0.008325
+1497, 0.0083422
+1498, 0.008325
+1499, 0.008325
+1500, 0.0083386
+1501, 0.008325
+1502, 0.0083365
+1503, 0.008325
+1504, 0.0083536
+1505, 0.0083341
+1506, 0.008325
+1507, 0.0083468
+1508, 0.008325
+1509, 0.008325
+1510, 0.008325
+1511, 0.008325
+1512, 0.0083514
+1513, 0.008325
+1514, 0.0083505
+1515, 0.008325
+1516, 0.0083705
+1517, 0.008325
+1518, 0.0095285
+1519, 0.008359
+1520, 0.0092152
+1521, 0.008365
+1522, 0.0085202
+1523, 0.0083684
+1524, 0.008325
+1525, 0.008325
+1526, 0.0083434
+1527, 0.008325
+1528, 0.0083453
+1529, 0.008325
+1530, 0.0083447
+1531, 0.0083349
+1532, 0.008325
+1533, 0.0083349
+1534, 0.008325
+1535, 0.008325
+1536, 0.0083615
+1537, 0.008325
+1538, 0.0083341
+1539, 0.008325
+1540, 0.0083371
+1541, 0.008325
+1542, 0.0083725
+1543, 0.008325
+1544, 0.008325
+1545, 0.008325
+1546, 0.008325
+1547, 0.0083374
+1548, 0.008325
+1549, 0.008325
+1550, 0.0083494
+1551, 0.008325
+1552, 0.0083512
+1553, 0.0087992
+1554, 0.0083835
+1555, 0.008325
+1556, 0.008325
+1557, 0.008325
+1558, 0.0088227
+1559, 0.0083566
+1560, 0.0088986
+1561, 0.0083342
+1562, 0.0083456
+1563, 0.0084125
+1564, 0.0083432
+1565, 0.008325
+1566, 0.0083586
+1567, 0.008325
+1568, 0.0089203
+1569, 0.0083662
+1570, 0.008325
+1571, 0.0083433
+1572, 0.008325
+1573, 0.008325
+1574, 0.0083413
+1575, 0.0084534
+1576, 0.008366
+1577, 0.008325
+1578, 0.008325
+1579, 0.0083537
+1580, 0.0086833
+1581, 0.0083563
+1582, 0.00861
+1583, 0.0083703
+1584, 0.0095333
+1585, 0.0083677
+1586, 0.0087444
+1587, 0.0083566
+1588, 0.0083416
+1589, 0.010455
+1590, 0.0083636
+1591, 0.0091241
+1592, 0.0083551
+1593, 0.0090587
+1594, 0.008366
+1595, 0.008334
+1596, 0.0093085
+1597, 0.008365
+1598, 0.0086145
+1599, 0.0083695
+1600, 0.0088867
+1601, 0.0083523
+1602, 0.0083367
+1603, 0.0085324
+1604, 0.0083684
+1605, 0.0095717
+1606, 0.0083664
+1607, 0.0093902
+1608, 0.0083753
+1609, 0.0087639
+1610, 0.0083607
+1611, 0.008385
+1612, 0.0102732
+1613, 0.0083436
+1614, 0.0085981
+1615, 0.0083692
+1616, 0.008325
+1617, 0.008325
+1618, 0.0083525
+1619, 0.008325
+1620, 0.0083364
+1621, 0.008325
+1622, 0.008353
+1623, 0.008325
+1624, 0.008325
+1625, 0.0083366
+1626, 0.008325
+1627, 0.008325
+1628, 0.0083486
+1629, 0.0083443
+1630, 0.008325
+1631, 0.008325
+1632, 0.008325
+1633, 0.0083545
+1634, 0.0083479
+1635, 0.008325
+1636, 0.008325
+1637, 0.008325
+1638, 0.008325
+1639, 0.0083537
+1640, 0.0083657
+1641, 0.008325
+1642, 0.008325
+1643, 0.008325
+1644, 0.008325
+1645, 0.0083416
+1646, 0.008325
+1647, 0.008325
+1648, 0.008325
+1649, 0.008325
+1650, 0.008325
+1651, 0.0083441
+1652, 0.0083515
+1653, 0.0083351
+1654, 0.008325
+1655, 0.0083482
+1656, 0.008325
+1657, 0.008334
+1658, 0.008325
+1659, 0.008325
+1660, 0.0083452
+1661, 0.008325
+1662, 0.0083357
+1663, 0.008325
+1664, 0.0083464
+1665, 0.0083352
+1666, 0.008325
+1667, 0.00835
+1668, 0.008325
+1669, 0.0083423
+1670, 0.008325
+1671, 0.008325
+1672, 0.008325
+1673, 0.008325
+1674, 0.0083741
+1675, 0.008325
+1676, 0.008325
+1677, 0.008325
+1678, 0.008325
+1679, 0.0083772
+1680, 0.008325
+1681, 0.0083455
+1682, 0.008325
+1683, 0.008325
+1684, 0.008325
+1685, 0.008325
+1686, 0.0083605
+1687, 0.008325
+1688, 0.008325
+1689, 0.0083432
+1690, 0.008325
+1691, 0.008325
+1692, 0.008325
+1693, 0.0083429
+1694, 0.008339
+1695, 0.008325
+1696, 0.008325
+1697, 0.008325
+1698, 0.0083648
+1699, 0.008325
+1700, 0.008325
+1701, 0.0083572
+1702, 0.008325
+1703, 0.008325
+1704, 0.008325
+1705, 0.008325
+1706, 0.0083628
+1707, 0.008325
+1708, 0.008325
+1709, 0.008325
+1710, 0.008325
+1711, 0.008325
+1712, 0.0083415
+1713, 0.0083375
+1714, 0.008325
+1715, 0.008325
+1716, 0.0083492
+1717, 0.008325
+1718, 0.0083551
+1719, 0.008325
+1720, 0.008325
+1721, 0.008325
+1722, 0.008325
+1723, 0.0083339
+1724, 0.0083566
+1725, 0.008325
+1726, 0.008325
+1727, 0.008325
+1728, 0.008325
+1729, 0.008325
+1730, 0.0083682
+1731, 0.008325
+1732, 0.008325
+1733, 0.008325
+1734, 0.008325
+1735, 0.0083578
+1736, 0.008325
+1737, 0.0083545
+1738, 0.008325
+1739, 0.008325
+1740, 0.008325
+1741, 0.008325
+1742, 0.0083628
+1743, 0.008325
+1744, 0.008325
+1745, 0.008325
+1746, 0.0083429
+1747, 0.008325
+1748, 0.0083502
+1749, 0.00834
+1750, 0.008325
+1751, 0.008325
+1752, 0.0083433
+1753, 0.0083396
+1754, 0.0083344
+1755, 0.008325
+1756, 0.008325
+1757, 0.0083421
+1758, 0.008325
+1759, 0.008348
+1760, 0.008325
+1761, 0.008325
+1762, 0.0083346
+1763, 0.008325
+1764, 0.0083467
+1765, 0.0083521
+1766, 0.008325
+1767, 0.008325
+1768, 0.008325
+1769, 0.008325
+1770, 0.008325
+1771, 0.008359
+1772, 0.008325
+1773, 0.008325
+1774, 0.0083501
+1775, 0.008325
+1776, 0.0083418
+1777, 0.008325
+1778, 0.008341
+1779, 0.0083411
+1780, 0.008325
+1781, 0.008325
+1782, 0.008325
+1783, 0.0083487
+1784, 0.008325
+1785, 0.0083612
+1786, 0.008325
+1787, 0.008325
+1788, 0.0083365
+1789, 0.008325
+1790, 0.0083366
+1791, 0.008325
+1792, 0.008325
+1793, 0.0083822
+1794, 0.008325
+1795, 0.008325
+1796, 0.008325
+1797, 0.0083534
+1798, 0.008325
+1799, 0.008325
+1800, 0.008325
+1801, 0.008325
+1802, 0.0083369
+1803, 0.0083358
+1804, 0.008325
+1805, 0.008325
+1806, 0.008325
+1807, 0.008348
+1808, 0.008325
+1809, 0.0083443
+1810, 0.0083537
+1811, 0.008325
+1812, 0.008325
+1813, 0.008325
+1814, 0.0083687
+1815, 0.008325
+1816, 0.008325
+1817, 0.0083367
+1818, 0.008325
+1819, 0.008325
+1820, 0.008325
+1821, 0.0083704
+1822, 0.008325
+1823, 0.008325
+1824, 0.0083599
+1825, 0.008325
+1826, 0.008325
+1827, 0.008325
+1828, 0.0083478
+1829, 0.0083577
+1830, 0.008325
+1831, 0.0083601
+1832, 0.008325
+1833, 0.0083378
+1834, 0.008325
+1835, 0.0083389
+1836, 0.0083451
+1837, 0.0086626
+1838, 0.0083523
+1839, 0.008325
+1840, 0.0083586
+1841, 0.008325
+1842, 0.0084349
+1843, 0.0083361
+1844, 0.008325
+1845, 0.0083776
+1846, 0.008325
+1847, 0.0089332
+1848, 0.0083499
+1849, 0.0087494
+1850, 0.0083716
+1851, 0.0101981
+1852, 0.0083577
+1853, 0.0090348
+1854, 0.0083648
+1855, 0.0083518
+1856, 0.0095267
+1857, 0.0083665
+1858, 0.0094599
+1859, 0.0083676
+1860, 0.0094151
+1861, 0.0083809
+1862, 0.0083521
+1863, 0.0104795
+1864, 0.0083538
+1865, 0.0105006
+1866, 0.0083467
+1867, 0.0100245
+1868, 0.0083669
+1869, 0.0103232
+1870, 0.0083571
+1871, 0.0096546
+1872, 0.0083586
+1873, 0.0106907
+1874, 0.0083543
+1875, 0.0083341
+1876, 0.0116877
+1877, 0.0083804
+1878, 0.0126225
+1879, 0.0083829
+1880, 0.0123713
+1881, 0.0083665
+1882, 0.0116151
+1883, 0.0083799
+1884, 0.0114161
+1885, 0.0083743
+1886, 0.0115396
+1887, 0.0083612
+1888, 0.0134346
+1889, 0.008338
+1890, 0.0137942
+1891, 0.0083582
+1892, 0.0138057
+1893, 0.0166787
+1894, 0.0083643
+1895, 0.0125134
+1896, 0.0131315
+1897, 0.008359
+1898, 0.0116632
+1899, 0.0083825
+1900, 0.0117231
+1901, 0.0083586
+1902, 0.0130378
+1903, 0.0083619
+1904, 0.0112764
+1905, 0.008397
+1906, 0.0119361
+1907, 0.0083656
+1908, 0.0104651
+1909, 0.0083391
+1910, 0.0100355
+1911, 0.0083664
+1912, 0.0094066
+1913, 0.008364
+1914, 0.0110293
+1915, 0.0083667
+1916, 0.0103328
+1917, 0.0083681
+1918, 0.0103612
+1919, 0.0083544
+1920, 0.0083558
+1921, 0.010687
+1922, 0.008365
+1923, 0.009928
+1924, 0.0083764
+1925, 0.009555
+1926, 0.0083602
+1927, 0.0087394
+1928, 0.0083727
+1929, 0.008325
+1930, 0.0083425
+1931, 0.0083351
+1932, 0.008325
+1933, 0.0083449
+1934, 0.008325
+1935, 0.0083414
+1936, 0.008325
+1937, 0.008325
+1938, 0.0083423
+1939, 0.008325
+1940, 0.0083368
+1941, 0.008325
+1942, 0.008358
+1943, 0.008325
+1944, 0.008325
+1945, 0.008325
+1946, 0.008325
+1947, 0.0083787
+1948, 0.0083378
+1949, 0.008325
+1950, 0.008325
+1951, 0.0092126
+1952, 0.0083447
+1953, 0.0100658
+1954, 0.008357
+1955, 0.0083509
+1956, 0.0125436
+1957, 0.0083463
+1958, 0.0211608
+1959, 0.0099722
+1960, 0.0122812
+1961, 0.0186935
+1962, 0.0152305
+1963, 0.0124755
+1964, 0.0119522
+1965, 0.0148768
+1966, 0.0114777
+1967, 0.0114545
+1968, 0.0159426
+1969, 0.0104475
+1970, 0.0123735
+1971, 0.0152323
+1972, 0.0092872
+1973, 0.013012
+1974, 0.0088348
+1975, 0.013374
+1976, 0.0129245
+1977, 0.0083476
+1978, 0.0107041
+1979, 0.0083392
+1980, 0.0107014
+1981, 0.0083636
+1982, 0.0096575
+1983, 0.0083647
+1984, 0.0095071
+1985, 0.0083835
+1986, 0.0085801
+1987, 0.0083524
+1988, 0.0083855
+1989, 0.008325
+1990, 0.008325
+1991, 0.008325
+1992, 0.008325
+1993, 0.008325
+1994, 0.0083561
+1995, 0.008325
+1996, 0.0084995
+1997, 0.0083565
+1998, 0.008325
+1999, 0.008325

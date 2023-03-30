@@ -1,2000 +1,2000 @@
-Frame: 0, Time since last: 0,02
-Frame: 1, Time since last: 0,02
-Frame: 2, Time since last: 0,3333333
-Frame: 3, Time since last: 0,3333333
-Frame: 4, Time since last: 0,3333333
-Frame: 5, Time since last: 0,2668962
-Frame: 6, Time since last: 0,2476008
-Frame: 7, Time since last: 0,2075307
-Frame: 8, Time since last: 0,1745201
-Frame: 9, Time since last: 0,1674857
-Frame: 10, Time since last: 0,1377215
-Frame: 11, Time since last: 0,1366264
-Frame: 12, Time since last: 0,1102596
-Frame: 13, Time since last: 0,09305
-Frame: 14, Time since last: 0,0936663
-Frame: 15, Time since last: 0,0794214
-Frame: 16, Time since last: 0,0637146
-Frame: 17, Time since last: 0,061199
-Frame: 18, Time since last: 0,0470224
-Frame: 19, Time since last: 0,0476341
-Frame: 20, Time since last: 0,0464999
-Frame: 21, Time since last: 0,0350476
-Frame: 22, Time since last: 0,0487032
-Frame: 23, Time since last: 0,0356474
-Frame: 24, Time since last: 0,0290427
-Frame: 25, Time since last: 0,0266642
-Frame: 26, Time since last: 0,0236438
-Frame: 27, Time since last: 0,022649
-Frame: 28, Time since last: 0,0128363
-Frame: 29, Time since last: 0,0369209
-Frame: 30, Time since last: 0,0128571
-Frame: 31, Time since last: 0,0340979
-Frame: 32, Time since last: 0,0274757
-Frame: 33, Time since last: 0,0086054
-Frame: 34, Time since last: 0,0351906
-Frame: 35, Time since last: 0,0120984
-Frame: 36, Time since last: 0,0354842
-Frame: 37, Time since last: 0,0222298
-Frame: 38, Time since last: 0,0178477
-Frame: 39, Time since last: 0,0316199
-Frame: 40, Time since last: 0,0101815
-Frame: 41, Time since last: 0,0350432
-Frame: 42, Time since last: 0,0134028
-Frame: 43, Time since last: 0,0308807
-Frame: 44, Time since last: 0,0233841
-Frame: 45, Time since last: 0,0176297
-Frame: 46, Time since last: 0,0313963
-Frame: 47, Time since last: 0,0198073
-Frame: 48, Time since last: 0,0189759
-Frame: 49, Time since last: 0,0206595
-Frame: 50, Time since last: 0,0184293
-Frame: 51, Time since last: 0,01851
-Frame: 52, Time since last: 0,0182938
-Frame: 53, Time since last: 0,0197928
-Frame: 54, Time since last: 0,0190161
-Frame: 55, Time since last: 0,0187849
-Frame: 56, Time since last: 0,0189719
-Frame: 57, Time since last: 0,0220798
-Frame: 58, Time since last: 0,0183367
-Frame: 59, Time since last: 0,0184025
-Frame: 60, Time since last: 0,0197403
-Frame: 61, Time since last: 0,0222654
-Frame: 62, Time since last: 0,0210182
-Frame: 63, Time since last: 0,0187838
-Frame: 64, Time since last: 0,0184882
-Frame: 65, Time since last: 0,0189997
-Frame: 66, Time since last: 0,0189325
-Frame: 67, Time since last: 0,0190693
-Frame: 68, Time since last: 0,0095375
-Frame: 69, Time since last: 0,0214589
-Frame: 70, Time since last: 0,0184538
-Frame: 71, Time since last: 0,0180205
-Frame: 72, Time since last: 0,0185441
-Frame: 73, Time since last: 0,0187685
-Frame: 74, Time since last: 0,0187895
-Frame: 75, Time since last: 0,0182905
-Frame: 76, Time since last: 0,0191077
-Frame: 77, Time since last: 0,0178464
-Frame: 78, Time since last: 0,0090422
-Frame: 79, Time since last: 0,0214443
-Frame: 80, Time since last: 0,0187189
-Frame: 81, Time since last: 0,0185851
-Frame: 82, Time since last: 0,0187006
-Frame: 83, Time since last: 0,019009
-Frame: 84, Time since last: 0,0179333
-Frame: 85, Time since last: 0,0197307
-Frame: 86, Time since last: 0,0179182
-Frame: 87, Time since last: 0,0187069
-Frame: 88, Time since last: 0,0093621
-Frame: 89, Time since last: 0,021446
-Frame: 90, Time since last: 0,0188918
-Frame: 91, Time since last: 0,0184163
-Frame: 92, Time since last: 0,0178472
-Frame: 93, Time since last: 0,0179932
-Frame: 94, Time since last: 0,0193421
-Frame: 95, Time since last: 0,0189952
-Frame: 96, Time since last: 0,0187791
-Frame: 97, Time since last: 0,0093785
-Frame: 98, Time since last: 0,0212845
-Frame: 99, Time since last: 0,0193102
-Frame: 100, Time since last: 0,0168452
-Frame: 101, Time since last: 0,0194168
-Frame: 102, Time since last: 0,0194329
-Frame: 103, Time since last: 0,0190316
-Frame: 104, Time since last: 0,0194401
-Frame: 105, Time since last: 0,0201537
-Frame: 106, Time since last: 0,0190702
-Frame: 107, Time since last: 0,0179023
-Frame: 108, Time since last: 0,0181554
-Frame: 109, Time since last: 0,0092965
-Frame: 110, Time since last: 0,0202226
-Frame: 111, Time since last: 0,0225651
-Frame: 112, Time since last: 0,018814
-Frame: 113, Time since last: 0,0182942
-Frame: 114, Time since last: 0,0179677
-Frame: 115, Time since last: 0,018056
-Frame: 116, Time since last: 0,0184507
-Frame: 117, Time since last: 0,0190833
-Frame: 118, Time since last: 0,017938
-Frame: 119, Time since last: 0,0187347
-Frame: 120, Time since last: 0,0093516
-Frame: 121, Time since last: 0,0213968
-Frame: 122, Time since last: 0,0183212
-Frame: 123, Time since last: 0,020503
-Frame: 124, Time since last: 0,0186784
-Frame: 125, Time since last: 0,0193607
-Frame: 126, Time since last: 0,0186818
-Frame: 127, Time since last: 0,0178739
-Frame: 128, Time since last: 0,0203093
-Frame: 129, Time since last: 0,0182522
-Frame: 130, Time since last: 0,0185427
-Frame: 131, Time since last: 0,0183931
-Frame: 132, Time since last: 0,0091233
-Frame: 133, Time since last: 0,0210987
-Frame: 134, Time since last: 0,0185684
-Frame: 135, Time since last: 0,0180867
-Frame: 136, Time since last: 0,0199965
-Frame: 137, Time since last: 0,0199712
-Frame: 138, Time since last: 0,0194948
-Frame: 139, Time since last: 0,0190627
-Frame: 140, Time since last: 0,0192113
-Frame: 141, Time since last: 0,0186975
-Frame: 142, Time since last: 0,0208306
-Frame: 143, Time since last: 0,0189427
-Frame: 144, Time since last: 0,0187651
-Frame: 145, Time since last: 0,0194254
-Frame: 146, Time since last: 0,0097099
-Frame: 147, Time since last: 0,0219083
-Frame: 148, Time since last: 0,0191065
-Frame: 149, Time since last: 0,0167648
-Frame: 150, Time since last: 0,0182553
-Frame: 151, Time since last: 0,0183218
-Frame: 152, Time since last: 0,0195195
-Frame: 153, Time since last: 0,0186743
-Frame: 154, Time since last: 0,0178794
-Frame: 155, Time since last: 0,0188333
-Frame: 156, Time since last: 0,0141821
-Frame: 157, Time since last: 0,0155452
-Frame: 158, Time since last: 0,0182449
-Frame: 159, Time since last: 0,0183719
-Frame: 160, Time since last: 0,0182582
-Frame: 161, Time since last: 0,0198128
-Frame: 162, Time since last: 0,0194609
-Frame: 163, Time since last: 0,0186017
-Frame: 164, Time since last: 0,0183766
-Frame: 165, Time since last: 0,009195
-Frame: 166, Time since last: 0,0203012
-Frame: 167, Time since last: 0,0192628
-Frame: 168, Time since last: 0,0185388
-Frame: 169, Time since last: 0,0199227
-Frame: 170, Time since last: 0,0188761
-Frame: 171, Time since last: 0,0183377
-Frame: 172, Time since last: 0,0186908
-Frame: 173, Time since last: 0,0190775
-Frame: 174, Time since last: 0,0183968
-Frame: 175, Time since last: 0,0180365
-Frame: 176, Time since last: 0,0089966
-Frame: 177, Time since last: 0,0216972
-Frame: 178, Time since last: 0,0191792
-Frame: 179, Time since last: 0,0190188
-Frame: 180, Time since last: 0,019817
-Frame: 181, Time since last: 0,019003
-Frame: 182, Time since last: 0,0211471
-Frame: 183, Time since last: 0,0182943
-Frame: 184, Time since last: 0,0179817
-Frame: 185, Time since last: 0,0190447
-Frame: 186, Time since last: 0,0179618
-Frame: 187, Time since last: 0,0196505
-Frame: 188, Time since last: 0,00954
-Frame: 189, Time since last: 0,0221622
-Frame: 190, Time since last: 0,0206091
-Frame: 191, Time since last: 0,0190887
-Frame: 192, Time since last: 0,0186047
-Frame: 193, Time since last: 0,01817
-Frame: 194, Time since last: 0,0174546
-Frame: 195, Time since last: 0,0183265
-Frame: 196, Time since last: 0,017932
-Frame: 197, Time since last: 0,0198974
-Frame: 198, Time since last: 0,0186733
-Frame: 199, Time since last: 0,017691
-Frame: 200, Time since last: 0,0088628
-Frame: 201, Time since last: 0,0204898
-Frame: 202, Time since last: 0,0185211
-Frame: 203, Time since last: 0,0198925
-Frame: 204, Time since last: 0,0193231
-Frame: 205, Time since last: 0,0208235
-Frame: 206, Time since last: 0,0185025
-Frame: 207, Time since last: 0,0179972
-Frame: 208, Time since last: 0,017517
-Frame: 209, Time since last: 0,0188914
-Frame: 210, Time since last: 0,009424
-Frame: 211, Time since last: 0,021624
-Frame: 212, Time since last: 0,0188449
-Frame: 213, Time since last: 0,0183347
-Frame: 214, Time since last: 0,0178379
-Frame: 215, Time since last: 0,0203035
-Frame: 216, Time since last: 0,0185045
-Frame: 217, Time since last: 0,019362
-Frame: 218, Time since last: 0,0209899
-Frame: 219, Time since last: 0,0205845
-Frame: 220, Time since last: 0,0186217
-Frame: 221, Time since last: 0,0182738
-Frame: 222, Time since last: 0,0189349
-Frame: 223, Time since last: 0,0177939
-Frame: 224, Time since last: 0,008962
-Frame: 225, Time since last: 0,0200612
-Frame: 226, Time since last: 0,0186698
-Frame: 227, Time since last: 0,0191121
-Frame: 228, Time since last: 0,0183812
-Frame: 229, Time since last: 0,0193839
-Frame: 230, Time since last: 0,0184477
-Frame: 231, Time since last: 0,0186506
-Frame: 232, Time since last: 0,0092911
-Frame: 233, Time since last: 0,02046
-Frame: 234, Time since last: 0,01852
-Frame: 235, Time since last: 0,0183963
-Frame: 236, Time since last: 0,0188859
-Frame: 237, Time since last: 0,0189065
-Frame: 238, Time since last: 0,0173425
-Frame: 239, Time since last: 0,01827
-Frame: 240, Time since last: 0,0191757
-Frame: 241, Time since last: 0,0095269
-Frame: 242, Time since last: 0,0215954
-Frame: 243, Time since last: 0,0183423
-Frame: 244, Time since last: 0,0178357
-Frame: 245, Time since last: 0,0173134
-Frame: 246, Time since last: 0,0181708
-Frame: 247, Time since last: 0,0183937
-Frame: 248, Time since last: 0,0176271
-Frame: 249, Time since last: 0,0088025
-Frame: 250, Time since last: 0,0207408
-Frame: 251, Time since last: 0,0194337
-Frame: 252, Time since last: 0,0190963
-Frame: 253, Time since last: 0,0180524
-Frame: 254, Time since last: 0,0191144
-Frame: 255, Time since last: 0,0204586
-Frame: 256, Time since last: 0,0184445
-Frame: 257, Time since last: 0,0187468
-Frame: 258, Time since last: 0,0180143
-Frame: 259, Time since last: 0,0090022
-Frame: 260, Time since last: 0,0199418
-Frame: 261, Time since last: 0,0202062
-Frame: 262, Time since last: 0,0184571
-Frame: 263, Time since last: 0,019575
-Frame: 264, Time since last: 0,0193017
-Frame: 265, Time since last: 0,0192823
-Frame: 266, Time since last: 0,0175277
-Frame: 267, Time since last: 0,0185524
-Frame: 268, Time since last: 0,0176448
-Frame: 269, Time since last: 0,008777
-Frame: 270, Time since last: 0,0206439
-Frame: 271, Time since last: 0,0185442
-Frame: 272, Time since last: 0,01842
-Frame: 273, Time since last: 0,0187438
-Frame: 274, Time since last: 0,0193635
-Frame: 275, Time since last: 0,0188617
-Frame: 276, Time since last: 0,0197048
-Frame: 277, Time since last: 0,0205209
-Frame: 278, Time since last: 0,0229875
-Frame: 279, Time since last: 0,0190217
-Frame: 280, Time since last: 0,0188356
-Frame: 281, Time since last: 0,0192983
-Frame: 282, Time since last: 0,0190305
-Frame: 283, Time since last: 0,0190325
-Frame: 284, Time since last: 0,0094926
-Frame: 285, Time since last: 0,0221907
-Frame: 286, Time since last: 0,0193881
-Frame: 287, Time since last: 0,0185031
-Frame: 288, Time since last: 0,0227391
-Frame: 289, Time since last: 0,0185446
-Frame: 290, Time since last: 0,0180164
-Frame: 291, Time since last: 0,0164669
-Frame: 292, Time since last: 0,0184641
-Frame: 293, Time since last: 0,0176318
-Frame: 294, Time since last: 0,0207931
-Frame: 295, Time since last: 0,0194011
-Frame: 296, Time since last: 0,0188169
-Frame: 297, Time since last: 0,0183093
-Frame: 298, Time since last: 0,0094648
-Frame: 299, Time since last: 0,0219322
-Frame: 300, Time since last: 0,0181248
-Frame: 301, Time since last: 0,0176379
-Frame: 302, Time since last: 0,0176288
-Frame: 303, Time since last: 0,0177279
-Frame: 304, Time since last: 0,0181391
-Frame: 305, Time since last: 0,018867
-Frame: 306, Time since last: 0,0093991
-Frame: 307, Time since last: 0,0212302
-Frame: 308, Time since last: 0,0189914
-Frame: 309, Time since last: 0,0185655
-Frame: 310, Time since last: 0,0180243
-Frame: 311, Time since last: 0,0191852
-Frame: 312, Time since last: 0,0182792
-Frame: 313, Time since last: 0,0207597
-Frame: 314, Time since last: 0,0194515
-Frame: 315, Time since last: 0,0195149
-Frame: 316, Time since last: 0,0180973
-Frame: 317, Time since last: 0,0179752
-Frame: 318, Time since last: 0,0129553
-Frame: 319, Time since last: 0,015613
-Frame: 320, Time since last: 0,0184005
-Frame: 321, Time since last: 0,0191928
-Frame: 322, Time since last: 0,0184918
-Frame: 323, Time since last: 0,0185581
-Frame: 324, Time since last: 0,018286
-Frame: 325, Time since last: 0,0134425
-Frame: 326, Time since last: 0,0152518
-Frame: 327, Time since last: 0,018207
-Frame: 328, Time since last: 0,0184699
-Frame: 329, Time since last: 0,018589
-Frame: 330, Time since last: 0,0202433
-Frame: 331, Time since last: 0,0184334
-Frame: 332, Time since last: 0,0188179
-Frame: 333, Time since last: 0,0181878
-Frame: 334, Time since last: 0,0091807
-Frame: 335, Time since last: 0,0188276
-Frame: 336, Time since last: 0,0227121
-Frame: 337, Time since last: 0,014868
-Frame: 338, Time since last: 0,0182781
-Frame: 339, Time since last: 0,0241791
-Frame: 340, Time since last: 0,008637
-Frame: 341, Time since last: 0,016902
-Frame: 342, Time since last: 0,0093297
-Frame: 343, Time since last: 0,023667
-Frame: 344, Time since last: 0,0195283
-Frame: 345, Time since last: 0,015907
-Frame: 346, Time since last: 0,0184413
-Frame: 347, Time since last: 0,0129015
-Frame: 348, Time since last: 0,0194658
-Frame: 349, Time since last: 0,0195096
-Frame: 350, Time since last: 0,0188176
-Frame: 351, Time since last: 0,019011
-Frame: 352, Time since last: 0,0179009
-Frame: 353, Time since last: 0,0181713
-Frame: 354, Time since last: 0,0191069
-Frame: 355, Time since last: 0,0186986
-Frame: 356, Time since last: 0,0190829
-Frame: 357, Time since last: 0,0178259
-Frame: 358, Time since last: 0,0190201
-Frame: 359, Time since last: 0,0095044
-Frame: 360, Time since last: 0,0204295
-Frame: 361, Time since last: 0,0234569
-Frame: 362, Time since last: 0,0144286
-Frame: 363, Time since last: 0,0182236
-Frame: 364, Time since last: 0,0199935
-Frame: 365, Time since last: 0,0182883
-Frame: 366, Time since last: 0,0207673
-Frame: 367, Time since last: 0,0182561
-Frame: 368, Time since last: 0,018303
-Frame: 369, Time since last: 0,0184592
-Frame: 370, Time since last: 0,0092152
-Frame: 371, Time since last: 0,0209787
-Frame: 372, Time since last: 0,022018
-Frame: 373, Time since last: 0,0191639
-Frame: 374, Time since last: 0,0161707
-Frame: 375, Time since last: 0,0185125
-Frame: 376, Time since last: 0,0186404
-Frame: 377, Time since last: 0,0183269
-Frame: 378, Time since last: 0,0192353
-Frame: 379, Time since last: 0,0185284
-Frame: 380, Time since last: 0,018114
-Frame: 381, Time since last: 0,013904
-Frame: 382, Time since last: 0,0147033
-Frame: 383, Time since last: 0,0188049
-Frame: 384, Time since last: 0,0182775
-Frame: 385, Time since last: 0,0195815
-Frame: 386, Time since last: 0,01931
-Frame: 387, Time since last: 0,0184782
-Frame: 388, Time since last: 0,0189163
-Frame: 389, Time since last: 0,0139446
-Frame: 390, Time since last: 0,0171083
-Frame: 391, Time since last: 0,0190816
-Frame: 392, Time since last: 0,0186036
-Frame: 393, Time since last: 0,0195059
-Frame: 394, Time since last: 0,0177112
-Frame: 395, Time since last: 0,0172988
-Frame: 396, Time since last: 0,0177211
-Frame: 397, Time since last: 0,0181912
-Frame: 398, Time since last: 0,0090785
-Frame: 399, Time since last: 0,0213262
-Frame: 400, Time since last: 0,0188354
-Frame: 401, Time since last: 0,0185885
-Frame: 402, Time since last: 0,0190998
-Frame: 403, Time since last: 0,0192645
-Frame: 404, Time since last: 0,0184227
-Frame: 405, Time since last: 0,0184653
-Frame: 406, Time since last: 0,0212203
-Frame: 407, Time since last: 0,0180853
-Frame: 408, Time since last: 0,0203242
-Frame: 409, Time since last: 0,018046
-Frame: 410, Time since last: 0,0175712
-Frame: 411, Time since last: 0,0088813
-Frame: 412, Time since last: 0,0198159
-Frame: 413, Time since last: 0,0180994
-Frame: 414, Time since last: 0,0182345
-Frame: 415, Time since last: 0,0187359
-Frame: 416, Time since last: 0,018527
-Frame: 417, Time since last: 0,017591
-Frame: 418, Time since last: 0,0123923
-Frame: 419, Time since last: 0,0236791
-Frame: 420, Time since last: 0,0181578
-Frame: 421, Time since last: 0,017673
-Frame: 422, Time since last: 0,0178337
-Frame: 423, Time since last: 0,0185843
-Frame: 424, Time since last: 0,019251
-Frame: 425, Time since last: 0,0213148
-Frame: 426, Time since last: 0,0184473
-Frame: 427, Time since last: 0,0181938
-Frame: 428, Time since last: 0,0190921
-Frame: 429, Time since last: 0,0204218
-Frame: 430, Time since last: 0,0184698
-Frame: 431, Time since last: 0,0183554
-Frame: 432, Time since last: 0,0091375
-Frame: 433, Time since last: 0,0167276
-Frame: 434, Time since last: 0,0229261
-Frame: 435, Time since last: 0,0187876
-Frame: 436, Time since last: 0,0182319
-Frame: 437, Time since last: 0,0188095
-Frame: 438, Time since last: 0,0142354
-Frame: 439, Time since last: 0,0320136
-Frame: 440, Time since last: 0,0120014
-Frame: 441, Time since last: 0,0374235
-Frame: 442, Time since last: 0,0134479
-Frame: 443, Time since last: 0,0179211
-Frame: 444, Time since last: 0,0187776
-Frame: 445, Time since last: 0,0209513
-Frame: 446, Time since last: 0,0186684
-Frame: 447, Time since last: 0,0179338
-Frame: 448, Time since last: 0,0182118
-Frame: 449, Time since last: 0,0180788
-Frame: 450, Time since last: 0,0182241
-Frame: 451, Time since last: 0,0220767
-Frame: 452, Time since last: 0,0192781
-Frame: 453, Time since last: 0,0174593
-Frame: 454, Time since last: 0,0175652
-Frame: 455, Time since last: 0,0091948
-Frame: 456, Time since last: 0,0197104
-Frame: 457, Time since last: 0,0229081
-Frame: 458, Time since last: 0,0133472
-Frame: 459, Time since last: 0,0238718
-Frame: 460, Time since last: 0,0133022
-Frame: 461, Time since last: 0,0251148
-Frame: 462, Time since last: 0,0091283
-Frame: 463, Time since last: 0,0336976
-Frame: 464, Time since last: 0,0134946
-Frame: 465, Time since last: 0,034593
-Frame: 466, Time since last: 0,0224274
-Frame: 467, Time since last: 0,0089336
-Frame: 468, Time since last: 0,0198129
-Frame: 469, Time since last: 0,0184411
-Frame: 470, Time since last: 0,0196037
-Frame: 471, Time since last: 0,0217489
-Frame: 472, Time since last: 0,0185645
-Frame: 473, Time since last: 0,01805
-Frame: 474, Time since last: 0,0186577
-Frame: 475, Time since last: 0,017833
-Frame: 476, Time since last: 0,0180531
-Frame: 477, Time since last: 0,0089573
-Frame: 478, Time since last: 0,0166939
-Frame: 479, Time since last: 0,0228544
-Frame: 480, Time since last: 0,0184057
-Frame: 481, Time since last: 0,0202125
-Frame: 482, Time since last: 0,0186601
-Frame: 483, Time since last: 0,0124915
-Frame: 484, Time since last: 0,0190868
-Frame: 485, Time since last: 0,009907
-Frame: 486, Time since last: 0,0219644
-Frame: 487, Time since last: 0,0191212
-Frame: 488, Time since last: 0,0186014
-Frame: 489, Time since last: 0,0181041
-Frame: 490, Time since last: 0,0175793
-Frame: 491, Time since last: 0,0176061
-Frame: 492, Time since last: 0,0113354
-Frame: 493, Time since last: 0,0184047
-Frame: 494, Time since last: 0,0200696
-Frame: 495, Time since last: 0,0195581
-Frame: 496, Time since last: 0,0190616
-Frame: 497, Time since last: 0,0185806
-Frame: 498, Time since last: 0,0180801
-Frame: 499, Time since last: 0,0180629
-Frame: 500, Time since last: 0,0183988
-Frame: 501, Time since last: 0,0187798
-Frame: 502, Time since last: 0,0096428
-Frame: 503, Time since last: 0,0205033
-Frame: 504, Time since last: 0,0234354
-Frame: 505, Time since last: 0,0184334
-Frame: 506, Time since last: 0,0183057
-Frame: 507, Time since last: 0,0209806
-Frame: 508, Time since last: 0,0204946
-Frame: 509, Time since last: 0,0210425
-Frame: 510, Time since last: 0,0198032
-Frame: 511, Time since last: 0,0183433
-Frame: 512, Time since last: 0,0186659
-Frame: 513, Time since last: 0,0177532
-Frame: 514, Time since last: 0,0186734
-Frame: 515, Time since last: 0,0177985
-Frame: 516, Time since last: 0,0179369
-Frame: 517, Time since last: 0,0182792
-Frame: 518, Time since last: 0,0091052
-Frame: 519, Time since last: 0,0191883
-Frame: 520, Time since last: 0,0228987
-Frame: 521, Time since last: 0,0136576
-Frame: 522, Time since last: 0,0239002
-Frame: 523, Time since last: 0,0126656
-Frame: 524, Time since last: 0,0250587
-Frame: 525, Time since last: 0,0090805
-Frame: 526, Time since last: 0,0342882
-Frame: 527, Time since last: 0,0136829
-Frame: 528, Time since last: 0,0355455
-Frame: 529, Time since last: 0,0117201
-Frame: 530, Time since last: 0,016153
-Frame: 531, Time since last: 0,0184481
-Frame: 532, Time since last: 0,0181724
-Frame: 533, Time since last: 0,0187991
-Frame: 534, Time since last: 0,0182946
-Frame: 535, Time since last: 0,017481
-Frame: 536, Time since last: 0,0083951
-Frame: 537, Time since last: 0,0240115
-Frame: 538, Time since last: 0,0128372
-Frame: 539, Time since last: 0,0160053
-Frame: 540, Time since last: 0,017528
-Frame: 541, Time since last: 0,0100347
-Frame: 542, Time since last: 0,0195635
-Frame: 543, Time since last: 0,0182828
-Frame: 544, Time since last: 0,0215811
-Frame: 545, Time since last: 0,0143434
-Frame: 546, Time since last: 0,0183515
-Frame: 547, Time since last: 0,012274
-Frame: 548, Time since last: 0,0167828
-Frame: 549, Time since last: 0,0179106
-Frame: 550, Time since last: 0,0201355
-Frame: 551, Time since last: 0,0183584
-Frame: 552, Time since last: 0,0181654
-Frame: 553, Time since last: 0,0182049
-Frame: 554, Time since last: 0,0182289
-Frame: 555, Time since last: 0,0090875
-Frame: 556, Time since last: 0,0192049
-Frame: 557, Time since last: 0,0224074
-Frame: 558, Time since last: 0,0143505
-Frame: 559, Time since last: 0,0234189
-Frame: 560, Time since last: 0,0143063
-Frame: 561, Time since last: 0,0243972
-Frame: 562, Time since last: 0,0085931
-Frame: 563, Time since last: 0,0341939
-Frame: 564, Time since last: 0,0135469
-Frame: 565, Time since last: 0,0348211
-Frame: 566, Time since last: 0,0224654
-Frame: 567, Time since last: 0,0089102
-Frame: 568, Time since last: 0,0199184
-Frame: 569, Time since last: 0,0179786
-Frame: 570, Time since last: 0,0161295
-Frame: 571, Time since last: 0,0182448
-Frame: 572, Time since last: 0,0178558
-Frame: 573, Time since last: 0,0125177
-Frame: 574, Time since last: 0,0178068
-Frame: 575, Time since last: 0,0188466
-Frame: 576, Time since last: 0,0155535
-Frame: 577, Time since last: 0,0195617
-Frame: 578, Time since last: 0,0179921
-Frame: 579, Time since last: 0,0180548
-Frame: 580, Time since last: 0,0131073
-Frame: 581, Time since last: 0,015787
-Frame: 582, Time since last: 0,0188779
-Frame: 583, Time since last: 0,0198388
-Frame: 584, Time since last: 0,0189441
-Frame: 585, Time since last: 0,0182855
-Frame: 586, Time since last: 0,0181487
-Frame: 587, Time since last: 0,0187067
-Frame: 588, Time since last: 0,0177072
-Frame: 589, Time since last: 0,0172147
-Frame: 590, Time since last: 0,0125886
-Frame: 591, Time since last: 0,0232221
-Frame: 592, Time since last: 0,0182528
-Frame: 593, Time since last: 0,0178588
-Frame: 594, Time since last: 0,0176391
-Frame: 595, Time since last: 0,0176238
-Frame: 596, Time since last: 0,0178166
-Frame: 597, Time since last: 0,0189601
-Frame: 598, Time since last: 0,0094505
-Frame: 599, Time since last: 0,0213208
-Frame: 600, Time since last: 0,0182826
-Frame: 601, Time since last: 0,0188036
-Frame: 602, Time since last: 0,0183204
-Frame: 603, Time since last: 0,0192443
-Frame: 604, Time since last: 0,0186752
-Frame: 605, Time since last: 0,0168329
-Frame: 606, Time since last: 0,017791
-Frame: 607, Time since last: 0,0131348
-Frame: 608, Time since last: 0,0164668
-Frame: 609, Time since last: 0,0183246
-Frame: 610, Time since last: 0,0141441
-Frame: 611, Time since last: 0,0128473
-Frame: 612, Time since last: 0,0098868
-Frame: 613, Time since last: 0,0174943
-Frame: 614, Time since last: 0,0200541
-Frame: 615, Time since last: 0,0104816
-Frame: 616, Time since last: 0,0180953
-Frame: 617, Time since last: 0,0190124
-Frame: 618, Time since last: 0,0185271
-Frame: 619, Time since last: 0,0192447
-Frame: 620, Time since last: 0,0197268
-Frame: 621, Time since last: 0,0182491
-Frame: 622, Time since last: 0,0189061
-Frame: 623, Time since last: 0,0180399
-Frame: 624, Time since last: 0,0178518
-Frame: 625, Time since last: 0,0089228
-Frame: 626, Time since last: 0,0197732
-Frame: 627, Time since last: 0,0139653
-Frame: 628, Time since last: 0,022828
-Frame: 629, Time since last: 0,0083393
-Frame: 630, Time since last: 0,0392948
-Frame: 631, Time since last: 0,0134163
-Frame: 632, Time since last: 0,0211333
-Frame: 633, Time since last: 0,0232509
-Frame: 634, Time since last: 0,0222161
-Frame: 635, Time since last: 0,0125895
-Frame: 636, Time since last: 0,0204587
-Frame: 637, Time since last: 0,0199487
-Frame: 638, Time since last: 0,0194336
-Frame: 639, Time since last: 0,010619
-Frame: 640, Time since last: 0,0265306
-Frame: 641, Time since last: 0,0095867
-Frame: 642, Time since last: 0,0267944
-Frame: 643, Time since last: 0,0130333
-Frame: 644, Time since last: 0,0125142
-Frame: 645, Time since last: 0,0167729
-Frame: 646, Time since last: 0,0179466
-Frame: 647, Time since last: 0,0106868
-Frame: 648, Time since last: 0,0182343
-Frame: 649, Time since last: 0,0195535
-Frame: 650, Time since last: 0,0182475
-Frame: 651, Time since last: 0,0175519
-Frame: 652, Time since last: 0,0190589
-Frame: 653, Time since last: 0,0182217
-Frame: 654, Time since last: 0,0090663
-Frame: 655, Time since last: 0,0167035
-Frame: 656, Time since last: 0,0226228
-Frame: 657, Time since last: 0,0147243
-Frame: 658, Time since last: 0,0181749
-Frame: 659, Time since last: 0,0089952
-Frame: 660, Time since last: 0,0089572
-Frame: 661, Time since last: 0,0252726
-Frame: 662, Time since last: 0,0099221
-Frame: 663, Time since last: 0,0345489
-Frame: 664, Time since last: 0,0130703
-Frame: 665, Time since last: 0,0352616
-Frame: 666, Time since last: 0,0246384
-Frame: 667, Time since last: 0,0092187
-Frame: 668, Time since last: 0,0195023
-Frame: 669, Time since last: 0,0181833
-Frame: 670, Time since last: 0,0188349
-Frame: 671, Time since last: 0,0185284
-Frame: 672, Time since last: 0,0187158
-Frame: 673, Time since last: 0,0184663
-Frame: 674, Time since last: 0,0187248
-Frame: 675, Time since last: 0,0203318
-Frame: 676, Time since last: 0,0182298
-Frame: 677, Time since last: 0,0122503
-Frame: 678, Time since last: 0,0096549
-Frame: 679, Time since last: 0,0259773
-Frame: 680, Time since last: 0,0109826
-Frame: 681, Time since last: 0,017191
-Frame: 682, Time since last: 0,0108463
-Frame: 683, Time since last: 0,0180228
-Frame: 684, Time since last: 0,0188532
-Frame: 685, Time since last: 0,0227273
-Frame: 686, Time since last: 0,0160115
-Frame: 687, Time since last: 0,0186958
-Frame: 688, Time since last: 0,0181691
-Frame: 689, Time since last: 0,0083915
-Frame: 690, Time since last: 0,0150746
-Frame: 691, Time since last: 0,0185618
-Frame: 692, Time since last: 0,0183942
-Frame: 693, Time since last: 0,0178471
-Frame: 694, Time since last: 0,0089965
-Frame: 695, Time since last: 0,0202975
-Frame: 696, Time since last: 0,0181759
-Frame: 697, Time since last: 0,0178483
-Frame: 698, Time since last: 0,0214002
-Frame: 699, Time since last: 0,0181076
-Frame: 700, Time since last: 0,0084802
-Frame: 701, Time since last: 0,0147297
-Frame: 702, Time since last: 0,00941
-Frame: 703, Time since last: 0,0251173
-Frame: 704, Time since last: 0,0091204
-Frame: 705, Time since last: 0,0255469
-Frame: 706, Time since last: 0,0129512
-Frame: 707, Time since last: 0,0209424
-Frame: 708, Time since last: 0,0203305
-Frame: 709, Time since last: 0,0197686
-Frame: 710, Time since last: 0,0193096
-Frame: 711, Time since last: 0,0187704
-Frame: 712, Time since last: 0,0127838
-Frame: 713, Time since last: 0,0129146
-Frame: 714, Time since last: 0,0125341
-Frame: 715, Time since last: 0,0159526
-Frame: 716, Time since last: 0,0183515
-Frame: 717, Time since last: 0,0088935
-Frame: 718, Time since last: 0,0247973
-Frame: 719, Time since last: 0,0126742
-Frame: 720, Time since last: 0,0205642
-Frame: 721, Time since last: 0,0199693
-Frame: 722, Time since last: 0,0195202
-Frame: 723, Time since last: 0,0190312
-Frame: 724, Time since last: 0,0185054
-Frame: 725, Time since last: 0,0179977
-Frame: 726, Time since last: 0,009596
-Frame: 727, Time since last: 0,025839
-Frame: 728, Time since last: 0,0103082
-Frame: 729, Time since last: 0,0217265
-Frame: 730, Time since last: 0,0219605
-Frame: 731, Time since last: 0,0209464
-Frame: 732, Time since last: 0,0203345
-Frame: 733, Time since last: 0,0198149
-Frame: 734, Time since last: 0,0193209
-Frame: 735, Time since last: 0,0188302
-Frame: 736, Time since last: 0,0198564
-Frame: 737, Time since last: 0,0188372
-Frame: 738, Time since last: 0,0168279
-Frame: 739, Time since last: 0,0188783
-Frame: 740, Time since last: 0,01733
-Frame: 741, Time since last: 0,0177086
-Frame: 742, Time since last: 0,0176939
-Frame: 743, Time since last: 0,0134248
-Frame: 744, Time since last: 0,0153043
-Frame: 745, Time since last: 0,0189623
-Frame: 746, Time since last: 0,0191175
-Frame: 747, Time since last: 0,0139307
-Frame: 748, Time since last: 0,0129078
-Frame: 749, Time since last: 0,0124806
-Frame: 750, Time since last: 0,0119874
-Frame: 751, Time since last: 0,0178543
-Frame: 752, Time since last: 0,0113657
-Frame: 753, Time since last: 0,0171757
-Frame: 754, Time since last: 0,0185244
-Frame: 755, Time since last: 0,0177512
-Frame: 756, Time since last: 0,011301
-Frame: 757, Time since last: 0,0179702
-Frame: 758, Time since last: 0,0188282
-Frame: 759, Time since last: 0,0192605
-Frame: 760, Time since last: 0,0186529
-Frame: 761, Time since last: 0,018203
-Frame: 762, Time since last: 0,0195185
-Frame: 763, Time since last: 0,0179303
-Frame: 764, Time since last: 0,0175599
-Frame: 765, Time since last: 0,0089799
-Frame: 766, Time since last: 0,0166974
-Frame: 767, Time since last: 0,0131906
-Frame: 768, Time since last: 0,0229394
-Frame: 769, Time since last: 0,0083481
-Frame: 770, Time since last: 0,0149324
-Frame: 771, Time since last: 0,0241872
-Frame: 772, Time since last: 0,013849
-Frame: 773, Time since last: 0,0125915
-Frame: 774, Time since last: 0,0095714
-Frame: 775, Time since last: 0,0178474
-Frame: 776, Time since last: 0,0207563
-Frame: 777, Time since last: 0,0108869
-Frame: 778, Time since last: 0,0172165
-Frame: 779, Time since last: 0,0195816
-Frame: 780, Time since last: 0,0181364
-Frame: 781, Time since last: 0,0176233
-Frame: 782, Time since last: 0,0205414
-Frame: 783, Time since last: 0,0178709
-Frame: 784, Time since last: 0,0188801
-Frame: 785, Time since last: 0,0184173
-Frame: 786, Time since last: 0,0177267
-Frame: 787, Time since last: 0,0171983
-Frame: 788, Time since last: 0,008325
-Frame: 789, Time since last: 0,0237197
-Frame: 790, Time since last: 0,0193486
-Frame: 791, Time since last: 0,0188442
-Frame: 792, Time since last: 0,0184116
-Frame: 793, Time since last: 0,0181732
-Frame: 794, Time since last: 0,0130536
-Frame: 795, Time since last: 0,0175039
-Frame: 796, Time since last: 0,0131899
-Frame: 797, Time since last: 0,013094
-Frame: 798, Time since last: 0,016289
-Frame: 799, Time since last: 0,012405
-Frame: 800, Time since last: 0,0156621
-Frame: 801, Time since last: 0,0182177
-Frame: 802, Time since last: 0,0198819
-Frame: 803, Time since last: 0,0187439
-Frame: 804, Time since last: 0,0182318
-Frame: 805, Time since last: 0,0093712
-Frame: 806, Time since last: 0,0191384
-Frame: 807, Time since last: 0,0241071
-Frame: 808, Time since last: 0,0182068
-Frame: 809, Time since last: 0,0177413
-Frame: 810, Time since last: 0,017386
-Frame: 811, Time since last: 0,0176071
-Frame: 812, Time since last: 0,0179115
-Frame: 813, Time since last: 0,0121973
-Frame: 814, Time since last: 0,0102674
-Frame: 815, Time since last: 0,0169077
-Frame: 816, Time since last: 0,0191989
-Frame: 817, Time since last: 0,0109424
-Frame: 818, Time since last: 0,0178842
-Frame: 819, Time since last: 0,0207787
-Frame: 820, Time since last: 0,0156011
-Frame: 821, Time since last: 0,0187632
-Frame: 822, Time since last: 0,019246
-Frame: 823, Time since last: 0,0173863
-Frame: 824, Time since last: 0,0168436
-Frame: 825, Time since last: 0,0126026
-Frame: 826, Time since last: 0,0153259
-Frame: 827, Time since last: 0,0180728
-Frame: 828, Time since last: 0,0133277
-Frame: 829, Time since last: 0,0181209
-Frame: 830, Time since last: 0,0128302
-Frame: 831, Time since last: 0,0163558
-Frame: 832, Time since last: 0,0189088
-Frame: 833, Time since last: 0,0182861
-Frame: 834, Time since last: 0,0174246
-Frame: 835, Time since last: 0,0126272
-Frame: 836, Time since last: 0,0156185
-Frame: 837, Time since last: 0,0201388
-Frame: 838, Time since last: 0,018469
-Frame: 839, Time since last: 0,0200715
-Frame: 840, Time since last: 0,0184911
-Frame: 841, Time since last: 0,0187803
-Frame: 842, Time since last: 0,0177285
-Frame: 843, Time since last: 0,0089068
-Frame: 844, Time since last: 0,0200056
-Frame: 845, Time since last: 0,0192285
-Frame: 846, Time since last: 0,0184832
-Frame: 847, Time since last: 0,0184566
-Frame: 848, Time since last: 0,0202274
-Frame: 849, Time since last: 0,0181198
-Frame: 850, Time since last: 0,0175296
-Frame: 851, Time since last: 0,0142527
-Frame: 852, Time since last: 0,0112604
-Frame: 853, Time since last: 0,0294803
-Frame: 854, Time since last: 0,0106299
-Frame: 855, Time since last: 0,0177363
-Frame: 856, Time since last: 0,0188967
-Frame: 857, Time since last: 0,0184272
-Frame: 858, Time since last: 0,0187619
-Frame: 859, Time since last: 0,0093577
-Frame: 860, Time since last: 0,0214923
-Frame: 861, Time since last: 0,0219674
-Frame: 862, Time since last: 0,0112439
-Frame: 863, Time since last: 0,0230103
-Frame: 864, Time since last: 0,0151346
-Frame: 865, Time since last: 0,0166549
-Frame: 866, Time since last: 0,0139824
-Frame: 867, Time since last: 0,0102245
-Frame: 868, Time since last: 0,0262682
-Frame: 869, Time since last: 0,0096994
-Frame: 870, Time since last: 0,0180863
-Frame: 871, Time since last: 0,0117581
-Frame: 872, Time since last: 0,0218144
-Frame: 873, Time since last: 0,0140138
-Frame: 874, Time since last: 0,0182066
-Frame: 875, Time since last: 0,0233287
-Frame: 876, Time since last: 0,0181726
-Frame: 877, Time since last: 0,0176805
-Frame: 878, Time since last: 0,0175095
-Frame: 879, Time since last: 0,0173674
-Frame: 880, Time since last: 0,008977
-Frame: 881, Time since last: 0,021749
-Frame: 882, Time since last: 0,0194745
-Frame: 883, Time since last: 0,0189646
-Frame: 884, Time since last: 0,0184768
-Frame: 885, Time since last: 0,0179787
-Frame: 886, Time since last: 0,0174285
-Frame: 887, Time since last: 0,0124549
-Frame: 888, Time since last: 0,0101461
-Frame: 889, Time since last: 0,0272994
-Frame: 890, Time since last: 0,0101577
-Frame: 891, Time since last: 0,0182783
-Frame: 892, Time since last: 0,009119
-Frame: 893, Time since last: 0,0209122
-Frame: 894, Time since last: 0,0182892
-Frame: 895, Time since last: 0,017893
-Frame: 896, Time since last: 0,0138681
-Frame: 897, Time since last: 0,0183955
-Frame: 898, Time since last: 0,0130461
-Frame: 899, Time since last: 0,0158073
-Frame: 900, Time since last: 0,0125577
-Frame: 901, Time since last: 0,0181954
-Frame: 902, Time since last: 0,0121986
-Frame: 903, Time since last: 0,016132
-Frame: 904, Time since last: 0,0180387
-Frame: 905, Time since last: 0,017993
-Frame: 906, Time since last: 0,0175358
-Frame: 907, Time since last: 0,011547
-Frame: 908, Time since last: 0,0128386
-Frame: 909, Time since last: 0,0176594
-Frame: 910, Time since last: 0,0181536
-Frame: 911, Time since last: 0,01146
-Frame: 912, Time since last: 0,0179608
-Frame: 913, Time since last: 0,0191272
-Frame: 914, Time since last: 0,0187707
-Frame: 915, Time since last: 0,0177469
-Frame: 916, Time since last: 0,0135308
-Frame: 917, Time since last: 0,0174759
-Frame: 918, Time since last: 0,0100476
-Frame: 919, Time since last: 0,027546
-Frame: 920, Time since last: 0,0097617
-Frame: 921, Time since last: 0,0204327
-Frame: 922, Time since last: 0,0188022
-Frame: 923, Time since last: 0,0181401
-Frame: 924, Time since last: 0,0090596
-Frame: 925, Time since last: 0,0218672
-Frame: 926, Time since last: 0,0191109
-Frame: 927, Time since last: 0,01864
-Frame: 928, Time since last: 0,0114807
-Frame: 929, Time since last: 0,0174621
-Frame: 930, Time since last: 0,0102621
-Frame: 931, Time since last: 0,0178662
-Frame: 932, Time since last: 0,0207506
-Frame: 933, Time since last: 0,0174123
-Frame: 934, Time since last: 0,0184189
-Frame: 935, Time since last: 0,0188164
-Frame: 936, Time since last: 0,0093526
-Frame: 937, Time since last: 0,0204788
-Frame: 938, Time since last: 0,0183262
-Frame: 939, Time since last: 0,0132077
-Frame: 940, Time since last: 0,0168607
-Frame: 941, Time since last: 0,0102481
-Frame: 942, Time since last: 0,0276712
-Frame: 943, Time since last: 0,0103681
-Frame: 944, Time since last: 0,0194105
-Frame: 945, Time since last: 0,0177546
-Frame: 946, Time since last: 0,0138671
-Frame: 947, Time since last: 0,0176717
-Frame: 948, Time since last: 0,0112139
-Frame: 949, Time since last: 0,0179497
-Frame: 950, Time since last: 0,0209554
-Frame: 951, Time since last: 0,016554
-Frame: 952, Time since last: 0,0180108
-Frame: 953, Time since last: 0,0181835
-Frame: 954, Time since last: 0,0124937
-Frame: 955, Time since last: 0,0121737
-Frame: 956, Time since last: 0,0172332
-Frame: 957, Time since last: 0,0175965
-Frame: 958, Time since last: 0,0127213
-Frame: 959, Time since last: 0,0162874
-Frame: 960, Time since last: 0,0188817
-Frame: 961, Time since last: 0,0182214
-Frame: 962, Time since last: 0,0201957
-Frame: 963, Time since last: 0,0187588
-Frame: 964, Time since last: 0,0184157
-Frame: 965, Time since last: 0,0186675
-Frame: 966, Time since last: 0,0092907
-Frame: 967, Time since last: 0,0167028
-Frame: 968, Time since last: 0,02305
-Frame: 969, Time since last: 0,0185621
-Frame: 970, Time since last: 0,0180463
-Frame: 971, Time since last: 0,0179039
-Frame: 972, Time since last: 0,0177931
-Frame: 973, Time since last: 0,0117121
-Frame: 974, Time since last: 0,0104702
-Frame: 975, Time since last: 0,0139241
-Frame: 976, Time since last: 0,0178245
-Frame: 977, Time since last: 0,010424
-Frame: 978, Time since last: 0,0138217
-Frame: 979, Time since last: 0,0180435
-Frame: 980, Time since last: 0,0104989
-Frame: 981, Time since last: 0,0176955
-Frame: 982, Time since last: 0,018368
-Frame: 983, Time since last: 0,0183307
-Frame: 984, Time since last: 0,0190108
-Frame: 985, Time since last: 0,0227592
-Frame: 986, Time since last: 0,0119159
-Frame: 987, Time since last: 0,0322923
-Frame: 988, Time since last: 0,0125029
-Frame: 989, Time since last: 0,0366846
-Frame: 990, Time since last: 0,0113539
-Frame: 991, Time since last: 0,0261535
-Frame: 992, Time since last: 0,0234994
-Frame: 993, Time since last: 0,0169865
-Frame: 994, Time since last: 0,0174066
-Frame: 995, Time since last: 0,0179792
-Frame: 996, Time since last: 0,0175497
-Frame: 997, Time since last: 0,0108051
-Frame: 998, Time since last: 0,0174023
-Frame: 999, Time since last: 0,0108975
-Frame: 1000, Time since last: 0,0184053
-Frame: 1001, Time since last: 0,0184503
-Frame: 1002, Time since last: 0,0157914
-Frame: 1003, Time since last: 0,0181046
-Frame: 1004, Time since last: 0,0116367
-Frame: 1005, Time since last: 0,0168671
-Frame: 1006, Time since last: 0,0178802
-Frame: 1007, Time since last: 0,0178888
-Frame: 1008, Time since last: 0,01774
-Frame: 1009, Time since last: 0,0175983
-Frame: 1010, Time since last: 0,0126538
-Frame: 1011, Time since last: 0,0161595
-Frame: 1012, Time since last: 0,018547
-Frame: 1013, Time since last: 0,0174325
-Frame: 1014, Time since last: 0,0173665
-Frame: 1015, Time since last: 0,0125562
-Frame: 1016, Time since last: 0,0125821
-Frame: 1017, Time since last: 0,0121091
-Frame: 1018, Time since last: 0,014886
-Frame: 1019, Time since last: 0,0111867
-Frame: 1020, Time since last: 0,0110809
-Frame: 1021, Time since last: 0,017657
-Frame: 1022, Time since last: 0,0110689
-Frame: 1023, Time since last: 0,0140042
-Frame: 1024, Time since last: 0,0165077
-Frame: 1025, Time since last: 0,0100284
-Frame: 1026, Time since last: 0,0128217
-Frame: 1027, Time since last: 0,0113154
-Frame: 1028, Time since last: 0,0104255
-Frame: 1029, Time since last: 0,0122006
-Frame: 1030, Time since last: 0,0092237
-Frame: 1031, Time since last: 0,0245551
-Frame: 1032, Time since last: 0,0087999
-Frame: 1033, Time since last: 0,0315005
-Frame: 1034, Time since last: 0,0126005
-Frame: 1035, Time since last: 0,0211622
-Frame: 1036, Time since last: 0,0105983
-Frame: 1037, Time since last: 0,0114838
-Frame: 1038, Time since last: 0,0219594
-Frame: 1039, Time since last: 0,0083427
-Frame: 1040, Time since last: 0,0269614
-Frame: 1041, Time since last: 0,0156651
-Frame: 1042, Time since last: 0,0083483
-Frame: 1043, Time since last: 0,0217792
-Frame: 1044, Time since last: 0,0108055
-Frame: 1045, Time since last: 0,0117432
-Frame: 1046, Time since last: 0,0119958
-Frame: 1047, Time since last: 0,0100859
-Frame: 1048, Time since last: 0,0106659
-Frame: 1049, Time since last: 0,0117914
-Frame: 1050, Time since last: 0,009464
-Frame: 1051, Time since last: 0,0238273
-Frame: 1052, Time since last: 0,0083671
-Frame: 1053, Time since last: 0,0300778
-Frame: 1054, Time since last: 0,0118799
-Frame: 1055, Time since last: 0,0339684
-Frame: 1056, Time since last: 0,0152816
-Frame: 1057, Time since last: 0,0215447
-Frame: 1058, Time since last: 0,0112807
-Frame: 1059, Time since last: 0,0115242
-Frame: 1060, Time since last: 0,0094496
-Frame: 1061, Time since last: 0,0230975
-Frame: 1062, Time since last: 0,0083383
-Frame: 1063, Time since last: 0,0137077
-Frame: 1064, Time since last: 0,0157574
-Frame: 1065, Time since last: 0,0173409
-Frame: 1066, Time since last: 0,0097582
-Frame: 1067, Time since last: 0,0171019
-Frame: 1068, Time since last: 0,0192855
-Frame: 1069, Time since last: 0,0125187
-Frame: 1070, Time since last: 0,018525
-Frame: 1071, Time since last: 0,0107527
-Frame: 1072, Time since last: 0,0121378
-Frame: 1073, Time since last: 0,0123096
-Frame: 1074, Time since last: 0,0107412
-Frame: 1075, Time since last: 0,0159496
-Frame: 1076, Time since last: 0,010549
-Frame: 1077, Time since last: 0,0116997
-Frame: 1078, Time since last: 0,0160181
-Frame: 1079, Time since last: 0,010087
-Frame: 1080, Time since last: 0,016786
-Frame: 1081, Time since last: 0,0185851
-Frame: 1082, Time since last: 0,0088024
-Frame: 1083, Time since last: 0,0280669
-Frame: 1084, Time since last: 0,0083459
-Frame: 1085, Time since last: 0,0194546
-Frame: 1086, Time since last: 0,0188436
-Frame: 1087, Time since last: 0,0183708
-Frame: 1088, Time since last: 0,012336
-Frame: 1089, Time since last: 0,0097807
-Frame: 1090, Time since last: 0,0174311
-Frame: 1091, Time since last: 0,0198202
-Frame: 1092, Time since last: 0,0102213
-Frame: 1093, Time since last: 0,0173595
-Frame: 1094, Time since last: 0,0219015
-Frame: 1095, Time since last: 0,0192355
-Frame: 1096, Time since last: 0,0083573
-Frame: 1097, Time since last: 0,0245239
-Frame: 1098, Time since last: 0,0126774
-Frame: 1099, Time since last: 0,0114801
-Frame: 1100, Time since last: 0,0135718
-Frame: 1101, Time since last: 0,0123445
-Frame: 1102, Time since last: 0,0103284
-Frame: 1103, Time since last: 0,0114325
-Frame: 1104, Time since last: 0,0105642
-Frame: 1105, Time since last: 0,0129075
-Frame: 1106, Time since last: 0,0163722
-Frame: 1107, Time since last: 0,0087669
-Frame: 1108, Time since last: 0,0182722
-Frame: 1109, Time since last: 0,0096343
-Frame: 1110, Time since last: 0,0126334
-Frame: 1111, Time since last: 0,0164137
-Frame: 1112, Time since last: 0,0178757
-Frame: 1113, Time since last: 0,0089001
-Frame: 1114, Time since last: 0,0135328
-Frame: 1115, Time since last: 0,0123204
-Frame: 1116, Time since last: 0,010373
-Frame: 1117, Time since last: 0,0168496
-Frame: 1118, Time since last: 0,0094912
-Frame: 1119, Time since last: 0,0175481
-Frame: 1120, Time since last: 0,01891
-Frame: 1121, Time since last: 0,0167253
-Frame: 1122, Time since last: 0,0167887
-Frame: 1123, Time since last: 0,0107893
-Frame: 1124, Time since last: 0,0118535
-Frame: 1125, Time since last: 0,0165426
-Frame: 1126, Time since last: 0,0108089
-Frame: 1127, Time since last: 0,0173682
-Frame: 1128, Time since last: 0,0109726
-Frame: 1129, Time since last: 0,0177988
-Frame: 1130, Time since last: 0,0107907
-Frame: 1131, Time since last: 0,0124446
-Frame: 1132, Time since last: 0,0157743
-Frame: 1133, Time since last: 0,0101773
-Frame: 1134, Time since last: 0,0130288
-Frame: 1135, Time since last: 0,0116477
-Frame: 1136, Time since last: 0,0097252
-Frame: 1137, Time since last: 0,01697
-Frame: 1138, Time since last: 0,0096802
-Frame: 1139, Time since last: 0,0171755
-Frame: 1140, Time since last: 0,0191702
-Frame: 1141, Time since last: 0,0090659
-Frame: 1142, Time since last: 0,0251707
-Frame: 1143, Time since last: 0,0123976
-Frame: 1144, Time since last: 0,0146325
-Frame: 1145, Time since last: 0,0174338
-Frame: 1146, Time since last: 0,016636
-Frame: 1147, Time since last: 0,0121577
-Frame: 1148, Time since last: 0,0147911
-Frame: 1149, Time since last: 0,0117306
-Frame: 1150, Time since last: 0,017768
-Frame: 1151, Time since last: 0,0115643
-Frame: 1152, Time since last: 0,0110531
-Frame: 1153, Time since last: 0,0160544
-Frame: 1154, Time since last: 0,0104869
-Frame: 1155, Time since last: 0,0164546
-Frame: 1156, Time since last: 0,0099644
-Frame: 1157, Time since last: 0,0174505
-Frame: 1158, Time since last: 0,0112117
-Frame: 1159, Time since last: 0,0165438
-Frame: 1160, Time since last: 0,009414
-Frame: 1161, Time since last: 0,017494
-Frame: 1162, Time since last: 0,0171955
-Frame: 1163, Time since last: 0,0103112
-Frame: 1164, Time since last: 0,0135132
-Frame: 1165, Time since last: 0,0102753
-Frame: 1166, Time since last: 0,0101375
-Frame: 1167, Time since last: 0,0123349
-Frame: 1168, Time since last: 0,0096795
-Frame: 1169, Time since last: 0,0260118
-Frame: 1170, Time since last: 0,0098283
-Frame: 1171, Time since last: 0,0114698
-Frame: 1172, Time since last: 0,0104723
-Frame: 1173, Time since last: 0,0114094
-Frame: 1174, Time since last: 0,010582
-Frame: 1175, Time since last: 0,0121614
-Frame: 1176, Time since last: 0,01513
-Frame: 1177, Time since last: 0,016695
-Frame: 1178, Time since last: 0,008325
-Frame: 1179, Time since last: 0,0139288
-Frame: 1180, Time since last: 0,0089399
-Frame: 1181, Time since last: 0,0135636
-Frame: 1182, Time since last: 0,0103526
-Frame: 1183, Time since last: 0,0123496
-Frame: 1184, Time since last: 0,0121496
-Frame: 1185, Time since last: 0,0103127
-Frame: 1186, Time since last: 0,0122616
-Frame: 1187, Time since last: 0,0099564
-Frame: 1188, Time since last: 0,013067
-Frame: 1189, Time since last: 0,0097326
-Frame: 1190, Time since last: 0,0241394
-Frame: 1191, Time since last: 0,0104305
-Frame: 1192, Time since last: 0,0120025
-Frame: 1193, Time since last: 0,0100747
-Frame: 1194, Time since last: 0,0124902
-Frame: 1195, Time since last: 0,0093161
-Frame: 1196, Time since last: 0,0245011
-Frame: 1197, Time since last: 0,008683
-Frame: 1198, Time since last: 0,0303366
-Frame: 1199, Time since last: 0,0119257
-Frame: 1200, Time since last: 0,0220722
-Frame: 1201, Time since last: 0,0128233
-Frame: 1202, Time since last: 0,0222885
-Frame: 1203, Time since last: 0,0083494
-Frame: 1204, Time since last: 0,0142434
-Frame: 1205, Time since last: 0,0112219
-Frame: 1206, Time since last: 0,0099865
-Frame: 1207, Time since last: 0,0118427
-Frame: 1208, Time since last: 0,0104397
-Frame: 1209, Time since last: 0,0244184
-Frame: 1210, Time since last: 0,0086359
-Frame: 1211, Time since last: 0,0265211
-Frame: 1212, Time since last: 0,0159224
-Frame: 1213, Time since last: 0,0120308
-Frame: 1214, Time since last: 0,0115931
-Frame: 1215, Time since last: 0,0109437
-Frame: 1216, Time since last: 0,0101321
-Frame: 1217, Time since last: 0,0116081
-Frame: 1218, Time since last: 0,0097732
-Frame: 1219, Time since last: 0,0234954
-Frame: 1220, Time since last: 0,0083869
-Frame: 1221, Time since last: 0,0241066
-Frame: 1222, Time since last: 0,0130203
-Frame: 1223, Time since last: 0,0093158
-Frame: 1224, Time since last: 0,0225002
-Frame: 1225, Time since last: 0,0083459
-Frame: 1226, Time since last: 0,0232573
-Frame: 1227, Time since last: 0,0129888
-Frame: 1228, Time since last: 0,0213826
-Frame: 1229, Time since last: 0,0106838
-Frame: 1230, Time since last: 0,0124989
-Frame: 1231, Time since last: 0,0121574
-Frame: 1232, Time since last: 0,0116674
-Frame: 1233, Time since last: 0,011162
-Frame: 1234, Time since last: 0,0107611
-Frame: 1235, Time since last: 0,0163882
-Frame: 1236, Time since last: 0,010133
-Frame: 1237, Time since last: 0,0176166
-Frame: 1238, Time since last: 0,019402
-Frame: 1239, Time since last: 0,009281
-Frame: 1240, Time since last: 0,0141845
-Frame: 1241, Time since last: 0,0186801
-Frame: 1242, Time since last: 0,0089629
-Frame: 1243, Time since last: 0,0257828
-Frame: 1244, Time since last: 0,0105258
-Frame: 1245, Time since last: 0,0137231
-Frame: 1246, Time since last: 0,0111347
-Frame: 1247, Time since last: 0,0097247
-Frame: 1248, Time since last: 0,0135253
-Frame: 1249, Time since last: 0,0113002
-Frame: 1250, Time since last: 0,0092334
-Frame: 1251, Time since last: 0,0229761
-Frame: 1252, Time since last: 0,0083606
-Frame: 1253, Time since last: 0,0137194
-Frame: 1254, Time since last: 0,0113108
-Frame: 1255, Time since last: 0,0094674
-Frame: 1256, Time since last: 0,0243671
-Frame: 1257, Time since last: 0,0100432
-Frame: 1258, Time since last: 0,0169256
-Frame: 1259, Time since last: 0,0096089
-Frame: 1260, Time since last: 0,0129948
-Frame: 1261, Time since last: 0,0163261
-Frame: 1262, Time since last: 0,0101824
-Frame: 1263, Time since last: 0,0165402
-Frame: 1264, Time since last: 0,0164726
-Frame: 1265, Time since last: 0,0102845
-Frame: 1266, Time since last: 0,0170569
-Frame: 1267, Time since last: 0,0116916
-Frame: 1268, Time since last: 0,0170291
-Frame: 1269, Time since last: 0,0102815
-Frame: 1270, Time since last: 0,0178211
-Frame: 1271, Time since last: 0,0100343
-Frame: 1272, Time since last: 0,0103338
-Frame: 1273, Time since last: 0,0166486
-Frame: 1274, Time since last: 0,0103216
-Frame: 1275, Time since last: 0,0120257
-Frame: 1276, Time since last: 0,0171702
-Frame: 1277, Time since last: 0,0098136
-Frame: 1278, Time since last: 0,0173027
-Frame: 1279, Time since last: 0,0196002
-Frame: 1280, Time since last: 0,009328
-Frame: 1281, Time since last: 0,0131634
-Frame: 1282, Time since last: 0,0095913
-Frame: 1283, Time since last: 0,0169621
-Frame: 1284, Time since last: 0,0095908
-Frame: 1285, Time since last: 0,0132463
-Frame: 1286, Time since last: 0,0104968
-Frame: 1287, Time since last: 0,0095501
-Frame: 1288, Time since last: 0,0168942
-Frame: 1289, Time since last: 0,0100873
-Frame: 1290, Time since last: 0,0169068
-Frame: 1291, Time since last: 0,0174066
-Frame: 1292, Time since last: 0,0094326
-Frame: 1293, Time since last: 0,0248545
-Frame: 1294, Time since last: 0,0089462
-Frame: 1295, Time since last: 0,0127767
-Frame: 1296, Time since last: 0,010014
-Frame: 1297, Time since last: 0,0277172
-Frame: 1298, Time since last: 0,0098777
-Frame: 1299, Time since last: 0,0117516
-Frame: 1300, Time since last: 0,0102511
-Frame: 1301, Time since last: 0,011617
-Frame: 1302, Time since last: 0,0162002
-Frame: 1303, Time since last: 0,0102816
-Frame: 1304, Time since last: 0,0118879
-Frame: 1305, Time since last: 0,0098915
-Frame: 1306, Time since last: 0,0167915
-Frame: 1307, Time since last: 0,0165328
-Frame: 1308, Time since last: 0,0095881
-Frame: 1309, Time since last: 0,0132922
-Frame: 1310, Time since last: 0,0120095
-Frame: 1311, Time since last: 0,0094433
-Frame: 1312, Time since last: 0,0245009
-Frame: 1313, Time since last: 0,0087128
-Frame: 1314, Time since last: 0,0249398
-Frame: 1315, Time since last: 0,0132486
-Frame: 1316, Time since last: 0,0094841
-Frame: 1317, Time since last: 0,0123687
-Frame: 1318, Time since last: 0,0112656
-Frame: 1319, Time since last: 0,0230456
-Frame: 1320, Time since last: 0,0122705
-Frame: 1321, Time since last: 0,0109192
-Frame: 1322, Time since last: 0,0095306
-Frame: 1323, Time since last: 0,0165819
-Frame: 1324, Time since last: 0,009018
-Frame: 1325, Time since last: 0,0189884
-Frame: 1326, Time since last: 0,0117258
-Frame: 1327, Time since last: 0,0162678
-Frame: 1328, Time since last: 0,012013
-Frame: 1329, Time since last: 0,0119524
-Frame: 1330, Time since last: 0,0120498
-Frame: 1331, Time since last: 0,0100865
-Frame: 1332, Time since last: 0,0164551
-Frame: 1333, Time since last: 0,0096736
-Frame: 1334, Time since last: 0,0172497
-Frame: 1335, Time since last: 0,01937
-Frame: 1336, Time since last: 0,0172351
-Frame: 1337, Time since last: 0,0097186
-Frame: 1338, Time since last: 0,0179858
-Frame: 1339, Time since last: 0,0205404
-Frame: 1340, Time since last: 0,0163138
-Frame: 1341, Time since last: 0,0180243
-Frame: 1342, Time since last: 0,0180387
-Frame: 1343, Time since last: 0,0121358
-Frame: 1344, Time since last: 0,015825
-Frame: 1345, Time since last: 0,0180766
-Frame: 1346, Time since last: 0,0181118
-Frame: 1347, Time since last: 0,0186003
-Frame: 1348, Time since last: 0,0183735
-Frame: 1349, Time since last: 0,0174876
-Frame: 1350, Time since last: 0,0132596
-Frame: 1351, Time since last: 0,0127223
-Frame: 1352, Time since last: 0,01704
-Frame: 1353, Time since last: 0,0176375
-Frame: 1354, Time since last: 0,012238
-Frame: 1355, Time since last: 0,0165796
-Frame: 1356, Time since last: 0,0186524
-Frame: 1357, Time since last: 0,0124941
-Frame: 1358, Time since last: 0,0131464
-Frame: 1359, Time since last: 0,0112143
-Frame: 1360, Time since last: 0,0174223
-Frame: 1361, Time since last: 0,0174701
-Frame: 1362, Time since last: 0,0110239
-Frame: 1363, Time since last: 0,0171613
-Frame: 1364, Time since last: 0,0191915
-Frame: 1365, Time since last: 0,021603
-Frame: 1366, Time since last: 0,0111797
-Frame: 1367, Time since last: 0,0120957
-Frame: 1368, Time since last: 0,0112148
-Frame: 1369, Time since last: 0,0117894
-Frame: 1370, Time since last: 0,0106654
-Frame: 1371, Time since last: 0,0182054
-Frame: 1372, Time since last: 0,0183042
-Frame: 1373, Time since last: 0,0094331
-Frame: 1374, Time since last: 0,0217124
-Frame: 1375, Time since last: 0,0181329
-Frame: 1376, Time since last: 0,0176673
-Frame: 1377, Time since last: 0,0171389
-Frame: 1378, Time since last: 0,0174603
-Frame: 1379, Time since last: 0,017856
-Frame: 1380, Time since last: 0,0091039
-Frame: 1381, Time since last: 0,0192679
-Frame: 1382, Time since last: 0,0135181
-Frame: 1383, Time since last: 0,0123819
-Frame: 1384, Time since last: 0,0105237
-Frame: 1385, Time since last: 0,0151775
-Frame: 1386, Time since last: 0,0244514
-Frame: 1387, Time since last: 0,0086509
-Frame: 1388, Time since last: 0,0334623
-Frame: 1389, Time since last: 0,0133437
-Frame: 1390, Time since last: 0,0338257
-Frame: 1391, Time since last: 0,0109442
-Frame: 1392, Time since last: 0,0351083
-Frame: 1393, Time since last: 0,0130204
-Frame: 1394, Time since last: 0,0191695
-Frame: 1395, Time since last: 0,0205342
-Frame: 1396, Time since last: 0,017852
-Frame: 1397, Time since last: 0,0168907
-Frame: 1398, Time since last: 0,0187478
-Frame: 1399, Time since last: 0,018474
-Frame: 1400, Time since last: 0,0129569
-Frame: 1401, Time since last: 0,0123234
-Frame: 1402, Time since last: 0,0119893
-Frame: 1403, Time since last: 0,0160155
-Frame: 1404, Time since last: 0,0116728
-Frame: 1405, Time since last: 0,0171938
-Frame: 1406, Time since last: 0,0144899
-Frame: 1407, Time since last: 0,0124594
-Frame: 1408, Time since last: 0,0106675
-Frame: 1409, Time since last: 0,0178781
-Frame: 1410, Time since last: 0,0182971
-Frame: 1411, Time since last: 0,0104287
-Frame: 1412, Time since last: 0,0208544
-Frame: 1413, Time since last: 0,0115733
-Frame: 1414, Time since last: 0,0176543
-Frame: 1415, Time since last: 0,017977
-Frame: 1416, Time since last: 0,0108592
-Frame: 1417, Time since last: 0,0131721
-Frame: 1418, Time since last: 0,017793
-Frame: 1419, Time since last: 0,0180741
-Frame: 1420, Time since last: 0,0113215
-Frame: 1421, Time since last: 0,0133787
-Frame: 1422, Time since last: 0,017279
-Frame: 1423, Time since last: 0,0174102
-Frame: 1424, Time since last: 0,0111204
-Frame: 1425, Time since last: 0,0174174
-Frame: 1426, Time since last: 0,0174045
-Frame: 1427, Time since last: 0,0181064
-Frame: 1428, Time since last: 0,0174074
-Frame: 1429, Time since last: 0,0118714
-Frame: 1430, Time since last: 0,0176257
-Frame: 1431, Time since last: 0,0184156
-Frame: 1432, Time since last: 0,01788
-Frame: 1433, Time since last: 0,0093806
-Frame: 1434, Time since last: 0,0173301
-Frame: 1435, Time since last: 0,0097932
-Frame: 1436, Time since last: 0,0192836
-Frame: 1437, Time since last: 0,0095433
-Frame: 1438, Time since last: 0,0263468
-Frame: 1439, Time since last: 0,0126101
-Frame: 1440, Time since last: 0,0204367
-Frame: 1441, Time since last: 0,0115868
-Frame: 1442, Time since last: 0,0193304
-Frame: 1443, Time since last: 0,0100819
-Frame: 1444, Time since last: 0,0275166
-Frame: 1445, Time since last: 0,0187884
-Frame: 1446, Time since last: 0,0183364
-Frame: 1447, Time since last: 0,0187549
-Frame: 1448, Time since last: 0,0182741
-Frame: 1449, Time since last: 0,0178322
-Frame: 1450, Time since last: 0,017342
-Frame: 1451, Time since last: 0,0169361
-Frame: 1452, Time since last: 0,0174002
-Frame: 1453, Time since last: 0,017473
-Frame: 1454, Time since last: 0,008348
-Frame: 1455, Time since last: 0,0146653
-Frame: 1456, Time since last: 0,0186539
-Frame: 1457, Time since last: 0,0181626
-Frame: 1458, Time since last: 0,0093335
-Frame: 1459, Time since last: 0,013547
-Frame: 1460, Time since last: 0,0167143
-Frame: 1461, Time since last: 0,0144475
-Frame: 1462, Time since last: 0,016665
-Frame: 1463, Time since last: 0,0118912
-Frame: 1464, Time since last: 0,0240742
-Frame: 1465, Time since last: 0,0083868
-Frame: 1466, Time since last: 0,0334749
-Frame: 1467, Time since last: 0,0129389
-Frame: 1468, Time since last: 0,035248
-Frame: 1469, Time since last: 0,0108594
-Frame: 1470, Time since last: 0,0342619
-Frame: 1471, Time since last: 0,0262613
-Frame: 1472, Time since last: 0,0093462
-Frame: 1473, Time since last: 0,0311824
-Frame: 1474, Time since last: 0,0099624
-Frame: 1475, Time since last: 0,0263352
-Frame: 1476, Time since last: 0,0154543
-Frame: 1477, Time since last: 0,022048
-Frame: 1478, Time since last: 0,0135849
-Frame: 1479, Time since last: 0,0218375
-Frame: 1480, Time since last: 0,0181189
-Frame: 1481, Time since last: 0,0093157
-Frame: 1482, Time since last: 0,0264937
-Frame: 1483, Time since last: 0,0116655
-Frame: 1484, Time since last: 0,0194715
-Frame: 1485, Time since last: 0,0116249
-Frame: 1486, Time since last: 0,0175329
-Frame: 1487, Time since last: 0,0100513
-Frame: 1488, Time since last: 0,0195515
-Frame: 1489, Time since last: 0,0098927
-Frame: 1490, Time since last: 0,0269549
-Frame: 1491, Time since last: 0,012581
-Frame: 1492, Time since last: 0,014586
-Frame: 1493, Time since last: 0,0130151
-Frame: 1494, Time since last: 0,012522
-Frame: 1495, Time since last: 0,0120592
-Frame: 1496, Time since last: 0,0115353
-Frame: 1497, Time since last: 0,0118025
-Frame: 1498, Time since last: 0,0106597
-Frame: 1499, Time since last: 0,0165561
-Frame: 1500, Time since last: 0,0099969
-Frame: 1501, Time since last: 0,013554
-Frame: 1502, Time since last: 0,0118203
-Frame: 1503, Time since last: 0,0097274
-Frame: 1504, Time since last: 0,0127953
-Frame: 1505, Time since last: 0,0111859
-Frame: 1506, Time since last: 0,0130609
-Frame: 1507, Time since last: 0,0164181
-Frame: 1508, Time since last: 0,0177611
-Frame: 1509, Time since last: 0,0083988
-Frame: 1510, Time since last: 0,0257762
-Frame: 1511, Time since last: 0,0108949
-Frame: 1512, Time since last: 0,0279357
-Frame: 1513, Time since last: 0,0120697
-Frame: 1514, Time since last: 0,0211446
-Frame: 1515, Time since last: 0,0102266
-Frame: 1516, Time since last: 0,0118913
-Frame: 1517, Time since last: 0,0117907
-Frame: 1518, Time since last: 0,0101236
-Frame: 1519, Time since last: 0,0121538
-Frame: 1520, Time since last: 0,0100015
-Frame: 1521, Time since last: 0,0117692
-Frame: 1522, Time since last: 0,009098
-Frame: 1523, Time since last: 0,0232286
-Frame: 1524, Time since last: 0,0083381
-Frame: 1525, Time since last: 0,0242345
-Frame: 1526, Time since last: 0,0112067
-Frame: 1527, Time since last: 0,0109668
-Frame: 1528, Time since last: 0,0111144
-Frame: 1529, Time since last: 0,0101826
-Frame: 1530, Time since last: 0,0127132
-Frame: 1531, Time since last: 0,0094099
-Frame: 1532, Time since last: 0,0229559
-Frame: 1533, Time since last: 0,0083747
-Frame: 1534, Time since last: 0,0145863
-Frame: 1535, Time since last: 0,0096299
-Frame: 1536, Time since last: 0,0166115
-Frame: 1537, Time since last: 0,0170268
-Frame: 1538, Time since last: 0,013253
-Frame: 1539, Time since last: 0,0122474
-Frame: 1540, Time since last: 0,0118909
-Frame: 1541, Time since last: 0,0099368
-Frame: 1542, Time since last: 0,0118231
-Frame: 1543, Time since last: 0,010099
-Frame: 1544, Time since last: 0,01248
-Frame: 1545, Time since last: 0,0141028
-Frame: 1546, Time since last: 0,010274
-Frame: 1547, Time since last: 0,0164974
-Frame: 1548, Time since last: 0,010001
-Frame: 1549, Time since last: 0,0164294
-Frame: 1550, Time since last: 0,0176972
-Frame: 1551, Time since last: 0,0112086
-Frame: 1552, Time since last: 0,0104762
-Frame: 1553, Time since last: 0,0118414
-Frame: 1554, Time since last: 0,0090963
-Frame: 1555, Time since last: 0,0129882
-Frame: 1556, Time since last: 0,0170054
-Frame: 1557, Time since last: 0,0174125
-Frame: 1558, Time since last: 0,0092294
-Frame: 1559, Time since last: 0,0167133
-Frame: 1560, Time since last: 0,0193609
-Frame: 1561, Time since last: 0,0083401
-Frame: 1562, Time since last: 0,0236702
-Frame: 1563, Time since last: 0,0120423
-Frame: 1564, Time since last: 0,009602
-Frame: 1565, Time since last: 0,0095157
-Frame: 1566, Time since last: 0,0123197
-Frame: 1567, Time since last: 0,0098337
-Frame: 1568, Time since last: 0,0126734
-Frame: 1569, Time since last: 0,009657
-Frame: 1570, Time since last: 0,0157915
-Frame: 1571, Time since last: 0,0172889
-Frame: 1572, Time since last: 0,0094288
-Frame: 1573, Time since last: 0,0130782
-Frame: 1574, Time since last: 0,0110823
-Frame: 1575, Time since last: 0,0093198
-Frame: 1576, Time since last: 0,0131048
-Frame: 1577, Time since last: 0,0086956
-Frame: 1578, Time since last: 0,0133718
-Frame: 1579, Time since last: 0,0098782
-Frame: 1580, Time since last: 0,0242352
-Frame: 1581, Time since last: 0,008363
-Frame: 1582, Time since last: 0,0134383
-Frame: 1583, Time since last: 0,0090827
-Frame: 1584, Time since last: 0,0162686
-Frame: 1585, Time since last: 0,0175225
-Frame: 1586, Time since last: 0,0103897
-Frame: 1587, Time since last: 0,0118949
-Frame: 1588, Time since last: 0,0107947
-Frame: 1589, Time since last: 0,0105118
-Frame: 1590, Time since last: 0,011735
-Frame: 1591, Time since last: 0,0093471
-Frame: 1592, Time since last: 0,0124848
-Frame: 1593, Time since last: 0,0104243
-Frame: 1594, Time since last: 0,0117721
-Frame: 1595, Time since last: 0,0093203
-Frame: 1596, Time since last: 0,0121099
-Frame: 1597, Time since last: 0,0099643
-Frame: 1598, Time since last: 0,0233943
-Frame: 1599, Time since last: 0,0107612
-Frame: 1600, Time since last: 0,0113665
-Frame: 1601, Time since last: 0,0096629
-Frame: 1602, Time since last: 0,01586
-Frame: 1603, Time since last: 0,0167333
-Frame: 1604, Time since last: 0,0083792
-Frame: 1605, Time since last: 0,013914
-Frame: 1606, Time since last: 0,010476
-Frame: 1607, Time since last: 0,0166344
-Frame: 1608, Time since last: 0,0110396
-Frame: 1609, Time since last: 0,0091538
-Frame: 1610, Time since last: 0,0168636
-Frame: 1611, Time since last: 0,0176427
-Frame: 1612, Time since last: 0,0085561
-Frame: 1613, Time since last: 0,0137525
-Frame: 1614, Time since last: 0,0116708
-Frame: 1615, Time since last: 0,0104129
-Frame: 1616, Time since last: 0,0118316
-Frame: 1617, Time since last: 0,009066
-Frame: 1618, Time since last: 0,0165707
-Frame: 1619, Time since last: 0,017729
-Frame: 1620, Time since last: 0,008345
-Frame: 1621, Time since last: 0,0257152
-Frame: 1622, Time since last: 0,0117683
-Frame: 1623, Time since last: 0,0101723
-Frame: 1624, Time since last: 0,0096137
-Frame: 1625, Time since last: 0,0235809
-Frame: 1626, Time since last: 0,0083365
-Frame: 1627, Time since last: 0,0249635
-Frame: 1628, Time since last: 0,0151277
-Frame: 1629, Time since last: 0,008334
-Frame: 1630, Time since last: 0,013556
-Frame: 1631, Time since last: 0,0098739
-Frame: 1632, Time since last: 0,022678
-Frame: 1633, Time since last: 0,00836
-Frame: 1634, Time since last: 0,0135801
-Frame: 1635, Time since last: 0,0104334
-Frame: 1636, Time since last: 0,0119148
-Frame: 1637, Time since last: 0,0112428
-Frame: 1638, Time since last: 0,0117588
-Frame: 1639, Time since last: 0,0103674
-Frame: 1640, Time since last: 0,0099542
-Frame: 1641, Time since last: 0,0115581
-Frame: 1642, Time since last: 0,0101102
-Frame: 1643, Time since last: 0,0113478
-Frame: 1644, Time since last: 0,0091834
-Frame: 1645, Time since last: 0,0127391
-Frame: 1646, Time since last: 0,0100557
-Frame: 1647, Time since last: 0,0117998
-Frame: 1648, Time since last: 0,0098038
-Frame: 1649, Time since last: 0,023173
-Frame: 1650, Time since last: 0,0083751
-Frame: 1651, Time since last: 0,0255087
-Frame: 1652, Time since last: 0,0148695
-Frame: 1653, Time since last: 0,008325
-Frame: 1654, Time since last: 0,0222268
-Frame: 1655, Time since last: 0,0100219
-Frame: 1656, Time since last: 0,0216342
-Frame: 1657, Time since last: 0,0120169
-Frame: 1658, Time since last: 0,0127625
-Frame: 1659, Time since last: 0,0103115
-Frame: 1660, Time since last: 0,0117297
-Frame: 1661, Time since last: 0,0116068
-Frame: 1662, Time since last: 0,0103683
-Frame: 1663, Time since last: 0,0095393
-Frame: 1664, Time since last: 0,0125111
-Frame: 1665, Time since last: 0,0094315
-Frame: 1666, Time since last: 0,0123794
-Frame: 1667, Time since last: 0,0095946
-Frame: 1668, Time since last: 0,0232939
-Frame: 1669, Time since last: 0,008325
-Frame: 1670, Time since last: 0,0140696
-Frame: 1671, Time since last: 0,0116502
-Frame: 1672, Time since last: 0,0108047
-Frame: 1673, Time since last: 0,0095034
-Frame: 1674, Time since last: 0,0127878
-Frame: 1675, Time since last: 0,0092069
-Frame: 1676, Time since last: 0,0127625
-Frame: 1677, Time since last: 0,009411
-Frame: 1678, Time since last: 0,0129113
-Frame: 1679, Time since last: 0,0097733
-Frame: 1680, Time since last: 0,0139469
-Frame: 1681, Time since last: 0,0102187
-Frame: 1682, Time since last: 0,0089858
-Frame: 1683, Time since last: 0,023405
-Frame: 1684, Time since last: 0,0083355
-Frame: 1685, Time since last: 0,0241188
-Frame: 1686, Time since last: 0,0117836
-Frame: 1687, Time since last: 0,0103018
-Frame: 1688, Time since last: 0,0113741
-Frame: 1689, Time since last: 0,0097775
-Frame: 1690, Time since last: 0,0117598
-Frame: 1691, Time since last: 0,0091324
-Frame: 1692, Time since last: 0,0130936
-Frame: 1693, Time since last: 0,0090075
-Frame: 1694, Time since last: 0,023614
-Frame: 1695, Time since last: 0,0083841
-Frame: 1696, Time since last: 0,0138253
-Frame: 1697, Time since last: 0,0244024
-Frame: 1698, Time since last: 0,0085953
-Frame: 1699, Time since last: 0,0132477
-Frame: 1700, Time since last: 0,0110499
-Frame: 1701, Time since last: 0,0164939
-Frame: 1702, Time since last: 0,0097838
-Frame: 1703, Time since last: 0,0128068
-Frame: 1704, Time since last: 0,0107729
-Frame: 1705, Time since last: 0,0105249
-Frame: 1706, Time since last: 0,0115626
-Frame: 1707, Time since last: 0,0118763
-Frame: 1708, Time since last: 0,0110086
-Frame: 1709, Time since last: 0,0104479
-Frame: 1710, Time since last: 0,0110789
-Frame: 1711, Time since last: 0,0109364
-Frame: 1712, Time since last: 0,0093294
-Frame: 1713, Time since last: 0,0126011
-Frame: 1714, Time since last: 0,0101155
-Frame: 1715, Time since last: 0,0130313
-Frame: 1716, Time since last: 0,0092157
-Frame: 1717, Time since last: 0,0232942
-Frame: 1718, Time since last: 0,0110122
-Frame: 1719, Time since last: 0,0106613
-Frame: 1720, Time since last: 0,0094619
-Frame: 1721, Time since last: 0,012019
-Frame: 1722, Time since last: 0,0096288
-Frame: 1723, Time since last: 0,0125662
-Frame: 1724, Time since last: 0,0095437
-Frame: 1725, Time since last: 0,0121088
-Frame: 1726, Time since last: 0,0092554
-Frame: 1727, Time since last: 0,0133881
-Frame: 1728, Time since last: 0,00965
-Frame: 1729, Time since last: 0,0133192
-Frame: 1730, Time since last: 0,0105993
-Frame: 1731, Time since last: 0,0092122
-Frame: 1732, Time since last: 0,0234843
-Frame: 1733, Time since last: 0,0083704
-Frame: 1734, Time since last: 0,0130965
-Frame: 1735, Time since last: 0,0159534
-Frame: 1736, Time since last: 0,01714
-Frame: 1737, Time since last: 0,0090178
-Frame: 1738, Time since last: 0,0173226
-Frame: 1739, Time since last: 0,0190514
-Frame: 1740, Time since last: 0,0163287
-Frame: 1741, Time since last: 0,010533
-Frame: 1742, Time since last: 0,0123947
-Frame: 1743, Time since last: 0,0109416
-Frame: 1744, Time since last: 0,0105314
-Frame: 1745, Time since last: 0,0124635
-Frame: 1746, Time since last: 0,0118306
-Frame: 1747, Time since last: 0,0098052
-Frame: 1748, Time since last: 0,0115597
-Frame: 1749, Time since last: 0,0101412
-Frame: 1750, Time since last: 0,0114766
-Frame: 1751, Time since last: 0,0100027
-Frame: 1752, Time since last: 0,0115655
-Frame: 1753, Time since last: 0,0088181
-Frame: 1754, Time since last: 0,0231676
-Frame: 1755, Time since last: 0,008325
-Frame: 1756, Time since last: 0,026331
-Frame: 1757, Time since last: 0,0150233
-Frame: 1758, Time since last: 0,008352
-Frame: 1759, Time since last: 0,0134566
-Frame: 1760, Time since last: 0,0100726
-Frame: 1761, Time since last: 0,0141603
-Frame: 1762, Time since last: 0,010461
-Frame: 1763, Time since last: 0,0108173
-Frame: 1764, Time since last: 0,0111699
-Frame: 1765, Time since last: 0,0095773
-Frame: 1766, Time since last: 0,0118974
-Frame: 1767, Time since last: 0,0102111
-Frame: 1768, Time since last: 0,0123745
-Frame: 1769, Time since last: 0,011144
-Frame: 1770, Time since last: 0,0099023
-Frame: 1771, Time since last: 0,0121685
-Frame: 1772, Time since last: 0,0087639
-Frame: 1773, Time since last: 0,0231864
-Frame: 1774, Time since last: 0,0083392
-Frame: 1775, Time since last: 0,0132126
-Frame: 1776, Time since last: 0,0158904
-Frame: 1777, Time since last: 0,0167931
-Frame: 1778, Time since last: 0,0128131
-Frame: 1779, Time since last: 0,0097947
-Frame: 1780, Time since last: 0,0168311
-Frame: 1781, Time since last: 0,0105341
-Frame: 1782, Time since last: 0,0120437
-Frame: 1783, Time since last: 0,0109085
-Frame: 1784, Time since last: 0,0100924
-Frame: 1785, Time since last: 0,0237266
-Frame: 1786, Time since last: 0,0083724
-Frame: 1787, Time since last: 0,0241396
-Frame: 1788, Time since last: 0,0121878
-Frame: 1789, Time since last: 0,0149606
-Frame: 1790, Time since last: 0,019187
-Frame: 1791, Time since last: 0,0123704
-Frame: 1792, Time since last: 0,0118866
-Frame: 1793, Time since last: 0,0116023
-Frame: 1794, Time since last: 0,0112113
-Frame: 1795, Time since last: 0,0107566
-Frame: 1796, Time since last: 0,0172133
-Frame: 1797, Time since last: 0,0103387
-Frame: 1798, Time since last: 0,0168226
-Frame: 1799, Time since last: 0,0177668
-Frame: 1800, Time since last: 0,019869
-Frame: 1801, Time since last: 0,0104279
-Frame: 1802, Time since last: 0,0171972
-Frame: 1803, Time since last: 0,0198402
-Frame: 1804, Time since last: 0,0185524
-Frame: 1805, Time since last: 0,0083661
-Frame: 1806, Time since last: 0,0235969
-Frame: 1807, Time since last: 0,0118038
-Frame: 1808, Time since last: 0,0215973
-Frame: 1809, Time since last: 0,0118783
-Frame: 1810, Time since last: 0,0113428
-Frame: 1811, Time since last: 0,0166687
-Frame: 1812, Time since last: 0,0083434
-Frame: 1813, Time since last: 0,0148252
-Frame: 1814, Time since last: 0,0100249
-Frame: 1815, Time since last: 0,0161344
-Frame: 1816, Time since last: 0,0173147
-Frame: 1817, Time since last: 0,0086363
-Frame: 1818, Time since last: 0,0138935
-Frame: 1819, Time since last: 0,0161114
-Frame: 1820, Time since last: 0,0092985
-Frame: 1821, Time since last: 0,017233
-Frame: 1822, Time since last: 0,0174857
-Frame: 1823, Time since last: 0,0099437
-Frame: 1824, Time since last: 0,0103219
-Frame: 1825, Time since last: 0,0196046
-Frame: 1826, Time since last: 0,0097246
-Frame: 1827, Time since last: 0,0121687
-Frame: 1828, Time since last: 0,0118147
-Frame: 1829, Time since last: 0,0111618
-Frame: 1830, Time since last: 0,010023
-Frame: 1831, Time since last: 0,0116333
-Frame: 1832, Time since last: 0,0098206
-Frame: 1833, Time since last: 0,0115469
-Frame: 1834, Time since last: 0,009015
-Frame: 1835, Time since last: 0,0120443
-Frame: 1836, Time since last: 0,0126679
-Frame: 1837, Time since last: 0,0099747
-Frame: 1838, Time since last: 0,0241037
-Frame: 1839, Time since last: 0,0083396
-Frame: 1840, Time since last: 0,0125736
-Frame: 1841, Time since last: 0,0118055
-Frame: 1842, Time since last: 0,0093029
-Frame: 1843, Time since last: 0,01592
-Frame: 1844, Time since last: 0,0169035
-Frame: 1845, Time since last: 0,0085195
-Frame: 1846, Time since last: 0,0129046
-Frame: 1847, Time since last: 0,0091352
-Frame: 1848, Time since last: 0,0126877
-Frame: 1849, Time since last: 0,0091558
-Frame: 1850, Time since last: 0,013172
-Frame: 1851, Time since last: 0,0114477
-Frame: 1852, Time since last: 0,0113339
-Frame: 1853, Time since last: 0,0155934
-Frame: 1854, Time since last: 0,0166603
-Frame: 1855, Time since last: 0,010283
-Frame: 1856, Time since last: 0,0160499
-Frame: 1857, Time since last: 0,0094567
-Frame: 1858, Time since last: 0,0122217
-Frame: 1859, Time since last: 0,0162838
-Frame: 1860, Time since last: 0,0096351
-Frame: 1861, Time since last: 0,0134336
-Frame: 1862, Time since last: 0,017099
-Frame: 1863, Time since last: 0,0184745
-Frame: 1864, Time since last: 0,0115886
-Frame: 1865, Time since last: 0,0101291
-Frame: 1866, Time since last: 0,011788
-Frame: 1867, Time since last: 0,0096711
-Frame: 1868, Time since last: 0,0162856
-Frame: 1869, Time since last: 0,0092793
-Frame: 1870, Time since last: 0,0130296
-Frame: 1871, Time since last: 0,0110566
-Frame: 1872, Time since last: 0,008827
-Frame: 1873, Time since last: 0,0127065
-Frame: 1874, Time since last: 0,0094036
-Frame: 1875, Time since last: 0,0160692
-Frame: 1876, Time since last: 0,0166755
-Frame: 1877, Time since last: 0,0083619
-Frame: 1878, Time since last: 0,013027
-Frame: 1879, Time since last: 0,0095648
-Frame: 1880, Time since last: 0,0130166
-Frame: 1881, Time since last: 0,0110363
-Frame: 1882, Time since last: 0,0094248
-Frame: 1883, Time since last: 0,0122328
-Frame: 1884, Time since last: 0,0093304
-Frame: 1885, Time since last: 0,0128031
-Frame: 1886, Time since last: 0,0095368
-Frame: 1887, Time since last: 0,0239191
-Frame: 1888, Time since last: 0,0083673
-Frame: 1889, Time since last: 0,0264078
-Frame: 1890, Time since last: 0,0107894
-Frame: 1891, Time since last: 0,0219991
-Frame: 1892, Time since last: 0,0083512
-Frame: 1893, Time since last: 0,0127229
-Frame: 1894, Time since last: 0,010057
-Frame: 1895, Time since last: 0,0115276
-Frame: 1896, Time since last: 0,0114484
-Frame: 1897, Time since last: 0,011103
-Frame: 1898, Time since last: 0,0115081
-Frame: 1899, Time since last: 0,0094683
-Frame: 1900, Time since last: 0,012639
-Frame: 1901, Time since last: 0,0103957
-Frame: 1902, Time since last: 0,0116615
-Frame: 1903, Time since last: 0,009223
-Frame: 1904, Time since last: 0,0123717
-Frame: 1905, Time since last: 0,0091946
-Frame: 1906, Time since last: 0,0132471
-Frame: 1907, Time since last: 0,0108301
-Frame: 1908, Time since last: 0,0104077
-Frame: 1909, Time since last: 0,0112574
-Frame: 1910, Time since last: 0,0092905
-Frame: 1911, Time since last: 0,0126485
-Frame: 1912, Time since last: 0,0091901
-Frame: 1913, Time since last: 0,0125437
-Frame: 1914, Time since last: 0,0104537
-Frame: 1915, Time since last: 0,0115671
-Frame: 1916, Time since last: 0,0107922
-Frame: 1917, Time since last: 0,0092244
-Frame: 1918, Time since last: 0,0122504
-Frame: 1919, Time since last: 0,0092687
-Frame: 1920, Time since last: 0,0122203
-Frame: 1921, Time since last: 0,0094645
-Frame: 1922, Time since last: 0,0118495
-Frame: 1923, Time since last: 0,010132
-Frame: 1924, Time since last: 0,0113499
-Frame: 1925, Time since last: 0,0094547
-Frame: 1926, Time since last: 0,0230428
-Frame: 1927, Time since last: 0,0083438
-Frame: 1928, Time since last: 0,0297294
-Frame: 1929, Time since last: 0,011887
-Frame: 1930, Time since last: 0,010439
-Frame: 1931, Time since last: 0,0124058
-Frame: 1932, Time since last: 0,0109424
-Frame: 1933, Time since last: 0,0110037
-Frame: 1934, Time since last: 0,0118524
-Frame: 1935, Time since last: 0,0090826
-Frame: 1936, Time since last: 0,0231525
-Frame: 1937, Time since last: 0,0083663
-Frame: 1938, Time since last: 0,0140971
-Frame: 1939, Time since last: 0,0104377
-Frame: 1940, Time since last: 0,0161901
-Frame: 1941, Time since last: 0,0172745
-Frame: 1942, Time since last: 0,0095502
-Frame: 1943, Time since last: 0,0170734
-Frame: 1944, Time since last: 0,0191645
-Frame: 1945, Time since last: 0,0099779
-Frame: 1946, Time since last: 0,0130107
-Frame: 1947, Time since last: 0,0100601
-Frame: 1948, Time since last: 0,0100771
-Frame: 1949, Time since last: 0,0116552
-Frame: 1950, Time since last: 0,0103954
-Frame: 1951, Time since last: 0,0160249
-Frame: 1952, Time since last: 0,0100448
-Frame: 1953, Time since last: 0,0119602
-Frame: 1954, Time since last: 0,0116879
-Frame: 1955, Time since last: 0,0105031
-Frame: 1956, Time since last: 0,0114083
-Frame: 1957, Time since last: 0,0105421
-Frame: 1958, Time since last: 0,0107146
-Frame: 1959, Time since last: 0,0099238
-Frame: 1960, Time since last: 0,0238233
-Frame: 1961, Time since last: 0,0107751
-Frame: 1962, Time since last: 0,0243876
-Frame: 1963, Time since last: 0,0085983
-Frame: 1964, Time since last: 0,0131845
-Frame: 1965, Time since last: 0,0119037
-Frame: 1966, Time since last: 0,0107378
-Frame: 1967, Time since last: 0,0100833
-Frame: 1968, Time since last: 0,0116644
-Frame: 1969, Time since last: 0,0096173
-Frame: 1970, Time since last: 0,0166069
-Frame: 1971, Time since last: 0,0095393
-Frame: 1972, Time since last: 0,0127135
-Frame: 1973, Time since last: 0,0101908
-Frame: 1974, Time since last: 0,0093292
-Frame: 1975, Time since last: 0,0123318
-Frame: 1976, Time since last: 0,0096396
-Frame: 1977, Time since last: 0,0235674
-Frame: 1978, Time since last: 0,0083616
-Frame: 1979, Time since last: 0,0242119
-Frame: 1980, Time since last: 0,0120899
-Frame: 1981, Time since last: 0,0120642
-Frame: 1982, Time since last: 0,0115892
-Frame: 1983, Time since last: 0,011267
-Frame: 1984, Time since last: 0,0147176
-Frame: 1985, Time since last: 0,0107472
-Frame: 1986, Time since last: 0,0115101
-Frame: 1987, Time since last: 0,0106835
-Frame: 1988, Time since last: 0,009305
-Frame: 1989, Time since last: 0,0118297
-Frame: 1990, Time since last: 0,0098901
-Frame: 1991, Time since last: 0,0138593
-Frame: 1992, Time since last: 0,010181
-Frame: 1993, Time since last: 0,0122359
-Frame: 1994, Time since last: 0,0111328
-Frame: 1995, Time since last: 0,0100201
-Frame: 1996, Time since last: 0,0234942
-Frame: 1997, Time since last: 0,008325
-Frame: 1998, Time since last: 0,0240456
-Frame: 1999, Time since last: 0,0117193
+0, 0.02
+1, 0.02
+2, 0.3333333
+3, 0.3333333
+4, 0.3333333
+5, 0.2668962
+6, 0.2476008
+7, 0.2075307
+8, 0.1745201
+9, 0.1674857
+10, 0.1377215
+11, 0.1366264
+12, 0.1102596
+13, 0.09305
+14, 0.0936663
+15, 0.0794214
+16, 0.0637146
+17, 0.061199
+18, 0.0470224
+19, 0.0476341
+20, 0.0464999
+21, 0.0350476
+22, 0.0487032
+23, 0.0356474
+24, 0.0290427
+25, 0.0266642
+26, 0.0236438
+27, 0.022649
+28, 0.0128363
+29, 0.0369209
+30, 0.0128571
+31, 0.0340979
+32, 0.0274757
+33, 0.0086054
+34, 0.0351906
+35, 0.0120984
+36, 0.0354842
+37, 0.0222298
+38, 0.0178477
+39, 0.0316199
+40, 0.0101815
+41, 0.0350432
+42, 0.0134028
+43, 0.0308807
+44, 0.0233841
+45, 0.0176297
+46, 0.0313963
+47, 0.0198073
+48, 0.0189759
+49, 0.0206595
+50, 0.0184293
+51, 0.01851
+52, 0.0182938
+53, 0.0197928
+54, 0.0190161
+55, 0.0187849
+56, 0.0189719
+57, 0.0220798
+58, 0.0183367
+59, 0.0184025
+60, 0.0197403
+61, 0.0222654
+62, 0.0210182
+63, 0.0187838
+64, 0.0184882
+65, 0.0189997
+66, 0.0189325
+67, 0.0190693
+68, 0.0095375
+69, 0.0214589
+70, 0.0184538
+71, 0.0180205
+72, 0.0185441
+73, 0.0187685
+74, 0.0187895
+75, 0.0182905
+76, 0.0191077
+77, 0.0178464
+78, 0.0090422
+79, 0.0214443
+80, 0.0187189
+81, 0.0185851
+82, 0.0187006
+83, 0.019009
+84, 0.0179333
+85, 0.0197307
+86, 0.0179182
+87, 0.0187069
+88, 0.0093621
+89, 0.021446
+90, 0.0188918
+91, 0.0184163
+92, 0.0178472
+93, 0.0179932
+94, 0.0193421
+95, 0.0189952
+96, 0.0187791
+97, 0.0093785
+98, 0.0212845
+99, 0.0193102
+100, 0.0168452
+101, 0.0194168
+102, 0.0194329
+103, 0.0190316
+104, 0.0194401
+105, 0.0201537
+106, 0.0190702
+107, 0.0179023
+108, 0.0181554
+109, 0.0092965
+110, 0.0202226
+111, 0.0225651
+112, 0.018814
+113, 0.0182942
+114, 0.0179677
+115, 0.018056
+116, 0.0184507
+117, 0.0190833
+118, 0.017938
+119, 0.0187347
+120, 0.0093516
+121, 0.0213968
+122, 0.0183212
+123, 0.020503
+124, 0.0186784
+125, 0.0193607
+126, 0.0186818
+127, 0.0178739
+128, 0.0203093
+129, 0.0182522
+130, 0.0185427
+131, 0.0183931
+132, 0.0091233
+133, 0.0210987
+134, 0.0185684
+135, 0.0180867
+136, 0.0199965
+137, 0.0199712
+138, 0.0194948
+139, 0.0190627
+140, 0.0192113
+141, 0.0186975
+142, 0.0208306
+143, 0.0189427
+144, 0.0187651
+145, 0.0194254
+146, 0.0097099
+147, 0.0219083
+148, 0.0191065
+149, 0.0167648
+150, 0.0182553
+151, 0.0183218
+152, 0.0195195
+153, 0.0186743
+154, 0.0178794
+155, 0.0188333
+156, 0.0141821
+157, 0.0155452
+158, 0.0182449
+159, 0.0183719
+160, 0.0182582
+161, 0.0198128
+162, 0.0194609
+163, 0.0186017
+164, 0.0183766
+165, 0.009195
+166, 0.0203012
+167, 0.0192628
+168, 0.0185388
+169, 0.0199227
+170, 0.0188761
+171, 0.0183377
+172, 0.0186908
+173, 0.0190775
+174, 0.0183968
+175, 0.0180365
+176, 0.0089966
+177, 0.0216972
+178, 0.0191792
+179, 0.0190188
+180, 0.019817
+181, 0.019003
+182, 0.0211471
+183, 0.0182943
+184, 0.0179817
+185, 0.0190447
+186, 0.0179618
+187, 0.0196505
+188, 0.00954
+189, 0.0221622
+190, 0.0206091
+191, 0.0190887
+192, 0.0186047
+193, 0.01817
+194, 0.0174546
+195, 0.0183265
+196, 0.017932
+197, 0.0198974
+198, 0.0186733
+199, 0.017691
+200, 0.0088628
+201, 0.0204898
+202, 0.0185211
+203, 0.0198925
+204, 0.0193231
+205, 0.0208235
+206, 0.0185025
+207, 0.0179972
+208, 0.017517
+209, 0.0188914
+210, 0.009424
+211, 0.021624
+212, 0.0188449
+213, 0.0183347
+214, 0.0178379
+215, 0.0203035
+216, 0.0185045
+217, 0.019362
+218, 0.0209899
+219, 0.0205845
+220, 0.0186217
+221, 0.0182738
+222, 0.0189349
+223, 0.0177939
+224, 0.008962
+225, 0.0200612
+226, 0.0186698
+227, 0.0191121
+228, 0.0183812
+229, 0.0193839
+230, 0.0184477
+231, 0.0186506
+232, 0.0092911
+233, 0.02046
+234, 0.01852
+235, 0.0183963
+236, 0.0188859
+237, 0.0189065
+238, 0.0173425
+239, 0.01827
+240, 0.0191757
+241, 0.0095269
+242, 0.0215954
+243, 0.0183423
+244, 0.0178357
+245, 0.0173134
+246, 0.0181708
+247, 0.0183937
+248, 0.0176271
+249, 0.0088025
+250, 0.0207408
+251, 0.0194337
+252, 0.0190963
+253, 0.0180524
+254, 0.0191144
+255, 0.0204586
+256, 0.0184445
+257, 0.0187468
+258, 0.0180143
+259, 0.0090022
+260, 0.0199418
+261, 0.0202062
+262, 0.0184571
+263, 0.019575
+264, 0.0193017
+265, 0.0192823
+266, 0.0175277
+267, 0.0185524
+268, 0.0176448
+269, 0.008777
+270, 0.0206439
+271, 0.0185442
+272, 0.01842
+273, 0.0187438
+274, 0.0193635
+275, 0.0188617
+276, 0.0197048
+277, 0.0205209
+278, 0.0229875
+279, 0.0190217
+280, 0.0188356
+281, 0.0192983
+282, 0.0190305
+283, 0.0190325
+284, 0.0094926
+285, 0.0221907
+286, 0.0193881
+287, 0.0185031
+288, 0.0227391
+289, 0.0185446
+290, 0.0180164
+291, 0.0164669
+292, 0.0184641
+293, 0.0176318
+294, 0.0207931
+295, 0.0194011
+296, 0.0188169
+297, 0.0183093
+298, 0.0094648
+299, 0.0219322
+300, 0.0181248
+301, 0.0176379
+302, 0.0176288
+303, 0.0177279
+304, 0.0181391
+305, 0.018867
+306, 0.0093991
+307, 0.0212302
+308, 0.0189914
+309, 0.0185655
+310, 0.0180243
+311, 0.0191852
+312, 0.0182792
+313, 0.0207597
+314, 0.0194515
+315, 0.0195149
+316, 0.0180973
+317, 0.0179752
+318, 0.0129553
+319, 0.015613
+320, 0.0184005
+321, 0.0191928
+322, 0.0184918
+323, 0.0185581
+324, 0.018286
+325, 0.0134425
+326, 0.0152518
+327, 0.018207
+328, 0.0184699
+329, 0.018589
+330, 0.0202433
+331, 0.0184334
+332, 0.0188179
+333, 0.0181878
+334, 0.0091807
+335, 0.0188276
+336, 0.0227121
+337, 0.014868
+338, 0.0182781
+339, 0.0241791
+340, 0.008637
+341, 0.016902
+342, 0.0093297
+343, 0.023667
+344, 0.0195283
+345, 0.015907
+346, 0.0184413
+347, 0.0129015
+348, 0.0194658
+349, 0.0195096
+350, 0.0188176
+351, 0.019011
+352, 0.0179009
+353, 0.0181713
+354, 0.0191069
+355, 0.0186986
+356, 0.0190829
+357, 0.0178259
+358, 0.0190201
+359, 0.0095044
+360, 0.0204295
+361, 0.0234569
+362, 0.0144286
+363, 0.0182236
+364, 0.0199935
+365, 0.0182883
+366, 0.0207673
+367, 0.0182561
+368, 0.018303
+369, 0.0184592
+370, 0.0092152
+371, 0.0209787
+372, 0.022018
+373, 0.0191639
+374, 0.0161707
+375, 0.0185125
+376, 0.0186404
+377, 0.0183269
+378, 0.0192353
+379, 0.0185284
+380, 0.018114
+381, 0.013904
+382, 0.0147033
+383, 0.0188049
+384, 0.0182775
+385, 0.0195815
+386, 0.01931
+387, 0.0184782
+388, 0.0189163
+389, 0.0139446
+390, 0.0171083
+391, 0.0190816
+392, 0.0186036
+393, 0.0195059
+394, 0.0177112
+395, 0.0172988
+396, 0.0177211
+397, 0.0181912
+398, 0.0090785
+399, 0.0213262
+400, 0.0188354
+401, 0.0185885
+402, 0.0190998
+403, 0.0192645
+404, 0.0184227
+405, 0.0184653
+406, 0.0212203
+407, 0.0180853
+408, 0.0203242
+409, 0.018046
+410, 0.0175712
+411, 0.0088813
+412, 0.0198159
+413, 0.0180994
+414, 0.0182345
+415, 0.0187359
+416, 0.018527
+417, 0.017591
+418, 0.0123923
+419, 0.0236791
+420, 0.0181578
+421, 0.017673
+422, 0.0178337
+423, 0.0185843
+424, 0.019251
+425, 0.0213148
+426, 0.0184473
+427, 0.0181938
+428, 0.0190921
+429, 0.0204218
+430, 0.0184698
+431, 0.0183554
+432, 0.0091375
+433, 0.0167276
+434, 0.0229261
+435, 0.0187876
+436, 0.0182319
+437, 0.0188095
+438, 0.0142354
+439, 0.0320136
+440, 0.0120014
+441, 0.0374235
+442, 0.0134479
+443, 0.0179211
+444, 0.0187776
+445, 0.0209513
+446, 0.0186684
+447, 0.0179338
+448, 0.0182118
+449, 0.0180788
+450, 0.0182241
+451, 0.0220767
+452, 0.0192781
+453, 0.0174593
+454, 0.0175652
+455, 0.0091948
+456, 0.0197104
+457, 0.0229081
+458, 0.0133472
+459, 0.0238718
+460, 0.0133022
+461, 0.0251148
+462, 0.0091283
+463, 0.0336976
+464, 0.0134946
+465, 0.034593
+466, 0.0224274
+467, 0.0089336
+468, 0.0198129
+469, 0.0184411
+470, 0.0196037
+471, 0.0217489
+472, 0.0185645
+473, 0.01805
+474, 0.0186577
+475, 0.017833
+476, 0.0180531
+477, 0.0089573
+478, 0.0166939
+479, 0.0228544
+480, 0.0184057
+481, 0.0202125
+482, 0.0186601
+483, 0.0124915
+484, 0.0190868
+485, 0.009907
+486, 0.0219644
+487, 0.0191212
+488, 0.0186014
+489, 0.0181041
+490, 0.0175793
+491, 0.0176061
+492, 0.0113354
+493, 0.0184047
+494, 0.0200696
+495, 0.0195581
+496, 0.0190616
+497, 0.0185806
+498, 0.0180801
+499, 0.0180629
+500, 0.0183988
+501, 0.0187798
+502, 0.0096428
+503, 0.0205033
+504, 0.0234354
+505, 0.0184334
+506, 0.0183057
+507, 0.0209806
+508, 0.0204946
+509, 0.0210425
+510, 0.0198032
+511, 0.0183433
+512, 0.0186659
+513, 0.0177532
+514, 0.0186734
+515, 0.0177985
+516, 0.0179369
+517, 0.0182792
+518, 0.0091052
+519, 0.0191883
+520, 0.0228987
+521, 0.0136576
+522, 0.0239002
+523, 0.0126656
+524, 0.0250587
+525, 0.0090805
+526, 0.0342882
+527, 0.0136829
+528, 0.0355455
+529, 0.0117201
+530, 0.016153
+531, 0.0184481
+532, 0.0181724
+533, 0.0187991
+534, 0.0182946
+535, 0.017481
+536, 0.0083951
+537, 0.0240115
+538, 0.0128372
+539, 0.0160053
+540, 0.017528
+541, 0.0100347
+542, 0.0195635
+543, 0.0182828
+544, 0.0215811
+545, 0.0143434
+546, 0.0183515
+547, 0.012274
+548, 0.0167828
+549, 0.0179106
+550, 0.0201355
+551, 0.0183584
+552, 0.0181654
+553, 0.0182049
+554, 0.0182289
+555, 0.0090875
+556, 0.0192049
+557, 0.0224074
+558, 0.0143505
+559, 0.0234189
+560, 0.0143063
+561, 0.0243972
+562, 0.0085931
+563, 0.0341939
+564, 0.0135469
+565, 0.0348211
+566, 0.0224654
+567, 0.0089102
+568, 0.0199184
+569, 0.0179786
+570, 0.0161295
+571, 0.0182448
+572, 0.0178558
+573, 0.0125177
+574, 0.0178068
+575, 0.0188466
+576, 0.0155535
+577, 0.0195617
+578, 0.0179921
+579, 0.0180548
+580, 0.0131073
+581, 0.015787
+582, 0.0188779
+583, 0.0198388
+584, 0.0189441
+585, 0.0182855
+586, 0.0181487
+587, 0.0187067
+588, 0.0177072
+589, 0.0172147
+590, 0.0125886
+591, 0.0232221
+592, 0.0182528
+593, 0.0178588
+594, 0.0176391
+595, 0.0176238
+596, 0.0178166
+597, 0.0189601
+598, 0.0094505
+599, 0.0213208
+600, 0.0182826
+601, 0.0188036
+602, 0.0183204
+603, 0.0192443
+604, 0.0186752
+605, 0.0168329
+606, 0.017791
+607, 0.0131348
+608, 0.0164668
+609, 0.0183246
+610, 0.0141441
+611, 0.0128473
+612, 0.0098868
+613, 0.0174943
+614, 0.0200541
+615, 0.0104816
+616, 0.0180953
+617, 0.0190124
+618, 0.0185271
+619, 0.0192447
+620, 0.0197268
+621, 0.0182491
+622, 0.0189061
+623, 0.0180399
+624, 0.0178518
+625, 0.0089228
+626, 0.0197732
+627, 0.0139653
+628, 0.022828
+629, 0.0083393
+630, 0.0392948
+631, 0.0134163
+632, 0.0211333
+633, 0.0232509
+634, 0.0222161
+635, 0.0125895
+636, 0.0204587
+637, 0.0199487
+638, 0.0194336
+639, 0.010619
+640, 0.0265306
+641, 0.0095867
+642, 0.0267944
+643, 0.0130333
+644, 0.0125142
+645, 0.0167729
+646, 0.0179466
+647, 0.0106868
+648, 0.0182343
+649, 0.0195535
+650, 0.0182475
+651, 0.0175519
+652, 0.0190589
+653, 0.0182217
+654, 0.0090663
+655, 0.0167035
+656, 0.0226228
+657, 0.0147243
+658, 0.0181749
+659, 0.0089952
+660, 0.0089572
+661, 0.0252726
+662, 0.0099221
+663, 0.0345489
+664, 0.0130703
+665, 0.0352616
+666, 0.0246384
+667, 0.0092187
+668, 0.0195023
+669, 0.0181833
+670, 0.0188349
+671, 0.0185284
+672, 0.0187158
+673, 0.0184663
+674, 0.0187248
+675, 0.0203318
+676, 0.0182298
+677, 0.0122503
+678, 0.0096549
+679, 0.0259773
+680, 0.0109826
+681, 0.017191
+682, 0.0108463
+683, 0.0180228
+684, 0.0188532
+685, 0.0227273
+686, 0.0160115
+687, 0.0186958
+688, 0.0181691
+689, 0.0083915
+690, 0.0150746
+691, 0.0185618
+692, 0.0183942
+693, 0.0178471
+694, 0.0089965
+695, 0.0202975
+696, 0.0181759
+697, 0.0178483
+698, 0.0214002
+699, 0.0181076
+700, 0.0084802
+701, 0.0147297
+702, 0.00941
+703, 0.0251173
+704, 0.0091204
+705, 0.0255469
+706, 0.0129512
+707, 0.0209424
+708, 0.0203305
+709, 0.0197686
+710, 0.0193096
+711, 0.0187704
+712, 0.0127838
+713, 0.0129146
+714, 0.0125341
+715, 0.0159526
+716, 0.0183515
+717, 0.0088935
+718, 0.0247973
+719, 0.0126742
+720, 0.0205642
+721, 0.0199693
+722, 0.0195202
+723, 0.0190312
+724, 0.0185054
+725, 0.0179977
+726, 0.009596
+727, 0.025839
+728, 0.0103082
+729, 0.0217265
+730, 0.0219605
+731, 0.0209464
+732, 0.0203345
+733, 0.0198149
+734, 0.0193209
+735, 0.0188302
+736, 0.0198564
+737, 0.0188372
+738, 0.0168279
+739, 0.0188783
+740, 0.01733
+741, 0.0177086
+742, 0.0176939
+743, 0.0134248
+744, 0.0153043
+745, 0.0189623
+746, 0.0191175
+747, 0.0139307
+748, 0.0129078
+749, 0.0124806
+750, 0.0119874
+751, 0.0178543
+752, 0.0113657
+753, 0.0171757
+754, 0.0185244
+755, 0.0177512
+756, 0.011301
+757, 0.0179702
+758, 0.0188282
+759, 0.0192605
+760, 0.0186529
+761, 0.018203
+762, 0.0195185
+763, 0.0179303
+764, 0.0175599
+765, 0.0089799
+766, 0.0166974
+767, 0.0131906
+768, 0.0229394
+769, 0.0083481
+770, 0.0149324
+771, 0.0241872
+772, 0.013849
+773, 0.0125915
+774, 0.0095714
+775, 0.0178474
+776, 0.0207563
+777, 0.0108869
+778, 0.0172165
+779, 0.0195816
+780, 0.0181364
+781, 0.0176233
+782, 0.0205414
+783, 0.0178709
+784, 0.0188801
+785, 0.0184173
+786, 0.0177267
+787, 0.0171983
+788, 0.008325
+789, 0.0237197
+790, 0.0193486
+791, 0.0188442
+792, 0.0184116
+793, 0.0181732
+794, 0.0130536
+795, 0.0175039
+796, 0.0131899
+797, 0.013094
+798, 0.016289
+799, 0.012405
+800, 0.0156621
+801, 0.0182177
+802, 0.0198819
+803, 0.0187439
+804, 0.0182318
+805, 0.0093712
+806, 0.0191384
+807, 0.0241071
+808, 0.0182068
+809, 0.0177413
+810, 0.017386
+811, 0.0176071
+812, 0.0179115
+813, 0.0121973
+814, 0.0102674
+815, 0.0169077
+816, 0.0191989
+817, 0.0109424
+818, 0.0178842
+819, 0.0207787
+820, 0.0156011
+821, 0.0187632
+822, 0.019246
+823, 0.0173863
+824, 0.0168436
+825, 0.0126026
+826, 0.0153259
+827, 0.0180728
+828, 0.0133277
+829, 0.0181209
+830, 0.0128302
+831, 0.0163558
+832, 0.0189088
+833, 0.0182861
+834, 0.0174246
+835, 0.0126272
+836, 0.0156185
+837, 0.0201388
+838, 0.018469
+839, 0.0200715
+840, 0.0184911
+841, 0.0187803
+842, 0.0177285
+843, 0.0089068
+844, 0.0200056
+845, 0.0192285
+846, 0.0184832
+847, 0.0184566
+848, 0.0202274
+849, 0.0181198
+850, 0.0175296
+851, 0.0142527
+852, 0.0112604
+853, 0.0294803
+854, 0.0106299
+855, 0.0177363
+856, 0.0188967
+857, 0.0184272
+858, 0.0187619
+859, 0.0093577
+860, 0.0214923
+861, 0.0219674
+862, 0.0112439
+863, 0.0230103
+864, 0.0151346
+865, 0.0166549
+866, 0.0139824
+867, 0.0102245
+868, 0.0262682
+869, 0.0096994
+870, 0.0180863
+871, 0.0117581
+872, 0.0218144
+873, 0.0140138
+874, 0.0182066
+875, 0.0233287
+876, 0.0181726
+877, 0.0176805
+878, 0.0175095
+879, 0.0173674
+880, 0.008977
+881, 0.021749
+882, 0.0194745
+883, 0.0189646
+884, 0.0184768
+885, 0.0179787
+886, 0.0174285
+887, 0.0124549
+888, 0.0101461
+889, 0.0272994
+890, 0.0101577
+891, 0.0182783
+892, 0.009119
+893, 0.0209122
+894, 0.0182892
+895, 0.017893
+896, 0.0138681
+897, 0.0183955
+898, 0.0130461
+899, 0.0158073
+900, 0.0125577
+901, 0.0181954
+902, 0.0121986
+903, 0.016132
+904, 0.0180387
+905, 0.017993
+906, 0.0175358
+907, 0.011547
+908, 0.0128386
+909, 0.0176594
+910, 0.0181536
+911, 0.01146
+912, 0.0179608
+913, 0.0191272
+914, 0.0187707
+915, 0.0177469
+916, 0.0135308
+917, 0.0174759
+918, 0.0100476
+919, 0.027546
+920, 0.0097617
+921, 0.0204327
+922, 0.0188022
+923, 0.0181401
+924, 0.0090596
+925, 0.0218672
+926, 0.0191109
+927, 0.01864
+928, 0.0114807
+929, 0.0174621
+930, 0.0102621
+931, 0.0178662
+932, 0.0207506
+933, 0.0174123
+934, 0.0184189
+935, 0.0188164
+936, 0.0093526
+937, 0.0204788
+938, 0.0183262
+939, 0.0132077
+940, 0.0168607
+941, 0.0102481
+942, 0.0276712
+943, 0.0103681
+944, 0.0194105
+945, 0.0177546
+946, 0.0138671
+947, 0.0176717
+948, 0.0112139
+949, 0.0179497
+950, 0.0209554
+951, 0.016554
+952, 0.0180108
+953, 0.0181835
+954, 0.0124937
+955, 0.0121737
+956, 0.0172332
+957, 0.0175965
+958, 0.0127213
+959, 0.0162874
+960, 0.0188817
+961, 0.0182214
+962, 0.0201957
+963, 0.0187588
+964, 0.0184157
+965, 0.0186675
+966, 0.0092907
+967, 0.0167028
+968, 0.02305
+969, 0.0185621
+970, 0.0180463
+971, 0.0179039
+972, 0.0177931
+973, 0.0117121
+974, 0.0104702
+975, 0.0139241
+976, 0.0178245
+977, 0.010424
+978, 0.0138217
+979, 0.0180435
+980, 0.0104989
+981, 0.0176955
+982, 0.018368
+983, 0.0183307
+984, 0.0190108
+985, 0.0227592
+986, 0.0119159
+987, 0.0322923
+988, 0.0125029
+989, 0.0366846
+990, 0.0113539
+991, 0.0261535
+992, 0.0234994
+993, 0.0169865
+994, 0.0174066
+995, 0.0179792
+996, 0.0175497
+997, 0.0108051
+998, 0.0174023
+999, 0.0108975
+1000, 0.0184053
+1001, 0.0184503
+1002, 0.0157914
+1003, 0.0181046
+1004, 0.0116367
+1005, 0.0168671
+1006, 0.0178802
+1007, 0.0178888
+1008, 0.01774
+1009, 0.0175983
+1010, 0.0126538
+1011, 0.0161595
+1012, 0.018547
+1013, 0.0174325
+1014, 0.0173665
+1015, 0.0125562
+1016, 0.0125821
+1017, 0.0121091
+1018, 0.014886
+1019, 0.0111867
+1020, 0.0110809
+1021, 0.017657
+1022, 0.0110689
+1023, 0.0140042
+1024, 0.0165077
+1025, 0.0100284
+1026, 0.0128217
+1027, 0.0113154
+1028, 0.0104255
+1029, 0.0122006
+1030, 0.0092237
+1031, 0.0245551
+1032, 0.0087999
+1033, 0.0315005
+1034, 0.0126005
+1035, 0.0211622
+1036, 0.0105983
+1037, 0.0114838
+1038, 0.0219594
+1039, 0.0083427
+1040, 0.0269614
+1041, 0.0156651
+1042, 0.0083483
+1043, 0.0217792
+1044, 0.0108055
+1045, 0.0117432
+1046, 0.0119958
+1047, 0.0100859
+1048, 0.0106659
+1049, 0.0117914
+1050, 0.009464
+1051, 0.0238273
+1052, 0.0083671
+1053, 0.0300778
+1054, 0.0118799
+1055, 0.0339684
+1056, 0.0152816
+1057, 0.0215447
+1058, 0.0112807
+1059, 0.0115242
+1060, 0.0094496
+1061, 0.0230975
+1062, 0.0083383
+1063, 0.0137077
+1064, 0.0157574
+1065, 0.0173409
+1066, 0.0097582
+1067, 0.0171019
+1068, 0.0192855
+1069, 0.0125187
+1070, 0.018525
+1071, 0.0107527
+1072, 0.0121378
+1073, 0.0123096
+1074, 0.0107412
+1075, 0.0159496
+1076, 0.010549
+1077, 0.0116997
+1078, 0.0160181
+1079, 0.010087
+1080, 0.016786
+1081, 0.0185851
+1082, 0.0088024
+1083, 0.0280669
+1084, 0.0083459
+1085, 0.0194546
+1086, 0.0188436
+1087, 0.0183708
+1088, 0.012336
+1089, 0.0097807
+1090, 0.0174311
+1091, 0.0198202
+1092, 0.0102213
+1093, 0.0173595
+1094, 0.0219015
+1095, 0.0192355
+1096, 0.0083573
+1097, 0.0245239
+1098, 0.0126774
+1099, 0.0114801
+1100, 0.0135718
+1101, 0.0123445
+1102, 0.0103284
+1103, 0.0114325
+1104, 0.0105642
+1105, 0.0129075
+1106, 0.0163722
+1107, 0.0087669
+1108, 0.0182722
+1109, 0.0096343
+1110, 0.0126334
+1111, 0.0164137
+1112, 0.0178757
+1113, 0.0089001
+1114, 0.0135328
+1115, 0.0123204
+1116, 0.010373
+1117, 0.0168496
+1118, 0.0094912
+1119, 0.0175481
+1120, 0.01891
+1121, 0.0167253
+1122, 0.0167887
+1123, 0.0107893
+1124, 0.0118535
+1125, 0.0165426
+1126, 0.0108089
+1127, 0.0173682
+1128, 0.0109726
+1129, 0.0177988
+1130, 0.0107907
+1131, 0.0124446
+1132, 0.0157743
+1133, 0.0101773
+1134, 0.0130288
+1135, 0.0116477
+1136, 0.0097252
+1137, 0.01697
+1138, 0.0096802
+1139, 0.0171755
+1140, 0.0191702
+1141, 0.0090659
+1142, 0.0251707
+1143, 0.0123976
+1144, 0.0146325
+1145, 0.0174338
+1146, 0.016636
+1147, 0.0121577
+1148, 0.0147911
+1149, 0.0117306
+1150, 0.017768
+1151, 0.0115643
+1152, 0.0110531
+1153, 0.0160544
+1154, 0.0104869
+1155, 0.0164546
+1156, 0.0099644
+1157, 0.0174505
+1158, 0.0112117
+1159, 0.0165438
+1160, 0.009414
+1161, 0.017494
+1162, 0.0171955
+1163, 0.0103112
+1164, 0.0135132
+1165, 0.0102753
+1166, 0.0101375
+1167, 0.0123349
+1168, 0.0096795
+1169, 0.0260118
+1170, 0.0098283
+1171, 0.0114698
+1172, 0.0104723
+1173, 0.0114094
+1174, 0.010582
+1175, 0.0121614
+1176, 0.01513
+1177, 0.016695
+1178, 0.008325
+1179, 0.0139288
+1180, 0.0089399
+1181, 0.0135636
+1182, 0.0103526
+1183, 0.0123496
+1184, 0.0121496
+1185, 0.0103127
+1186, 0.0122616
+1187, 0.0099564
+1188, 0.013067
+1189, 0.0097326
+1190, 0.0241394
+1191, 0.0104305
+1192, 0.0120025
+1193, 0.0100747
+1194, 0.0124902
+1195, 0.0093161
+1196, 0.0245011
+1197, 0.008683
+1198, 0.0303366
+1199, 0.0119257
+1200, 0.0220722
+1201, 0.0128233
+1202, 0.0222885
+1203, 0.0083494
+1204, 0.0142434
+1205, 0.0112219
+1206, 0.0099865
+1207, 0.0118427
+1208, 0.0104397
+1209, 0.0244184
+1210, 0.0086359
+1211, 0.0265211
+1212, 0.0159224
+1213, 0.0120308
+1214, 0.0115931
+1215, 0.0109437
+1216, 0.0101321
+1217, 0.0116081
+1218, 0.0097732
+1219, 0.0234954
+1220, 0.0083869
+1221, 0.0241066
+1222, 0.0130203
+1223, 0.0093158
+1224, 0.0225002
+1225, 0.0083459
+1226, 0.0232573
+1227, 0.0129888
+1228, 0.0213826
+1229, 0.0106838
+1230, 0.0124989
+1231, 0.0121574
+1232, 0.0116674
+1233, 0.011162
+1234, 0.0107611
+1235, 0.0163882
+1236, 0.010133
+1237, 0.0176166
+1238, 0.019402
+1239, 0.009281
+1240, 0.0141845
+1241, 0.0186801
+1242, 0.0089629
+1243, 0.0257828
+1244, 0.0105258
+1245, 0.0137231
+1246, 0.0111347
+1247, 0.0097247
+1248, 0.0135253
+1249, 0.0113002
+1250, 0.0092334
+1251, 0.0229761
+1252, 0.0083606
+1253, 0.0137194
+1254, 0.0113108
+1255, 0.0094674
+1256, 0.0243671
+1257, 0.0100432
+1258, 0.0169256
+1259, 0.0096089
+1260, 0.0129948
+1261, 0.0163261
+1262, 0.0101824
+1263, 0.0165402
+1264, 0.0164726
+1265, 0.0102845
+1266, 0.0170569
+1267, 0.0116916
+1268, 0.0170291
+1269, 0.0102815
+1270, 0.0178211
+1271, 0.0100343
+1272, 0.0103338
+1273, 0.0166486
+1274, 0.0103216
+1275, 0.0120257
+1276, 0.0171702
+1277, 0.0098136
+1278, 0.0173027
+1279, 0.0196002
+1280, 0.009328
+1281, 0.0131634
+1282, 0.0095913
+1283, 0.0169621
+1284, 0.0095908
+1285, 0.0132463
+1286, 0.0104968
+1287, 0.0095501
+1288, 0.0168942
+1289, 0.0100873
+1290, 0.0169068
+1291, 0.0174066
+1292, 0.0094326
+1293, 0.0248545
+1294, 0.0089462
+1295, 0.0127767
+1296, 0.010014
+1297, 0.0277172
+1298, 0.0098777
+1299, 0.0117516
+1300, 0.0102511
+1301, 0.011617
+1302, 0.0162002
+1303, 0.0102816
+1304, 0.0118879
+1305, 0.0098915
+1306, 0.0167915
+1307, 0.0165328
+1308, 0.0095881
+1309, 0.0132922
+1310, 0.0120095
+1311, 0.0094433
+1312, 0.0245009
+1313, 0.0087128
+1314, 0.0249398
+1315, 0.0132486
+1316, 0.0094841
+1317, 0.0123687
+1318, 0.0112656
+1319, 0.0230456
+1320, 0.0122705
+1321, 0.0109192
+1322, 0.0095306
+1323, 0.0165819
+1324, 0.009018
+1325, 0.0189884
+1326, 0.0117258
+1327, 0.0162678
+1328, 0.012013
+1329, 0.0119524
+1330, 0.0120498
+1331, 0.0100865
+1332, 0.0164551
+1333, 0.0096736
+1334, 0.0172497
+1335, 0.01937
+1336, 0.0172351
+1337, 0.0097186
+1338, 0.0179858
+1339, 0.0205404
+1340, 0.0163138
+1341, 0.0180243
+1342, 0.0180387
+1343, 0.0121358
+1344, 0.015825
+1345, 0.0180766
+1346, 0.0181118
+1347, 0.0186003
+1348, 0.0183735
+1349, 0.0174876
+1350, 0.0132596
+1351, 0.0127223
+1352, 0.01704
+1353, 0.0176375
+1354, 0.012238
+1355, 0.0165796
+1356, 0.0186524
+1357, 0.0124941
+1358, 0.0131464
+1359, 0.0112143
+1360, 0.0174223
+1361, 0.0174701
+1362, 0.0110239
+1363, 0.0171613
+1364, 0.0191915
+1365, 0.021603
+1366, 0.0111797
+1367, 0.0120957
+1368, 0.0112148
+1369, 0.0117894
+1370, 0.0106654
+1371, 0.0182054
+1372, 0.0183042
+1373, 0.0094331
+1374, 0.0217124
+1375, 0.0181329
+1376, 0.0176673
+1377, 0.0171389
+1378, 0.0174603
+1379, 0.017856
+1380, 0.0091039
+1381, 0.0192679
+1382, 0.0135181
+1383, 0.0123819
+1384, 0.0105237
+1385, 0.0151775
+1386, 0.0244514
+1387, 0.0086509
+1388, 0.0334623
+1389, 0.0133437
+1390, 0.0338257
+1391, 0.0109442
+1392, 0.0351083
+1393, 0.0130204
+1394, 0.0191695
+1395, 0.0205342
+1396, 0.017852
+1397, 0.0168907
+1398, 0.0187478
+1399, 0.018474
+1400, 0.0129569
+1401, 0.0123234
+1402, 0.0119893
+1403, 0.0160155
+1404, 0.0116728
+1405, 0.0171938
+1406, 0.0144899
+1407, 0.0124594
+1408, 0.0106675
+1409, 0.0178781
+1410, 0.0182971
+1411, 0.0104287
+1412, 0.0208544
+1413, 0.0115733
+1414, 0.0176543
+1415, 0.017977
+1416, 0.0108592
+1417, 0.0131721
+1418, 0.017793
+1419, 0.0180741
+1420, 0.0113215
+1421, 0.0133787
+1422, 0.017279
+1423, 0.0174102
+1424, 0.0111204
+1425, 0.0174174
+1426, 0.0174045
+1427, 0.0181064
+1428, 0.0174074
+1429, 0.0118714
+1430, 0.0176257
+1431, 0.0184156
+1432, 0.01788
+1433, 0.0093806
+1434, 0.0173301
+1435, 0.0097932
+1436, 0.0192836
+1437, 0.0095433
+1438, 0.0263468
+1439, 0.0126101
+1440, 0.0204367
+1441, 0.0115868
+1442, 0.0193304
+1443, 0.0100819
+1444, 0.0275166
+1445, 0.0187884
+1446, 0.0183364
+1447, 0.0187549
+1448, 0.0182741
+1449, 0.0178322
+1450, 0.017342
+1451, 0.0169361
+1452, 0.0174002
+1453, 0.017473
+1454, 0.008348
+1455, 0.0146653
+1456, 0.0186539
+1457, 0.0181626
+1458, 0.0093335
+1459, 0.013547
+1460, 0.0167143
+1461, 0.0144475
+1462, 0.016665
+1463, 0.0118912
+1464, 0.0240742
+1465, 0.0083868
+1466, 0.0334749
+1467, 0.0129389
+1468, 0.035248
+1469, 0.0108594
+1470, 0.0342619
+1471, 0.0262613
+1472, 0.0093462
+1473, 0.0311824
+1474, 0.0099624
+1475, 0.0263352
+1476, 0.0154543
+1477, 0.022048
+1478, 0.0135849
+1479, 0.0218375
+1480, 0.0181189
+1481, 0.0093157
+1482, 0.0264937
+1483, 0.0116655
+1484, 0.0194715
+1485, 0.0116249
+1486, 0.0175329
+1487, 0.0100513
+1488, 0.0195515
+1489, 0.0098927
+1490, 0.0269549
+1491, 0.012581
+1492, 0.014586
+1493, 0.0130151
+1494, 0.012522
+1495, 0.0120592
+1496, 0.0115353
+1497, 0.0118025
+1498, 0.0106597
+1499, 0.0165561
+1500, 0.0099969
+1501, 0.013554
+1502, 0.0118203
+1503, 0.0097274
+1504, 0.0127953
+1505, 0.0111859
+1506, 0.0130609
+1507, 0.0164181
+1508, 0.0177611
+1509, 0.0083988
+1510, 0.0257762
+1511, 0.0108949
+1512, 0.0279357
+1513, 0.0120697
+1514, 0.0211446
+1515, 0.0102266
+1516, 0.0118913
+1517, 0.0117907
+1518, 0.0101236
+1519, 0.0121538
+1520, 0.0100015
+1521, 0.0117692
+1522, 0.009098
+1523, 0.0232286
+1524, 0.0083381
+1525, 0.0242345
+1526, 0.0112067
+1527, 0.0109668
+1528, 0.0111144
+1529, 0.0101826
+1530, 0.0127132
+1531, 0.0094099
+1532, 0.0229559
+1533, 0.0083747
+1534, 0.0145863
+1535, 0.0096299
+1536, 0.0166115
+1537, 0.0170268
+1538, 0.013253
+1539, 0.0122474
+1540, 0.0118909
+1541, 0.0099368
+1542, 0.0118231
+1543, 0.010099
+1544, 0.01248
+1545, 0.0141028
+1546, 0.010274
+1547, 0.0164974
+1548, 0.010001
+1549, 0.0164294
+1550, 0.0176972
+1551, 0.0112086
+1552, 0.0104762
+1553, 0.0118414
+1554, 0.0090963
+1555, 0.0129882
+1556, 0.0170054
+1557, 0.0174125
+1558, 0.0092294
+1559, 0.0167133
+1560, 0.0193609
+1561, 0.0083401
+1562, 0.0236702
+1563, 0.0120423
+1564, 0.009602
+1565, 0.0095157
+1566, 0.0123197
+1567, 0.0098337
+1568, 0.0126734
+1569, 0.009657
+1570, 0.0157915
+1571, 0.0172889
+1572, 0.0094288
+1573, 0.0130782
+1574, 0.0110823
+1575, 0.0093198
+1576, 0.0131048
+1577, 0.0086956
+1578, 0.0133718
+1579, 0.0098782
+1580, 0.0242352
+1581, 0.008363
+1582, 0.0134383
+1583, 0.0090827
+1584, 0.0162686
+1585, 0.0175225
+1586, 0.0103897
+1587, 0.0118949
+1588, 0.0107947
+1589, 0.0105118
+1590, 0.011735
+1591, 0.0093471
+1592, 0.0124848
+1593, 0.0104243
+1594, 0.0117721
+1595, 0.0093203
+1596, 0.0121099
+1597, 0.0099643
+1598, 0.0233943
+1599, 0.0107612
+1600, 0.0113665
+1601, 0.0096629
+1602, 0.01586
+1603, 0.0167333
+1604, 0.0083792
+1605, 0.013914
+1606, 0.010476
+1607, 0.0166344
+1608, 0.0110396
+1609, 0.0091538
+1610, 0.0168636
+1611, 0.0176427
+1612, 0.0085561
+1613, 0.0137525
+1614, 0.0116708
+1615, 0.0104129
+1616, 0.0118316
+1617, 0.009066
+1618, 0.0165707
+1619, 0.017729
+1620, 0.008345
+1621, 0.0257152
+1622, 0.0117683
+1623, 0.0101723
+1624, 0.0096137
+1625, 0.0235809
+1626, 0.0083365
+1627, 0.0249635
+1628, 0.0151277
+1629, 0.008334
+1630, 0.013556
+1631, 0.0098739
+1632, 0.022678
+1633, 0.00836
+1634, 0.0135801
+1635, 0.0104334
+1636, 0.0119148
+1637, 0.0112428
+1638, 0.0117588
+1639, 0.0103674
+1640, 0.0099542
+1641, 0.0115581
+1642, 0.0101102
+1643, 0.0113478
+1644, 0.0091834
+1645, 0.0127391
+1646, 0.0100557
+1647, 0.0117998
+1648, 0.0098038
+1649, 0.023173
+1650, 0.0083751
+1651, 0.0255087
+1652, 0.0148695
+1653, 0.008325
+1654, 0.0222268
+1655, 0.0100219
+1656, 0.0216342
+1657, 0.0120169
+1658, 0.0127625
+1659, 0.0103115
+1660, 0.0117297
+1661, 0.0116068
+1662, 0.0103683
+1663, 0.0095393
+1664, 0.0125111
+1665, 0.0094315
+1666, 0.0123794
+1667, 0.0095946
+1668, 0.0232939
+1669, 0.008325
+1670, 0.0140696
+1671, 0.0116502
+1672, 0.0108047
+1673, 0.0095034
+1674, 0.0127878
+1675, 0.0092069
+1676, 0.0127625
+1677, 0.009411
+1678, 0.0129113
+1679, 0.0097733
+1680, 0.0139469
+1681, 0.0102187
+1682, 0.0089858
+1683, 0.023405
+1684, 0.0083355
+1685, 0.0241188
+1686, 0.0117836
+1687, 0.0103018
+1688, 0.0113741
+1689, 0.0097775
+1690, 0.0117598
+1691, 0.0091324
+1692, 0.0130936
+1693, 0.0090075
+1694, 0.023614
+1695, 0.0083841
+1696, 0.0138253
+1697, 0.0244024
+1698, 0.0085953
+1699, 0.0132477
+1700, 0.0110499
+1701, 0.0164939
+1702, 0.0097838
+1703, 0.0128068
+1704, 0.0107729
+1705, 0.0105249
+1706, 0.0115626
+1707, 0.0118763
+1708, 0.0110086
+1709, 0.0104479
+1710, 0.0110789
+1711, 0.0109364
+1712, 0.0093294
+1713, 0.0126011
+1714, 0.0101155
+1715, 0.0130313
+1716, 0.0092157
+1717, 0.0232942
+1718, 0.0110122
+1719, 0.0106613
+1720, 0.0094619
+1721, 0.012019
+1722, 0.0096288
+1723, 0.0125662
+1724, 0.0095437
+1725, 0.0121088
+1726, 0.0092554
+1727, 0.0133881
+1728, 0.00965
+1729, 0.0133192
+1730, 0.0105993
+1731, 0.0092122
+1732, 0.0234843
+1733, 0.0083704
+1734, 0.0130965
+1735, 0.0159534
+1736, 0.01714
+1737, 0.0090178
+1738, 0.0173226
+1739, 0.0190514
+1740, 0.0163287
+1741, 0.010533
+1742, 0.0123947
+1743, 0.0109416
+1744, 0.0105314
+1745, 0.0124635
+1746, 0.0118306
+1747, 0.0098052
+1748, 0.0115597
+1749, 0.0101412
+1750, 0.0114766
+1751, 0.0100027
+1752, 0.0115655
+1753, 0.0088181
+1754, 0.0231676
+1755, 0.008325
+1756, 0.026331
+1757, 0.0150233
+1758, 0.008352
+1759, 0.0134566
+1760, 0.0100726
+1761, 0.0141603
+1762, 0.010461
+1763, 0.0108173
+1764, 0.0111699
+1765, 0.0095773
+1766, 0.0118974
+1767, 0.0102111
+1768, 0.0123745
+1769, 0.011144
+1770, 0.0099023
+1771, 0.0121685
+1772, 0.0087639
+1773, 0.0231864
+1774, 0.0083392
+1775, 0.0132126
+1776, 0.0158904
+1777, 0.0167931
+1778, 0.0128131
+1779, 0.0097947
+1780, 0.0168311
+1781, 0.0105341
+1782, 0.0120437
+1783, 0.0109085
+1784, 0.0100924
+1785, 0.0237266
+1786, 0.0083724
+1787, 0.0241396
+1788, 0.0121878
+1789, 0.0149606
+1790, 0.019187
+1791, 0.0123704
+1792, 0.0118866
+1793, 0.0116023
+1794, 0.0112113
+1795, 0.0107566
+1796, 0.0172133
+1797, 0.0103387
+1798, 0.0168226
+1799, 0.0177668
+1800, 0.019869
+1801, 0.0104279
+1802, 0.0171972
+1803, 0.0198402
+1804, 0.0185524
+1805, 0.0083661
+1806, 0.0235969
+1807, 0.0118038
+1808, 0.0215973
+1809, 0.0118783
+1810, 0.0113428
+1811, 0.0166687
+1812, 0.0083434
+1813, 0.0148252
+1814, 0.0100249
+1815, 0.0161344
+1816, 0.0173147
+1817, 0.0086363
+1818, 0.0138935
+1819, 0.0161114
+1820, 0.0092985
+1821, 0.017233
+1822, 0.0174857
+1823, 0.0099437
+1824, 0.0103219
+1825, 0.0196046
+1826, 0.0097246
+1827, 0.0121687
+1828, 0.0118147
+1829, 0.0111618
+1830, 0.010023
+1831, 0.0116333
+1832, 0.0098206
+1833, 0.0115469
+1834, 0.009015
+1835, 0.0120443
+1836, 0.0126679
+1837, 0.0099747
+1838, 0.0241037
+1839, 0.0083396
+1840, 0.0125736
+1841, 0.0118055
+1842, 0.0093029
+1843, 0.01592
+1844, 0.0169035
+1845, 0.0085195
+1846, 0.0129046
+1847, 0.0091352
+1848, 0.0126877
+1849, 0.0091558
+1850, 0.013172
+1851, 0.0114477
+1852, 0.0113339
+1853, 0.0155934
+1854, 0.0166603
+1855, 0.010283
+1856, 0.0160499
+1857, 0.0094567
+1858, 0.0122217
+1859, 0.0162838
+1860, 0.0096351
+1861, 0.0134336
+1862, 0.017099
+1863, 0.0184745
+1864, 0.0115886
+1865, 0.0101291
+1866, 0.011788
+1867, 0.0096711
+1868, 0.0162856
+1869, 0.0092793
+1870, 0.0130296
+1871, 0.0110566
+1872, 0.008827
+1873, 0.0127065
+1874, 0.0094036
+1875, 0.0160692
+1876, 0.0166755
+1877, 0.0083619
+1878, 0.013027
+1879, 0.0095648
+1880, 0.0130166
+1881, 0.0110363
+1882, 0.0094248
+1883, 0.0122328
+1884, 0.0093304
+1885, 0.0128031
+1886, 0.0095368
+1887, 0.0239191
+1888, 0.0083673
+1889, 0.0264078
+1890, 0.0107894
+1891, 0.0219991
+1892, 0.0083512
+1893, 0.0127229
+1894, 0.010057
+1895, 0.0115276
+1896, 0.0114484
+1897, 0.011103
+1898, 0.0115081
+1899, 0.0094683
+1900, 0.012639
+1901, 0.0103957
+1902, 0.0116615
+1903, 0.009223
+1904, 0.0123717
+1905, 0.0091946
+1906, 0.0132471
+1907, 0.0108301
+1908, 0.0104077
+1909, 0.0112574
+1910, 0.0092905
+1911, 0.0126485
+1912, 0.0091901
+1913, 0.0125437
+1914, 0.0104537
+1915, 0.0115671
+1916, 0.0107922
+1917, 0.0092244
+1918, 0.0122504
+1919, 0.0092687
+1920, 0.0122203
+1921, 0.0094645
+1922, 0.0118495
+1923, 0.010132
+1924, 0.0113499
+1925, 0.0094547
+1926, 0.0230428
+1927, 0.0083438
+1928, 0.0297294
+1929, 0.011887
+1930, 0.010439
+1931, 0.0124058
+1932, 0.0109424
+1933, 0.0110037
+1934, 0.0118524
+1935, 0.0090826
+1936, 0.0231525
+1937, 0.0083663
+1938, 0.0140971
+1939, 0.0104377
+1940, 0.0161901
+1941, 0.0172745
+1942, 0.0095502
+1943, 0.0170734
+1944, 0.0191645
+1945, 0.0099779
+1946, 0.0130107
+1947, 0.0100601
+1948, 0.0100771
+1949, 0.0116552
+1950, 0.0103954
+1951, 0.0160249
+1952, 0.0100448
+1953, 0.0119602
+1954, 0.0116879
+1955, 0.0105031
+1956, 0.0114083
+1957, 0.0105421
+1958, 0.0107146
+1959, 0.0099238
+1960, 0.0238233
+1961, 0.0107751
+1962, 0.0243876
+1963, 0.0085983
+1964, 0.0131845
+1965, 0.0119037
+1966, 0.0107378
+1967, 0.0100833
+1968, 0.0116644
+1969, 0.0096173
+1970, 0.0166069
+1971, 0.0095393
+1972, 0.0127135
+1973, 0.0101908
+1974, 0.0093292
+1975, 0.0123318
+1976, 0.0096396
+1977, 0.0235674
+1978, 0.0083616
+1979, 0.0242119
+1980, 0.0120899
+1981, 0.0120642
+1982, 0.0115892
+1983, 0.011267
+1984, 0.0147176
+1985, 0.0107472
+1986, 0.0115101
+1987, 0.0106835
+1988, 0.009305
+1989, 0.0118297
+1990, 0.0098901
+1991, 0.0138593
+1992, 0.010181
+1993, 0.0122359
+1994, 0.0111328
+1995, 0.0100201
+1996, 0.0234942
+1997, 0.008325
+1998, 0.0240456
+1999, 0.0117193
