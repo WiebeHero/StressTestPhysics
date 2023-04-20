@@ -27,7 +27,20 @@ public class SpawnInstances : MonoBehaviour
     }
     private void Update()
     {
-        //Debug.Log("Current FPS: " + 1.0f / Time.deltaTime + ", Current time: " + Time.time);
+        /*int count = 0;
+        for (int i = 0; i < _objects.Count; i++)
+        {
+            //Debug.Log(i);
+            GameObject obj = _objects[i];
+            //Debug.Log("PosMe: " + transform.position);
+            //Debug.Log("PosOther: " +  obj.transform.position);
+            //Debug.Log("Distance: " + (transform.position - obj.transform.position).sqrMagnitude);
+            if ((transform.position - obj.transform.position).magnitude >= 10)
+            {
+                count++;
+            }
+        }*/
+        //Debug.Log("Missing squares: " + count);
     }
 
     public List<GameObject> GetObjects()

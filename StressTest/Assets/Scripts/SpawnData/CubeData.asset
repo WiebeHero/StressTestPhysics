@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: CubeData
   m_EditorClassIdentifier: 
   prefab: {fileID: 1526688594233856014, guid: e54cd26937387f94f86d512be30385d6, type: 3}
-  spawnCount: 1500
+  spawnCount: 2000

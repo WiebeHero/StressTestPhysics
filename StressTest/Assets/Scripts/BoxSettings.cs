@@ -9,6 +9,8 @@ public class BoxSettings : MonoBehaviour
 {
     [SerializeField] private Animator _animator;
     [SerializeField] private SpawnInstances _instances;
+    [SerializeField] private int _sampleSize;
+    [SerializeField] private string _animation;
     private string assetPath = Application.streamingAssetsPath;
     private string[] totalData;
     private string[] frameData;
@@ -16,8 +18,8 @@ public class BoxSettings : MonoBehaviour
 
     private void Start()
     {
-        totalData = new string[2000];
-        frameData = new string[2000];
+        totalData = new string[_sampleSize];
+        frameData = new string[_sampleSize];
         StartCoroutine(StartAnimation());
         if (!Directory.Exists(assetPath))
             Directory.CreateDirectory(assetPath);
@@ -43,14 +45,14 @@ public class BoxSettings : MonoBehaviour
             rigid.isKinematic = false;
             rigid.detectCollisions = true;
         }
-        //_animator.SetTrigger("MoveAndRotate");
+        _animator.SetTrigger(_animation);
     }
 
     void Update()
     {
-        if (current >= totalData.Length)
-            return;
-        totalData[current] = "Frame: " + current + ", Time since last: " + Time.deltaTime;
+        if (current >= _sampleSize)
+            Application.Quit();
+        totalData[current] = current + ", " + Time.deltaTime;
         frameData[current] = Time.deltaTime + "";
         current++;
     }

@@ -1,16 +1,20 @@
-[gd_scene load_steps=8 format=3 uid="uid://cvukambln2smh"]
+[gd_scene load_steps=10 format=3 uid="uid://cvukambln2smh"]
 
 [ext_resource type="Script" path="res://test.gd" id="1_7ivw4"]
 [ext_resource type="Script" path="res://SpawnStuff.gd" id="1_hfe7v"]
+[ext_resource type="Script" path="res://BoogerScript.gd" id="2_vgp2t"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_gxwkr"]
+custom_solver_bias = 1.0
 
 [sub_resource type="BoxMesh" id="BoxMesh_th1rj"]
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_gxwkr"]
-size = Vector3(1.59993, 1.96703, 2.16438)
+[sub_resource type="BoxShape3D" id="BoxShape3D_mk8vw"]
 
 [sub_resource type="Animation" id="Animation_hyfhp"]
 resource_name = "Move"
 length = 6.0
+step = 1.0
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
@@ -66,80 +70,102 @@ script = ExtResource("1_7ivw4")
 [node name="Floor" type="Node3D" parent="Walls"]
 transform = Transform3D(30, 0, 0, 0, 6, 0, 0, 0, 30, 0, 0, 0)
 
-[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Floor"]
-mesh = SubResource("BoxMesh_th1rj")
+[node name="AnimatableBody3D" type="AnimatableBody3D" parent="Walls/Floor"]
+collision_priority = 1e+06
+sync_to_physics = false
 
-[node name="StaticBody3D" type="StaticBody3D" parent="Walls/Floor/MeshInstance3D"]
-
-[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Floor/MeshInstance3D/StaticBody3D"]
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Floor/AnimatableBody3D"]
 shape = SubResource("BoxShape3D_gxwkr")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Floor/AnimatableBody3D"]
+mesh = SubResource("BoxMesh_th1rj")
+skeleton = NodePath("../..")
 
 [node name="Floor2" type="Node3D" parent="Walls"]
 transform = Transform3D(30, 0, 0, 0, 6, 0, 0, 0, 30, 0, 15, 0)
 
-[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Floor2"]
-mesh = SubResource("BoxMesh_th1rj")
+[node name="AnimatableBody3D" type="AnimatableBody3D" parent="Walls/Floor2"]
+collision_priority = 1e+06
+sync_to_physics = false
 
-[node name="StaticBody3D" type="StaticBody3D" parent="Walls/Floor2/MeshInstance3D"]
-
-[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Floor2/MeshInstance3D/StaticBody3D"]
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Floor2/AnimatableBody3D"]
 shape = SubResource("BoxShape3D_gxwkr")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Floor2/AnimatableBody3D"]
+mesh = SubResource("BoxMesh_th1rj")
+skeleton = NodePath("../..")
 
 [node name="Wall2" type="Node3D" parent="Walls"]
 transform = Transform3D(6, 0, 0, 0, 15, 0, 0, 0, 30, 14.5, 8, 0)
 
-[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Wall2"]
-mesh = SubResource("BoxMesh_th1rj")
+[node name="AnimatableBody3D" type="AnimatableBody3D" parent="Walls/Wall2"]
+collision_priority = 1e+06
+sync_to_physics = false
 
-[node name="StaticBody3D" type="StaticBody3D" parent="Walls/Wall2/MeshInstance3D"]
-
-[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Wall2/MeshInstance3D/StaticBody3D"]
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Wall2/AnimatableBody3D"]
 shape = SubResource("BoxShape3D_gxwkr")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Wall2/AnimatableBody3D"]
+mesh = SubResource("BoxMesh_th1rj")
+skeleton = NodePath("../..")
 
 [node name="Wall3" type="Node3D" parent="Walls"]
 transform = Transform3D(6, 0, 0, 0, 15, 0, 0, 0, 30, -14.5, 8, 0)
 
-[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Wall3"]
-mesh = SubResource("BoxMesh_th1rj")
+[node name="AnimatableBody3D" type="AnimatableBody3D" parent="Walls/Wall3"]
+collision_priority = 1e+06
+sync_to_physics = false
 
-[node name="StaticBody3D" type="StaticBody3D" parent="Walls/Wall3/MeshInstance3D"]
-
-[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Wall3/MeshInstance3D/StaticBody3D"]
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Wall3/AnimatableBody3D"]
 shape = SubResource("BoxShape3D_gxwkr")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Wall3/AnimatableBody3D"]
+mesh = SubResource("BoxMesh_th1rj")
+skeleton = NodePath("../..")
 
 [node name="Wall4" type="Node3D" parent="Walls"]
 transform = Transform3D(30, 0, 0, 0, 15, 0, 0, 0, 6, 0, 8, -14.5)
 
-[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Wall4"]
-mesh = SubResource("BoxMesh_th1rj")
+[node name="AnimatableBody3D" type="AnimatableBody3D" parent="Walls/Wall4"]
+collision_priority = 1e+06
+sync_to_physics = false
 
-[node name="StaticBody3D" type="StaticBody3D" parent="Walls/Wall4/MeshInstance3D"]
-
-[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Wall4/MeshInstance3D/StaticBody3D"]
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Wall4/AnimatableBody3D"]
 shape = SubResource("BoxShape3D_gxwkr")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Wall4/AnimatableBody3D"]
+mesh = SubResource("BoxMesh_th1rj")
+skeleton = NodePath("../..")
 
 [node name="Wall5" type="Node3D" parent="Walls"]
 transform = Transform3D(30, 0, 0, 0, 15, 0, 0, 0, 6, 0, 8, 14.5)
 
-[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Wall5"]
+[node name="AnimatableBody3D" type="AnimatableBody3D" parent="Walls/Wall5"]
+collision_priority = 1e+06
+sync_to_physics = false
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Wall5/AnimatableBody3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.00414248, 0, 0)
+shape = SubResource("BoxShape3D_mk8vw")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Walls/Wall5/AnimatableBody3D"]
 mesh = SubResource("BoxMesh_th1rj")
-
-[node name="StaticBody3D" type="StaticBody3D" parent="Walls/Wall5/MeshInstance3D"]
-
-[node name="CollisionShape3D" type="CollisionShape3D" parent="Walls/Wall5/MeshInstance3D/StaticBody3D"]
-shape = SubResource("BoxShape3D_gxwkr")
+skeleton = NodePath("../..")
 
 [node name="OmniLight3D" type="OmniLight3D" parent="Walls"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 6.83628, 0)
 omni_range = 42.539
 omni_attenuation = 0.68302
 
-[node name="Camera3D" type="Camera3D" parent="Walls"]
-transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 6.61, -13.08)
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, -0.860209, 4.92377, -59.3271)
 current = true
+script = ExtResource("2_vgp2t")
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="Walls"]
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+root_node = NodePath("../Walls")
 playback_process_mode = 0
+method_call_mode = 1
 libraries = {
 "": SubResource("AnimationLibrary_dhf2q")
 }
@@ -147,7 +173,7 @@ libraries = {
 [node name="Spawner" type="Node3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.75, 6.71, 0.224)
 script = ExtResource("1_hfe7v")
-squares = 500
-spheres = 1500
+squares = 2000
+sampleSize = 1000
 
-[connection signal="animation_finished" from="Walls/AnimationPlayer" to="." method="_on_animation_player_animation_finished"]
+[connection signal="animation_finished" from="AnimationPlayer" to="." method="_on_animation_player_animation_finished"]

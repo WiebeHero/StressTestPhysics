@@ -1,10 +1,13 @@
 extends Node3D
 
 @export var squares:int
-@export var spheres:int
+
+@export var sampleSize:int
 
 var totalData:Array[String] = []
 var frameData:Array[String] = []
+
+var allSquares:Array[RigidBody3D] = []
 
 var current:int
 
@@ -16,13 +19,21 @@ func _ready():
 	for x in squares:
 		var newCube = square.instantiate()
 		add_child(newCube)
-	for x in spheres:
-		var newSphere = sphere.instantiate()
-		add_child(newSphere)
+		allSquares.append(newCube.get_child(0));
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 
 func _process(delta):
-	if totalData.size() >= 2000:
+	##var squareCount:int = 0;
+	##var sphereCount:int = 0;
+	##for x in allSquares:
+	##	if position.distance_to(x.position) > 40.0:
+	##		squareCount += 1;
+	##for x in allSpheres:
+	##	if position.distance_to(x.position) > 40.0:
+	##		sphereCount += 1;
+	##print("Missing squares: " + str(squareCount));
+	##print("Missing spheres: " + str(sphereCount));
+	if totalData.size() >= sampleSize:
 		save()
 		get_tree().quit()
 		return
