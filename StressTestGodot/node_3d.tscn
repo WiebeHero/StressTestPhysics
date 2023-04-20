@@ -1,8 +1,7 @@
-[gd_scene load_steps=10 format=3 uid="uid://cvukambln2smh"]
+[gd_scene load_steps=10 format=3 uid="uid://jmx7ujmd0dfe"]
 
-[ext_resource type="Script" path="res://test.gd" id="1_7ivw4"]
 [ext_resource type="Script" path="res://SpawnStuff.gd" id="1_hfe7v"]
-[ext_resource type="Script" path="res://BoogerScript.gd" id="2_vgp2t"]
+[ext_resource type="Script" path="res://Main.gd" id="1_smpoq"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_gxwkr"]
 custom_solver_bias = 1.0
@@ -10,6 +9,20 @@ custom_solver_bias = 1.0
 [sub_resource type="BoxMesh" id="BoxMesh_th1rj"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_mk8vw"]
+
+[sub_resource type="GDScript" id="GDScript_44un8"]
+script/source = "extends Camera3D
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta):
+	pass
+"
 
 [sub_resource type="Animation" id="Animation_hyfhp"]
 resource_name = "Move"
@@ -63,7 +76,8 @@ _data = {
 }
 
 [node name="Node3D" type="Node3D"]
-script = ExtResource("1_7ivw4")
+script = ExtResource("1_smpoq")
+animation = "Move"
 
 [node name="Walls" type="Node3D" parent="."]
 
@@ -157,10 +171,10 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 6.83628, 0)
 omni_range = 42.539
 omni_attenuation = 0.68302
 
-[node name="Camera3D" type="Camera3D" parent="."]
-transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, -0.860209, 4.92377, -59.3271)
+[node name="Camera3D" type="Camera3D" parent="Walls"]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, -0.860209, 4.92377, -12.2803)
 current = true
-script = ExtResource("2_vgp2t")
+script = SubResource("GDScript_44un8")
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 root_node = NodePath("../Walls")
