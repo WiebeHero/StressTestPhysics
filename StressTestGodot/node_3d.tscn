@@ -185,9 +185,9 @@ libraries = {
 }
 
 [node name="Spawner" type="Node3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.75, 6.71, 0.224)
+transform = Transform3D(0.999817, 0, 0.0191451, 0, 1, 0, -0.0191451, 0, 0.999817, -0.75, 6.71, 0.224)
 script = ExtResource("1_hfe7v")
-squares = 3000
+squares = 2000
 sampleSize = 1000
 
 [connection signal="animation_finished" from="AnimationPlayer" to="." method="_on_animation_player_animation_finished"]

@@ -20,7 +20,6 @@ func _ready():
 		var newCube = square.instantiate()
 		add_child(newCube)
 		allSquares.append(newCube.get_child(0));
-# Called every frame. 'delta' is the elapsed time since the previous frame.
 
 func _process(delta):
 	##var squareCount:int = 0;
@@ -37,8 +36,10 @@ func _process(delta):
 		save()
 		get_tree().quit()
 		return
-	totalData.append(str(current) + ',' + str(delta) + '\n')
-	frameData.append(str(delta) + '\n')
+	var monitor:float = Performance.get_monitor(Performance.TIME_PHYSICS_PROCESS)
+	##print("Time taken: " + str(monitor))
+	totalData.append(str(current) + ',' + str(monitor) + '\n')
+	frameData.append(str(monitor) + '\n')
 	current += 1
 
 func save():
