@@ -552,7 +552,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _animator: {fileID: 713090385}
   _instances: {fileID: 1556475003}
-  _sampleSize: 1000
+  _sampleSize: 500
   _animation: MoveAndRotate
 --- !u!1 &864648522
 GameObject:

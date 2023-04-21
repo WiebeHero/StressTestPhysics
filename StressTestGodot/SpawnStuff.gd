@@ -10,12 +10,14 @@ var frameData:Array[String] = []
 var allSquares:Array[RigidBody3D] = []
 
 var current:int
+var past:int;
 
 var square = preload('res://Square.tscn')
 var sphere = preload('res://Sphere.tscn')
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
+	past = Time.get_ticks_msec();
 	for x in squares:
 		var newCube = square.instantiate()
 		add_child(newCube)
@@ -36,10 +38,11 @@ func _process(delta):
 		save()
 		get_tree().quit()
 		return
-	var monitor:float = Performance.get_monitor(Performance.TIME_PHYSICS_PROCESS)
-	##print("Time taken: " + str(monitor))
-	totalData.append(str(current) + ',' + str(monitor) + '\n')
-	frameData.append(str(monitor) + '\n')
+	var now:int = Time.get_ticks_msec();
+	var difference:int = now - past;
+	past = now
+	totalData.append(str(current) + ',' + str(difference) + '\n')
+	frameData.append(str(difference) + '\n')
 	current += 1
 
 func save():

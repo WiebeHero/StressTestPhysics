@@ -17,6 +17,8 @@ public class BoxSettings : MonoBehaviour
     private string[] frameData;
     private int current;
 
+    private long past;
+
     private void Start()
     {
         totalData = new string[_sampleSize];
@@ -26,11 +28,11 @@ public class BoxSettings : MonoBehaviour
             Directory.CreateDirectory(assetPath);
         File.Create(assetPath + "/AllData.txt");
         File.Create(assetPath + "/FrameData.txt");
+        past = DateTimeOffset.Now.ToUnixTimeMilliseconds();
     }
     
     private void OnDisable()
     {
-        Debug.Log(totalData.Length);
         File.WriteAllLines(assetPath + "/AllData.txt", totalData);
         File.WriteAllLines(assetPath + "/FrameData.txt", frameData);
     }
@@ -53,8 +55,11 @@ public class BoxSettings : MonoBehaviour
     {
         if (current >= _sampleSize)
             Application.Quit();
-        totalData[current] = current + ", " + Time.deltaTime;
-        frameData[current] = Time.deltaTime + "";
+        long now = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+        long difference = now - past;
+        past = now;
+        totalData[current] = current + ", " + difference;
+        frameData[current] = difference + "";
         current++;
     }
     
