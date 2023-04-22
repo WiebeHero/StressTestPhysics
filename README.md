@@ -27,3 +27,7 @@ This was my plan from the start, and so, i started with setting my testing envir
 I set up the setup in Unity quite easily, you can see this in the repository itself. And creating the same testing scenario was not that difficult either inside of Godot. The process was moving along quickly. On top of this, to reproduce the same enviroment, i removed the skybox inside of unity (Godot as a standard doesnt have one.)
 
 # The testing, iteration 1.
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="StressTestPhysics/Images/GodotSetup.png">
+ <source media="(prefers-color-scheme: dark)" srcset="Unity testing scenario">
+</picture>
