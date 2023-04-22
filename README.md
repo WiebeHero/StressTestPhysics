@@ -28,6 +28,6 @@ I set up the setup in Unity quite easily, you can see this in the repository its
 
 # The testing, iteration 1.
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="StressTestPhysics/Images/GodotSetup.png">
+ <source media="(prefers-color-scheme: dark)" srcset="/Images/GodotSetup.png">
  <source media="(prefers-color-scheme: dark)" srcset="Unity testing scenario">
 </picture>
