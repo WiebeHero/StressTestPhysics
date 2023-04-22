@@ -24,6 +24,6 @@ So what i first started doing was work out the plan to actually start recording 
 
 This was my plan from the start, and so, i started with setting my testing enviroment in Unity, the engine i knew at the time. I decided to start with Unity due to the fact it is the engine i know the best. In the oncoming weeks, i would be working with Godot during my Personal Portfolio, from there on i would know enough about Godot to easily set up a testing enviroment like in Unity as well... Or so i thought, but we will get back to that.
 
-I set up the setup in Unity quite easily, you can see this in the repository itself. And creating the same testing scenario was not that difficult either inside of Godot. The process was moving along quickly.
+I set up the setup in Unity quite easily, you can see this in the repository itself. And creating the same testing scenario was not that difficult either inside of Godot. The process was moving along quickly. On top of this, to reproduce the same enviroment, i removed the skybox inside of unity (Godot as a standard doesnt have one.)
 
 # The testing, iteration 1.
